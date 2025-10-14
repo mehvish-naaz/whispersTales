@@ -1,0 +1,124 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --colour-bg: #ffe7e7;
+    --colour-nav: #e9969f;
+    --color-txt: #e79699;
+    --color-main: #564335;
+    --font-txt: Georgia, 'Times New Roman', Times, serif;
+    --font-heading: sans-serif;
+}
+
+.head{
+    font-family: Italianno , sans-serif;
+    font-size: 50px;
+    font-weight: 500;
+    color: var(--colour-nav);
+}
+header {
+    padding: 1rem 2rem;
+    justify-self: center;
+}
+
+nav {
+    background-color: var(--colour-bg);
+    padding: 2vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-family: var(--font-txt);
+    border: 1px solid var(--color-txt);
+}
+
+nav a {
+    color: var(--colour-nav);
+    margin-left: 1.5rem;
+    text-decoration: none;
+    font-weight: 1000;
+}
+
+nav a:hover {
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+
+.front {
+    height: 400px;
+    background-image: url(assets/16ca306373adb160d2ac4eb2d1059225.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.img{
+    border-radius:100%;
+}
+.intro {
+    width: 500px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.intro div {
+    font-family: lavishly yours, cursive;
+    font-size: 60px;
+    font-weight: 500;
+    color: var(--color-main);
+}
+
+.intro p {
+    font-size: 30px;
+    font-family: Tangerine;
+    font-weight: 300;
+}
+
+.intro button {
+    color: var(--color-main);
+    background-color: var(--colour-nav);
+    border-radius: 5px;
+    border: none;
+    padding: 5px 20px 5px 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+button:hover{
+    color: white;
+}
+
+.glass {
+    border-top: 2px solid #ffffff75;
+    border-left: 2px solid #ffffff75;
+    box-shadow: 5px 5px 12px #00000035;
+    background: #ffffff25;
+    border-radius: 15px;
+    overflow: hidden;
+    backdrop-filter: blur(4px);
+}
+
+@media (max-width: 768px) {
+
+    nav {
+        display: flex;
+        flex-direction: row;
+        gap: 5px;
+        font-size: smaller;
+    }
+
+    nav a {
+        margin-left: 0;
+    }
+
+}
