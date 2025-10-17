@@ -12,12 +12,13 @@ body {
     --font-heading: sans-serif;
 }
 
-.head{
-    font-family: Italianno , sans-serif;
+.head {
+    font-family: Italianno, sans-serif;
     font-size: 50px;
     font-weight: 500;
     color: var(--colour-nav);
 }
+
 header {
     padding: 1rem 2rem;
     justify-self: center;
@@ -46,7 +47,7 @@ nav a:hover {
     text-decoration-color: white;
 }
 
-.front {
+.home {
     height: 400px;
     background-image: url(assets/16ca306373adb160d2ac4eb2d1059225.jpg);
     background-size: cover;
@@ -57,12 +58,13 @@ nav a:hover {
     justify-content: space-around;
 }
 
-.img{
-    border-radius:100%;
+.book {
+    height: 300px;
+    border-radius: 100%;
 }
+
 .intro {
     width: 500px;
-    height: 250p;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -94,7 +96,7 @@ nav a:hover {
     font-weight: 500;
 }
 
-button:hover{
+button:hover {
     color: white;
 }
 
@@ -108,17 +110,40 @@ button:hover{
     backdrop-filter: blur(4px);
 }
 
-@media (max-width: 768px) {
-
+@media (max-width: 720px) {
     nav {
         display: flex;
         flex-direction: row;
-        gap: 5px;
-        font-size: smaller;
+        justify-content: space-between;
+        align-items: center;
+        font-size: 12px;
     }
 
-    nav a {
-        margin-left: 0;
+    .intro div {
+        font-size: 55px;
+        font-weight: 500;
     }
 
+    .book {
+        height: 200px;
+        width: 200px;
+    }
+}
+
+@media (max-width: 500px) {
+.intro {
+    height: 400px;
+}
+    .intro div {
+        font-size: 45px;
+        font-weight: 500;
+    }
+.intro p{
+    font-size: 20px;
+    
+}
+    .book {
+        height: 150px;
+        width: 150px;
+    }
 }
