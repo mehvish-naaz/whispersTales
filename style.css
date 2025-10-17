@@ -20,7 +20,7 @@ body {
 }
 
 header {
-    padding:10px;
+    padding: 10px;
     justify-self: center;
 }
 
@@ -101,18 +101,28 @@ button:hover {
 }
 
 @media (max-width: 720px) {
-    nav {
+        nav {
         font-size: 12px;
+    }
+    nav a {
+        margin-left: 0;
+    }
+    .intro {
+        height: 400px;
     }
 
     .intro div {
-        font-size: 55px;
+        font-size: 45px;
         font-weight: 500;
     }
 
+    .intro p {
+        font-size: 20px;
+
+    }
+
     .book {
-        height: 200px;
-        width: 200px;
+        height: 180px;
+        width: 180px;
     }
 }
-
