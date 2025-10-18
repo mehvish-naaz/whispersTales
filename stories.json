@@ -1,0 +1,1204 @@
+[
+  {
+    "id": 1,
+    "title": "The Devoted Friend",
+    "author": "Oscar Wilde",
+    "genre": "Allegorical story / Moral tale",
+    "summary": "Hans, a poor gardener, is exploited by his wealthy friend, the miller. The miller repeatedly asks Hans for help, pretending to be devoted, but never reciprocates. Hans ultimately sacrifices himself for his friends sake, highlighting the hypocrisy of false friendship.",
+    "file": "The Devoted Friend.txt"
+  },
+  {
+    "id": 2,
+    "title": "The Happy Prince",
+    "author": "Oscar Wilde",
+    "genre": "Fairy tale / Allegorical fiction",
+    "summary": "A golden statue of a prince overlooks a city and sees the suffering of its poor. With the help of a kind-hearted swallow, the prince gives away all his gold and jewels to help the needy, ultimately sacrificing himself for the welfare of others.",
+    "file": "The Happy Prince.txt"
+  },
+  {
+    "id": 3,
+    "title": "The Night And The Rose.",
+    "author": "Oscar Wilde",
+    "genre": "Fairy tale / Tragic romance",
+    "summary": "A student loves a girl but needs a red rose to win her heart. A nightingale sacrifices her life to create the rose by singing all night with her heart against a thorn. In the end, the girl rejects the rose, highlighting the tragedy of unappreciated sacrifice.",
+    "file": "The Night And The Rose.txt"
+  },
+    {
+    "id": 4,
+    "title": "The Remarkable Rocket.",
+    "author": "Oscar Wilde",
+    "genre": "Satirical fairy tale",
+    "summary": "A vain and pompous firework, the Rocket, believes himself destined for greatness. On the night of a royal wedding, he fails spectacularly because of his arrogance. The story humorously critiques pride and self-importance.",
+    "file": "The Remarkable Rocket.txt"
+  },
+  {
+    "id": 5,
+    "title": "The Selfish Giant",
+    "author": "Oscar Wilde",
+    "genre": ["Fairy tale", "Moral story"],
+    "summary": "A giant builds a wall around his garden to keep children out, causing eternal winter in his garden. When he eventually allows the children in, spring returns. He learns the joy of generosity and love before he dies.",
+    "file": "The Selfish Giant.txt"
+  },
+  {
+    "id": 6,
+    "title": "",
+    "author": "",
+    "genre": "none",
+    "summary": "A rainy night brings forgotten memories back.",
+    "file": ".txt"
+  },
+  {
+    "id": 7,
+    "title": "At the Bay",
+    "author": "Katherine Mansfield",
+    "genre": "Literary Fiction/ Modernist ",
+    "summary": "Depicts a day in the life of the Burnell family, exploring the nuances of family relationships, childhood, and domestic life.",
+    "file": "At the Bay.txt"
+  },
+  {
+    "id": 8,
+    "title": "The Garden-Party",
+    "author": "Katherine Mansfield",
+    "genre": "Literary Fiction/ Modernist ",
+    "summary": "Laura Burnell wrestles with class consciousness and mortality when a working-class neighbor dies during her family`s garden party.",
+    "file": "The Garden-Party.txt"
+  },
+  {
+    "id": 9,
+    "title": "The Daughters of the Late Colonel",
+    "author": "Katherine Mansfield",
+    "genre": "Literary Fiction/ Modernist ",
+    "summary": "Focuses on the lives of two sisters who struggle with freedom and indecision after their father`s death.",
+    "file": "The Daughters of the Late Colonel.txt"
+  },
+  {
+    "id": 10,
+    "title": "Mr. and Mrs. Dove",
+    "author": "Katherine Mansfield",
+    "genre": "Literary Fiction/ Modernist ",
+    "summary": "A story exploring the relationship and misunderstandings between a married couple, highlighting mundane domestic life.",
+    "file": "Mr. and Mrs. Dove.txt"
+  },
+  {
+    "id": 11,
+    "title": "The Young Girl",
+    "author": "Katherine Mansfield",
+    "genre": "Literary Fiction/ Modernist ",
+    "summary": "Explores a young girl`s perceptions of social class and personal identity in her daily life.",
+    "file": "The Young Girl.txt"
+  },
+  {
+    "id": 12,
+    "title": "Life of Ma Parker",
+    "author": "Katherine Mansfield",
+    "genre": "Literary Fiction/ Modernist ",
+    "summary": "Ma Parker, an elderly servant, reflects on her hardships and the emotional toll of poverty and loss.",
+    "file": "Life of Ma Parker.txt"
+  },
+  {
+    "id": 13,
+    "title": "Marriage à la Mode",
+    "author": "Katherine Mansfield",
+    "genre": "Literary Fiction/ Modernist ",
+    "summary": "Critiques the social conventions of marriage and the emotional distance between spouses.",
+    "file": "Marriage à la Mode.txt"
+  },
+  {
+    "id": 14,
+    "title": "The Voyage",
+    "author": "Katherine Mansfield",
+    "genre": "Literary Fiction/ Modernist ",
+    "summary": "A young girl travels to live with her estranged grandmother, exploring themes of displacement and emotional growth.",
+    "file": "The Voyage.txt"
+  },
+  {
+    "id": 15,
+    "title": "Miss Brill",
+    "author": "Katherine Mansfield",
+    "genre": "Literary Fiction/ Modernist ",
+    "summary": "Miss Brill, an isolated woman, observes people in a park and experiences the sting of loneliness and social alienation.",
+    "file": "Miss Brill.txt"
+  },
+  {
+    "id": 16,
+    "title": "Her First Ball",
+    "author": "Katherine Mansfield",
+    "genre": "Literary Fiction/ Modernist ",
+    "summary": "A young girl experiences her first dance, balancing excitement and a sudden awareness of life`s realities.",
+    "file": "Her First Ball.txt"
+  },
+  {
+    "id": 17,
+    "title": "The Singing Lesson",
+    "author": "Katherine Mansfield",
+    "genre": "Literary Fiction/ Modernist ",
+    "summary": "A music teacher navigates personal disappointment and fleeting moments of joy in her professional and emotional life.",
+    "file": "The Singing Lesson.txt"
+  },
+  {
+    "id": 18,
+    "title": "The Stranger",
+    "author": "Katherine Mansfield",
+    "genre": "Literary Fiction/ Modernist ",
+    "summary": "A woman meets a stranger at a party and reflects on her identity, loneliness, and human connections.",
+    "file": "The Stranger.txt"
+  },
+  {
+    "id": 19,
+    "title": "Bank Holiday",
+    "author": "Katherine Mansfield",
+    "genre": "Literary Fiction/ Modernist ",
+    "summary": "Explores family dynamics and social observation during a seaside bank holiday trip.",
+    "file": "Bank Holiday.txt"
+  },
+  {
+    "id": 20,
+    "title": "An Ideal Family",
+    "author": "Katherine Mansfield",
+    "genre": "Literary Fiction/ Modernist ",
+    "summary": "Examines the superficiality and underlying tensions within a supposedly perfect family.",
+    "file": "An Ideal Family.txt"
+  },
+  {
+    "id": 21,
+    "title": "The Lady`s Maid",
+    "author": "Katherine Mansfield",
+    "genre": "Literary Fiction/ Modernist ",
+    "summary": "Highlights class distinctions and the complex relationships between servants and employers.",
+    "file": "The Lady`s Maid.txt"
+  },
+  {
+  "id": 22,
+    "title": "The Lady with the Dog",
+    "author": "Anton Chekhov",
+    "genre": "Literary Fiction / Romance",
+    "summary": "A married man and a married woman meet while vacationing in Yalta and begin an affair that evolves into genuine love, exploring themes of loneliness and emotional awakening.",
+    "file": "The Lady with the Dog.txt"
+  },
+  {
+    "id": 23,
+    "title": "A Doctor's Visit",
+    "author": "Anton Chekhov",
+    "genre": "Literary Fiction / Psychological",
+    "summary": "A young doctor visits a wealthy factory owner`s ailing daughter and becomes deeply affected by her suffering and the emptiness of upper-class life.",
+    "file": "A Doctor's Visit.txt"
+  },
+  {
+    "id":24 ,
+    "title": "An Upheaval",
+    "author": "Anton Chekhov",
+    "genre": "Literary Fiction / Social Commentary",
+    "summary": "A governess feels humiliated when she is suspected of theft in her employer`s home, revealing class prejudice and the fragility of human dignity.",
+    "file": "An Upheaval.txt"
+  },
+  {
+    "id":25 ,
+    "title": "Ionitch",
+    "author": "Anton Chekhov",
+    "genre": "Literary Fiction / Realism",
+    "summary": "A hardworking doctor gradually becomes indifferent and materialistic as he grows disillusioned with life and love in a small provincial town.",
+    "file": "Ionitch.txt"
+  },
+  {
+    "id":26 ,
+    "title": "The Head of the Family",
+    "author": "Anton Chekhov",
+    "genre": "Literary Fiction / Domestic",
+    "summary": "A humorous and ironic look at family life, showing the struggles and contradictions of being the so-called `head` of a household.",
+    "file": "The Head of the Family.txt"
+  },
+  {
+    "id":27 ,
+    "title": "The Black Monk",
+    "author": "Anton Chekhov",
+    "genre": "Psychological Fiction / Fantasy",
+    "summary": "A scholar begins seeing visions of a mysterious black monk who tells him he is destined for greatness, blurring the line between genius and madness.",
+    "file": "The Black Monk.txt"
+  },
+  {
+    "id":28 ,
+    "title": "Volodya",
+    "author": "Anton Chekhov",
+    "genre": "Literary Fiction / Tragedy",
+    "summary": "A sensitive young man struggles with unrequited love and existential despair, leading to a tragic end that reflects the pain of youth and isolation.",
+    "file": "Volodya.txt"
+  },
+  {
+    "id":29 ,
+    "title": "An Anonymous Story",
+    "author": "Anton Chekhov",
+    "genre": "Political Fiction / Psychological",
+    "summary": "A revolutionary goes undercover as a servant in a government official`s home, only to become entangled in the emotional and moral complexities of his secret mission.",
+    "file": "An Anonymous Story.txt"
+  },
+  {
+    "title": "Boule de Suif",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction / Realism",
+    "summary": "During the Franco-Prussian War, a group of travelers ostracizes a kind prostitute, Boule de Suif, who sacrifices her dignity for their safety, revealing human hypocrisy and moral corruption."
+  },
+  {
+    "title": "Two Friends",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction / War",
+    "summary": "Two Parisian friends go fishing during the Franco-Prussian War and are captured by the enemy, facing their deaths with quiet bravery."
+  },
+  {
+    "title": "The Lancer's Wife",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction / War",
+    "summary": "A French lancer's wife shows remarkable courage and cunning when captured by Prussian soldiers, blending humor and patriotism."
+  },
+  {
+    "title": "The Prisoners",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction / War",
+    "summary": "Two French women captured by Prussian soldiers use wit and charm to regain their freedom, highlighting resilience amid war."
+  },
+  {
+    "title": "Two Little Soldiers",
+    "author": "Guy de Maupassant",
+    "genre": "Romance / Tragedy",
+    "summary": "Two simple soldiers who share innocent friendship and a love for a village girl face heartbreak when jealousy and betrayal strike."
+  },
+  {
+    "title": "Father Milon",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction / War",
+    "summary": "An old French farmer takes revenge on the Prussian soldiers occupying his village, embodying patriotism and sacrifice."
+  },
+  {
+    "title": "A Coup d'État",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction / Satire",
+    "summary": "A satirical account of French villagers’ reaction to the Franco-Prussian War, exposing cowardice, opportunism, and moral weakness."
+  },
+  {
+    "title": "Lieutenant Lare's Marriage",
+    "author": "Guy de Maupassant",
+    "genre": "Romance / Realism",
+    "summary": "A cynical look at love and marriage as Lieutenant Lare navigates societal expectations and personal ambition."
+  },
+  {
+    "title": "The Horrible",
+    "author": "Guy de Maupassant",
+    "genre": "Horror / Psychological Fiction",
+    "summary": "A priest recounts a terrifying and tragic event involving murder and madness, exploring the darkness of the human mind."
+  },
+  {
+    "title": "Madame Parisse",
+    "author": "Guy de Maupassant",
+    "genre": "Romance / Realism",
+    "summary": "A tale of love, infidelity, and regret, as a woman reflects on her past affair with a young officer during a seaside vacation."
+  },
+  {
+    "title": "Mademoiselle Fifi",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction / War",
+    "summary": "During the Prussian occupation, a defiant French prostitute kills a cruel officer nicknamed 'Mademoiselle Fifi,' symbolizing resistance and national pride."
+  },
+  {
+    "title": "A Duel",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction / War",
+    "summary": "A French civilian, humiliated by a Prussian officer, is forced into a duel that becomes a symbol of personal courage and patriotic defiance."
+  },
+  {
+    "title": "The Colonel's Ideas",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A retired French colonel reflects on patriotism, war, and the decline of national honor, exposing the ironies of pride and aging."
+  },
+  {
+    "title": "Mother Sauvage",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction / War",
+    "summary": "A French woman shelters Prussian soldiers during the war but takes terrible revenge after learning her son has been killed by them."
+  },
+  {
+    "title": "Epiphany",
+    "author": "Guy de Maupassant",
+    "genre": "Romance / Realism",
+    "summary": "A priest recalls a moment of human tenderness and love he once experienced, contrasting spiritual duty with emotional longing."
+  },
+  {
+    "title": "The Mustache",
+    "author": "Guy de Maupassant",
+    "genre": "Romance / Satire",
+    "summary": "A humorous story about jealousy and vanity, centered on a husband’s irrational reaction to his wife’s innocent affection for a man with a mustache."
+  },
+  {
+    "title": "Madame Baptiste",
+    "author": "Guy de Maupassant",
+    "genre": "Romance / Tragedy",
+    "summary": "A woman’s reputation is ruined by an event from her past, showing the cruelty of gossip and society’s unforgiving nature."
+  },
+  {
+    "title": "The Question of Latin",
+    "author": "Guy de Maupassant",
+    "genre": "Satire / Realism",
+    "summary": "A witty critique of the French education system, mocking the rigid teaching of Latin and outdated academic traditions."
+  },
+  {
+    "title": "A Meeting",
+    "author": "Guy de Maupassant",
+    "genre": "Romance / Realism",
+    "summary": "A man unexpectedly reunites with a former lover, reflecting on lost love and the passage of time with quiet melancholy."
+  },
+  {
+    "title": "The Blind Man",
+    "author": "Guy de Maupassant",
+    "genre": "Psychological Fiction / Tragedy",
+    "summary": "A blind man’s suffering and dependence evoke pity and horror, exploring the cruelty of fate and human indifference."
+  },
+  {
+    "title": "Indiscretion",
+    "author": "Guy de Maupassant",
+    "genre": "Romance / Satire",
+    "summary": "A playful tale where a husband’s curiosity and jealousy lead to ironic revelations about love and secrecy."
+  },
+  {
+    "title": "A Family Affair",
+    "author": "Guy de Maupassant",
+    "genre": "Realism / Satire",
+    "summary": "A darkly comic look at greed and hypocrisy within a family fighting over inheritance."
+  },
+  {
+    "title": "Beside Schopenhauer's Corpse",
+    "author": "Guy de Maupassant",
+    "genre": "Philosophical Fiction / Psychological",
+    "summary": "A story about death, philosophy, and human vanity, as a man reflects on life while standing beside Schopenhauer’s corpse."
+  },
+  {
+    "title": "Miss Harriet",
+    "author": "Guy de Maupassant",
+    "genre": "Romance / Tragedy",
+    "summary": "A lonely Englishwoman living in rural France falls in love with a young artist, leading to an unrequited and tragic end."
+  },
+  {
+    "title": "Little Louise Roque",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction / Tragedy",
+    "summary": "A young village girl’s disappearance and death reveal the corruption and cruelty lurking beneath rural innocence."
+  },
+  {
+    "title": "The Donkey",
+    "author": "Guy de Maupassant",
+    "genre": "Satire / Realism",
+    "summary": "A humorous yet biting tale about greed and hypocrisy, as villagers exploit a donkey’s death for their own gain."
+  },
+  {
+    "title": "Moiron",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "An old soldier recounts his loyalty and sacrifices during France’s wars, reflecting on honor and the futility of conflict."
+  },
+  {
+    "title": "The Dispenser of Holy Water",
+    "author": "Guy de Maupassant",
+    "genre": "Romance / Realism",
+    "summary": "A sacristan secretly falls in love with a woman who visits his church, blending humor with tender human observation."
+  },
+  {
+    "title": "A Parricide",
+    "author": "Guy de Maupassant",
+    "genre": "Horror / Psychological",
+    "summary": "A shocking story about a young man who murders his father, exposing madness, guilt, and moral decay."
+  },
+  {
+    "title": "Bertha",
+    "author": "Guy de Maupassant",
+    "genre": "Romance / Tragedy",
+    "summary": "A woman trapped in a passionless marriage seeks freedom through love, leading to heartbreak and despair."
+  },
+  {
+    "title": "The Patron",
+    "author": "Guy de Maupassant",
+    "genre": "Realism / Satire",
+    "summary": "A restaurant owner’s greed and vanity are exposed in a sharp social commentary on human selfishness."
+  },
+  {
+    "title": "The Door",
+    "author": "Guy de Maupassant",
+    "genre": "Horror / Mystery",
+    "summary": "A chilling tale of paranoia and fear, as a man becomes obsessed with a mysterious door and what lies beyond it."
+  },
+  {
+    "title": "A Sale",
+    "author": "Guy de Maupassant",
+    "genre": "Romance / Realism",
+    "summary": "A witty tale of a woman negotiating love and money, revealing the transactional nature of relationships in high society."
+  },
+  {
+    "title": "The Impolite Sex",
+    "author": "Guy de Maupassant",
+    "genre": "Romance / Satire",
+    "summary": "A humorous commentary on the differences between men and women, poking fun at romantic and social expectations."
+  },
+  {
+    "title": "A Wedding Gift",
+    "author": "Guy de Maupassant",
+    "genre": "Romance / Tragedy",
+    "summary": "A seemingly happy wedding hides betrayal and sorrow when a cruel discovery ruins a bride’s new life."
+  },
+  {
+    "title": "The Relic",
+    "author": "Guy de Maupassant",
+    "genre": "Satire / Romance",
+    "summary": "A mischievous man tricks a pious woman with a fake religious relic, mocking faith, love, and gullibility with dark humor."
+  },
+  {
+    "title": "The Moribund",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A farmer on his deathbed reflects on a life of hardship and duty, revealing the quiet resignation of rural existence."
+  },
+  {
+    "title": "The Gamekeeper",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A loyal gamekeeper faces moral conflict when his devotion to his master is tested by human weakness and cruelty."
+  },
+  {
+    "title": "The Story of a Farm Girl",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A naive peasant girl falls for a deceitful man, leading to betrayal, loss, and a stark portrayal of rural injustice."
+  },
+  {
+    "title": "The Wreck",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A man recalls a tragic shipwreck where love and death intertwine in a haunting story of fate and memory."
+  },
+  {
+    "title": "Theodule Sabot's Confession",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A humorous tale in which a pious carpenter makes an unexpected confession that exposes his human flaws."
+  },
+  {
+    "title": "The Wrong House",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A darkly comic misunderstanding arises when a man mistakenly enters the wrong house, leading to absurd consequences."
+  },
+  {
+    "title": "The Diamond Necklace",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A woman’s desire for wealth and status ends in tragedy when she loses a borrowed necklace and sacrifices her life to replace it."
+  },
+  {
+    "title": "The Marquis de Fumerol",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A satire on religious hypocrisy as a nobleman’s death stirs tension between faith, pride, and family honor."
+  },
+  {
+    "title": "The Trip of Le Horla",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A man’s sailing adventure turns eerie and introspective, hinting at the supernatural themes Maupassant would later explore in 'Le Horla'."
+  },
+  {
+    "title": "Farewell!",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A poignant war story about two old soldiers recalling lost youth, friendship, and the pain of saying goodbye."
+  },
+  {
+    "title": "The Wolf",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "Two brothers’ obsession with hunting a ferocious wolf becomes a symbol of courage, pride, and fatal folly."
+  },
+  {
+    "title": "The Inn",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A chilling tale of isolation as two men guard a mountain inn through the winter, until loneliness drives one to madness."
+  },
+  {
+    "title": "Monsieur Parent",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A tragic story of a gentle husband betrayed by his wife, exploring family dishonor, heartbreak, and human weakness."
+  },
+  {
+    "title": "Queen Hortense",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "An ironic tale about a former courtesan who clings to her past glory while facing the harsh reality of aging and loss."
+  },
+  {
+    "title": "Timbuctoo",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A soldier's humorous and bittersweet confession reveals how an imaginary adventure to Timbuctoo changes his dull life."
+  },
+  {
+    "title": "Tombstones",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A satirical look at human vanity and hypocrisy, as an undertaker reflects on how even in death, people crave prestige."
+  },
+  {
+    "title": "Mademoiselle Pearl",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A touching story of an orphan woman’s quiet devotion to the family that raised her, capturing love, sacrifice, and unspoken longing."
+  },
+  {
+    "title": "The Thief",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A moral parable about greed and justice, where a small theft exposes society’s deeper corruption and hypocrisy."
+  },
+  {
+    "title": "Clair de Lune",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A priest recounts a romantic and haunting moonlit memory from his youth, torn between desire and duty."
+  },
+  {
+    "title": "Waiter, a “Bock”",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "In a Paris café, a man’s casual drink leads to an unexpected story of lost love and haunting memory."
+  },
+  {
+    "title": "After",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A somber reflection on death and grief, showing how the loss of a loved one reshapes a man’s world forever."
+  },
+  {
+    "title": "Forgiveness",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A woman faces her husband’s betrayal and must choose between vengeance and compassion in a deeply emotional moral conflict."
+  },
+  {
+    "title": "In the Spring",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A melancholic story contrasting the renewal of spring with human sorrow and the passage of time."
+  },
+  {
+    "title": "A Queer Night in Paris",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A humorous yet poignant adventure of a poor clerk who experiences a night of strange misfortune and irony in the streets of Paris."
+  },
+  {
+    "title": "That Costly Ride",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A tale about the price of pride and impulsive decisions, showing how a moment of recklessness can lead to regret and loss."
+  },
+  {
+    "title": "Useless Beauty",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A countess challenges her husband's possessive ideals by revealing a shocking truth about motherhood and individuality."
+  },
+  {
+    "title": "The Father",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A moving story about a father’s love and the harsh realities of war and social class."
+  },
+  {
+    "title": "My Uncle Sosthenes",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A humorous portrait of a self-righteous man whose foolish pride leads to comic embarrassment."
+  },
+  {
+    "title": "The Baroness",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A sharp commentary on class and hypocrisy as a noblewoman’s affair exposes the fragility of social respectability."
+  },
+  {
+    "title": "Mother and Son",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A tender yet tragic story of maternal love strained by poverty and separation."
+  },
+  {
+    "title": "The Hand",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A chilling tale about a man obsessed with a severed hand, blending realism with eerie psychological horror."
+  },
+  {
+    "title": "A Tress of Hair",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A collector discovers a lock of hair hidden in an antique desk, uncovering a haunting love story from the past."
+  },
+  {
+    "title": "On the River",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "Two men reflect on life and loneliness while drifting on a quiet river, blending nostalgia with melancholy."
+  },
+  {
+    "title": "The Cripple",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A story about cruelty and human indifference as a disabled man becomes a target of mockery and pity."
+  },
+  {
+    "title": "A Stroll",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A peaceful walk turns into an introspective reflection on life’s fleeting beauty and inevitable decay."
+  },
+  {
+    "title": "Alexandre",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A domestic servant’s tale of loyalty, humor, and unexpected wisdom, told with Maupassant’s characteristic irony."
+  },
+  {
+    "title": "The Log",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A simple countryside event—cutting a log—unfolds into a deeper story about memory, hardship, and human connection."
+  },
+  {
+    "title": "Julie Romain",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A young woman’s romantic illusions collide with harsh reality in this tale of love, betrayal, and disillusionment."
+  },
+  {
+    "title": "The Rondoli Sisters",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A humorous and sensual travel story about love, lust, and the unpredictability of human desire."
+  },
+  {
+    "title": "The False Gems",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A man discovers that his late wife’s seemingly worthless jewelry was real, leading him to an ironic reflection on love and deception."
+  },
+  {
+    "title": "Fascination",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A study of passion and manipulation as a man becomes dangerously captivated by a woman’s charm and mystery."
+  },
+  {
+    "title": "Yvette Samoris",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A story of a young woman torn between innocence and the moral corruption of Parisian high society."
+  },
+  {
+    "title": "A Vendetta",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A widow vows to avenge her son’s murder using her cunning and an unexpected ally—her faithful dog."
+  },
+  {
+    "title": "My Twenty-Five Days",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A soldier’s humorous account of boredom and absurdity during his military service in a dull provincial town."
+  },
+  {
+    "title": "The Terror",
+    "author": "Guy de Maupassant",
+    "genre": "Horror",
+    "summary": "A chilling tale of psychological dread as a man recounts his growing fear of an unseen presence haunting him at night."
+  },
+  {
+    "title": "Legend of Mont St. Michel",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A monk narrates a local legend blending faith, folklore, and the mystical history of Mont Saint-Michel."
+  },
+  {
+    "title": "A New Year's Gift",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A poignant story about generosity, irony, and human misunderstanding during the holiday season."
+  },
+  {
+    "title": "Friend Patience",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A nostalgic reflection on friendship and lost time through the eyes of two aging companions."
+  },
+  {
+    "title": "Abandoned",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A woman abandoned by her lover confronts the pain of betrayal and the social judgment that follows."
+  },
+  {
+    "title": "The Maison Tellier",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A group of women from a provincial brothel experience unexpected tenderness and spirituality during a trip to a First Communion."
+  },
+  {
+    "title": "Denis",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A simple servant’s life becomes a gentle yet powerful story about devotion, simplicity, and human dignity."
+  },
+  {
+    "title": "My Wife",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A humorous account of marital life, exploring jealousy, affection, and the oddities of domestic relationships."
+  },
+  {
+    "title": "The Unknown",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A philosophical tale questioning identity, solitude, and the mysteries of the human soul."
+  },
+  {
+    "title": "The Apparition",
+    "author": "Guy de Maupassant",
+    "genre": "Horror",
+    "summary": "A chilling ghost story about a man who encounters the supernatural while visiting a friend’s home in the countryside."
+  },
+  {
+    "title": "Toine",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A humorous yet touching story of an innkeeper bedridden after a stroke, who refuses to give up his zest for life and work."
+  },
+  {
+    "title": "Madame Husson's “Rosier”",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "In a small town, a competition to find the most virtuous young woman takes an unexpected turn when an unlikely man wins instead."
+  },
+  {
+    "title": "The Adopted Son",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A peasant couple adopts a boy out of kindness, only to face heartbreak when he abandons them for ambition and pride."
+  },
+  {
+    "title": "Coward",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A man confronts his fear of death before a duel, revealing the fragility of courage and the human instinct for survival."
+  },
+  {
+    "title": "Old Mongilet",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A gentle office worker finally enjoys a long-awaited promotion, only for fate to play a darkly ironic twist."
+  },
+  {
+    "title": "Moonlight",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "Under the moonlight, a woman confesses to a priest about love, regret, and the emotional conflict between sin and beauty."
+  },
+  {
+    "title": "The First Snowfall",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A melancholic story of a woman who finds the charm of winter shattered by personal loss and emotional isolation."
+  },
+  {
+    "title": "Sundays of a Bourgeois",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A satirical look at middle-class boredom and hypocrisy through the monotonous Sunday rituals of a self-satisfied man."
+  },
+  {
+    "title": "A Recollection",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "Two old friends reminisce about their youthful escapades, revealing both nostalgia and the emptiness of time passed."
+  },
+  {
+    "title": "Our Letters",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "An emotional tale told through letters between lovers, capturing intimacy, distance, and the slow fading of affection."
+  },
+  {
+    "title": "The Love of Long Ago",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A chance encounter revives an old love, reminding two people of the warmth and sorrow of what once was."
+  },
+  {
+    "title": "Friend Joseph",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A loyal servant’s simple honesty and devotion contrast sharply with the corruption of his social superiors."
+  },
+  {
+    "title": "The Effeminates",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A sharp satire of modern men’s loss of strength and virtue, criticizing vanity and moral decline in society."
+  },
+  {
+    "title": "Old Amable",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A somber story of a father’s bitterness and pride, showing the emotional isolation that can come with age and resentment."
+  },
+  {
+    "title": "The Christening",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A humorous and ironic look at small-town life, where a simple christening turns into an event of misunderstandings and gossip."
+  },
+  {
+    "title": "The Farmer's Wife",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A tale of rural love and loss, showing the emotional resilience and quiet strength of a peasant woman."
+  },
+  {
+    "title": "The Devil",
+    "author": "Guy de Maupassant",
+    "genre": "Horror",
+    "summary": "A chilling story where an old woman encounters a mysterious stranger who reveals the darker side of human greed and sin."
+  },
+  {
+    "title": "The Snipe",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A lighthearted rural tale that turns unexpectedly reflective, revealing Maupassant’s insight into human folly and pride."
+  },
+  {
+    "title": "The Will",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A man’s last testament exposes family hypocrisy and greed, blending irony with a dark sense of justice."
+  },
+  {
+    "title": "Walter Schnaffs' Adventure",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A comical story of a German soldier lost in France, whose cowardice leads to an unexpected twist of fate."
+  },
+  {
+    "title": "At Sea",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A simple yet tragic story of fishermen forced to make a devastating decision while trapped on the open sea."
+  },
+  {
+    "title": "Minuet",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A nostalgic story about an old couple who dance together, clinging to memories of youth and love amid aging and decay."
+  },
+  {
+    "title": "The Son",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A moving story about family, secrecy, and forgiveness as a mother faces the consequences of her hidden past."
+  },
+  {
+    "title": "That Pig of a Morin",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A humorous tale about a man whose impulsive act on a train leads to scandal and ridicule in his small town."
+  },
+  {
+    "title": "Saint Anthony",
+    "author": "Guy de Maupassant",
+    "genre": "Fantasy",
+    "summary": "A poetic and symbolic tale reflecting on temptation, faith, and the eternal battle between the spiritual and the sensual."
+  },
+  {
+    "title": "Lasting Love",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "An ironic look at aging lovers who cling to their past affection while struggling with vanity and the passage of time."
+  },
+  {
+    "title": "Pierrot",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A heart-wrenching story about a poor woman’s attempt to save her little dog, exposing human cruelty and moral indifference."
+  },
+  {
+    "title": "A Normandy Joke",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A lighthearted story of rural trickery and wit, illustrating Maupassant’s gift for portraying peasant humor."
+  },
+  {
+    "title": "Father Matthew",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A tender yet somber story of an aging priest reflecting on his faith, loneliness, and the quiet sadness of service."
+  },
+  {
+    "title": "The Umbrella",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A humorous and ironic tale where an ordinary umbrella sparks unexpected social embarrassment and human folly."
+  },
+  {
+    "title": "Belhomme's Beast",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A comic story of jealousy and obsession when a man’s pride is challenged by a strange and unruly animal."
+  },
+  {
+    "title": "Discovery",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A brief story of a man’s encounter with a mysterious event that reveals human greed and curiosity."
+  },
+  {
+    "title": "The Accursed Bread",
+    "author": "Guy de Maupassant",
+    "genre": "Horror",
+    "summary": "A dark story where a cursed loaf brings misfortune, emphasizing Maupassant’s interest in fate and supernatural dread."
+  },
+  {
+    "title": "The Dowry",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A tale of greed and marital arrangements, where material wealth complicates love and family relations."
+  },
+  {
+    "title": "The Diary of a Madman",
+    "author": "Guy de Maupassant",
+    "genre": "Horror",
+    "summary": "A chilling psychological story of madness and obsession revealed through the writings of an unbalanced mind."
+  },
+  {
+    "title": "The Mask",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A satirical tale exploring vanity, social facades, and the deceptive nature of appearances."
+  },
+  {
+    "title": "The Penguins' Rock",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A whimsical narrative reflecting on nature and human curiosity, with Maupassant’s gentle humor."
+  },
+  {
+    "title": "A Family",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A story exposing family dynamics, greed, and hypocrisy, typical of Maupassant’s social realism."
+  },
+  {
+    "title": "Suicides",
+    "author": "Guy de Maupassant",
+    "genre": "Horror",
+    "summary": "A dark narrative exploring despair, fate, and the tragic choices of individuals in desperate circumstances."
+  },
+  {
+    "title": "An Artifice",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A clever story of deception and trickery, examining human vanity and cunning."
+  },
+  {
+    "title": "Dreams",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A poetic story where a man reflects on his hopes and desires, blending nostalgia with the melancholy of lost opportunities."
+  },
+  {
+    "title": "Simon's Papa",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A humorous story of paternal authority and the everyday misadventures of a small-town father."
+  },
+  {
+    "title": "The Child",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A poignant tale focusing on childhood innocence and the harsh lessons of adult life."
+  },
+  {
+    "title": "A Country Excursion",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A short travel story exploring rural life, simple pleasures, and subtle social observations."
+  },
+  {
+    "title": "Rose",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A tender romance portraying love, jealousy, and societal constraints in a provincial setting."
+  },
+  {
+    "title": "Rosalie Prudent",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A story of a young woman navigating love and societal pressures, showing Maupassant’s realist touch."
+  },
+  {
+    "title": "Regret",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A melancholy story reflecting on missed opportunities and the passage of time."
+  },
+  {
+    "title": "A Sister's Confession",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A dramatic tale of family secrets, guilt, and reconciliation revealed through a sister’s confession."
+  },
+  {
+    "title": "Coco",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A humorous yet affectionate story about a mischievous child and the adults who deal with her antics."
+  },
+  {
+    "title": "Dead Woman's Secret",
+    "author": "Guy de Maupassant",
+    "genre": "Horror",
+    "summary": "A mysterious story of a woman’s hidden past that emerges after her death, filled with suspense and dark revelations."
+  },
+  {
+    "title": "A Humble Drama",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A short, realistic tale highlighting the quiet struggles and moral dilemmas of ordinary people."
+  },
+  {
+    "title": "Mademoiselle Cocotte",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A witty story of a young woman navigating love, desire, and societal expectations in a provincial town."
+  },
+  {
+    "title": "The Corsican Bandit",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "An adventurous tale of crime and cunning in Corsica, blending suspense with Maupassant’s realism."
+  },
+  {
+    "title": "The Grave",
+    "author": "Guy de Maupassant",
+    "genre": "Horror",
+    "summary": "A chilling story of death and superstition, examining human fear and the eerie power of graves and memory."
+  },
+  {
+    "title": "Old Judas",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A story of betrayal, human greed, and the social dynamics of a small town, showing Maupassant’s sharp realism."
+  },
+  {
+    "title": "The Little Cask",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A humorous tale of a man’s obsession with a wine cask, highlighting human folly and everyday vices."
+  },
+  {
+    "title": "Boitelle",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A whimsical story of a naive man’s adventures and misunderstandings, capturing the lighter side of provincial life."
+  },
+  {
+    "title": "A Widow",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A poignant story exploring grief, loneliness, and social expectations faced by a recently widowed woman."
+  },
+  {
+    "title": "The Englishman of Etretat",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A story mixing cultural observation with subtle humor, focusing on the quirks of a visiting Englishman in Normandy."
+  },
+  {
+    "title": "Magnetism",
+    "author": "Guy de Maupassant",
+    "genre": "Fantasy",
+    "summary": "A tale of mysterious powers and psychological manipulation, blending the supernatural with human obsession."
+  },
+  {
+    "title": "A Father's Confession",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A father reveals a long-held secret, exposing the complexity of family relationships and moral responsibility."
+  },
+  {
+    "title": "A Mother of Monsters",
+    "author": "Guy de Maupassant",
+    "genre": "Horror",
+    "summary": "A disturbing story of maternal cruelty and the monstrous consequences of unchecked violence within a family."
+  },
+  {
+    "title": "An Uncomfortable Bed",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A humorous tale highlighting the absurdities of social etiquette and human discomfort in everyday life."
+  },
+  {
+    "title": "A Portrait",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A reflective story of memory and nostalgia, centered on a painting that evokes the past and lost love."
+  },
+  {
+    "title": "The Drunkard",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A moral tale depicting the downfall and social consequences of excessive drinking, illustrating human weakness."
+  },
+  {
+    "title": "The Wardrobe",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A domestic story where a simple wardrobe becomes a symbol of secrecy, envy, and social tension."
+  },
+  {
+    "title": "The Mountain Pool",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A serene yet contemplative tale of nature, human reflection, and the fleeting beauty of rural landscapes."
+  },
+  {
+    "title": "A Cremation",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A story reflecting on mortality, societal customs, and the human confrontation with death."
+  },
+  {
+    "title": "Misti",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A humorous and lighthearted tale of love, misunderstanding, and whimsical adventures."
+  },
+  {
+    "title": "Madame Hermet",
+    "author": "Guy de Maupassant",
+    "genre": "Historical Fiction",
+    "summary": "A story of social ambition, vanity, and the emotional struggles of a provincial woman striving for respect."
+  },
+  {
+    "title": "The Magic Couch",
+    "author": "Guy de Maupassant",
+    "genre": "Fantasy",
+    "summary": "A short tale where a supernatural couch brings unexpected experiences, blending whimsy with the uncanny."
+  }
+
+
+
+
+]

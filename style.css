@@ -24,8 +24,9 @@ header {
     justify-self: center;
 }
 
-nav {
+nav ul{
     background-color: var(--colour-bg);
+    margin: 0;
     padding: 2vh;
     display: flex;
     flex-direction: row;
@@ -34,7 +35,9 @@ nav {
     font-family: var(--font-txt);
     border: 1px solid var(--color-txt);
 }
-
+nav ul li{
+    list-style: none;
+}
 nav a {
     color: var(--colour-nav);
     margin-left: 1.5rem;
@@ -85,8 +88,8 @@ nav a:hover {
     font-weight: 300;
 }
 
-.intro button {
-    color: var(--color-main);
+.intro button{
+    
     background-color: var(--colour-nav);
     border-radius: 5px;
     border: none;
@@ -95,18 +98,23 @@ nav a:hover {
     font-size: 15px;
     font-weight: 500;
 }
-
-button:hover {
+button a{
+    color: var(--color-main);
+    text-decoration: none;
+}
+button a:hover {
     color: white;
 }
 
 @media (max-width: 720px) {
-        nav {
+    nav {
         font-size: 12px;
     }
+
     nav a {
         margin-left: 0;
     }
+
     .intro {
         height: 400px;
     }
@@ -124,5 +132,121 @@ button:hover {
     .book {
         height: 180px;
         width: 180px;
+
     }
 }
+
+.stories {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    padding: 30px;
+}
+
+.story-card {
+    background: #fff8f8;
+    padding: 15px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, opacity 0.5s ease;
+    opacity: 1;
+}
+
+.story-card.fade-out {
+    opacity: 0;
+}
+
+.story-card:hover {
+    transform: translateY(-6px);
+}
+
+.story-card h3 {
+    color: #564335;
+    margin-bottom: 8px;
+}
+
+.story-card p {
+    color: #6b5b53;
+    font-size: 0.95rem;
+}
+
+.story-card a {
+    color: #e9969f;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.story-card a:hover {
+    text-decoration: underline;
+}
+
+#refreshBtn {
+    display: block;
+    margin: 30px auto;
+    padding: 10px 20px;
+    background: #e9969f;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background 0.3s ease;
+}
+
+#refreshBtn:hover {
+    background: #e9969f;
+    color: #564335;
+}
+
+#searchInput {
+    padding: 8px;
+    width: 180px;
+    margin-right: 5px;
+    border-radius: 15px;
+    border: 2px solid var(--colour-nav);
+
+}
+
+/* #authorInput {
+    padding: 8px;
+    width: 150px;
+    margin-right: 5px;
+} */
+
+#genreSelect {
+    padding: 8px;
+    width: 150px;
+    border-radius: 15px;
+    border-radius: 15px;
+    border: 2px solid var(--colour-nav);
+}
+
+#filters {
+    text-align: center;
+    margin: 20px;
+}
+
+#storyCount {
+    text-align: center;
+    margin-bottom: 10px;
+}
+.story-card.read {
+  opacity: 0.6;
+  background-color: #f0f0f0;
+}
+
+.mark-read-btn {
+  margin-top: 10px;
+  padding: 5px 10px;
+  cursor: pointer;
+  border: none;
+  background-color: #e9969f;
+  color: white;
+  border-radius: 6px;
+  transition: background 0.3s;
+}
+
+.mark-read-btn:hover {
+  background-color: #d87c85;
+}
+

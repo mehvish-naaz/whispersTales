@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Story</title>
+  <style>
+    body { font-family: Georgia, serif; margin: 40px; background: #fff8f8; color: #333; }
+    h1 { color: #564335; }
+    #story-content { white-space: pre-line; line-height: 1.6; margin-top: 20px; }
+    a { display: inline-block; margin-top: 20px; color: #e9969f; text-decoration: none; }
+  </style>
+</head>
+<body>
+
+  <a href="index.html">← Back to stories</a>
+  <h1 id="story-title"></h1>
+  <div id="story-content"></div>
+
+  <script>
+    async function loadStory() {
+      const params = new URLSearchParams(window.location.search);
+      const id = params.get("id");
+
+      const res = await fetch("stories.json");
+      const stories = await res.json();
+      const story = stories.find(s => s.id == id);
+
+      if (!story) {
+        document.getElementById("story-content").textContent = "Story not found.";
+        return;
+      }
+
+      document.getElementById("story-title").textContent = story.title;
+
+      const textRes = await fetch("stories/" + story.file);
+      const text = await textRes.text();
+      document.getElementById("story-content").textContent = text;
+    }
+
+    loadStory();
+  </script>
+
+</body>
+</html>

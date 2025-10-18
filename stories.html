@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All Stories</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="stories.html">Stories</a></li>
+            <li><a href="#">Categories</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+
+    <header>
+        <h1 style="text-align: center; color: #f19396;">All Stories</h1>
+        <div id="filters">
+            <input type="text" id="searchInput" placeholder="Search stories...">
+            <select id="genreSelect">
+                <option value="">All Genres</option>
+            </select>
+        </div>
+    </header>
+
+    <main id="storyContainer"></main>
+
+    <script>
+        let stories = [];
+
+        const container = document.getElementById('storyContainer');
+        const searchInput = document.getElementById('searchInput');
+        const genreSelect = document.getElementById('genreSelect');
+
+        // Fetch stories
+        fetch('stories.json')
+            .then(response => response.json())
+            .then(data => {
+                stories = data;
+
+                // Populate genre dropdown dynamically
+                const genresSet = new Set();
+                stories.forEach(s => {
+                    if (Array.isArray(s.genre)) {
+                        s.genre.forEach(g => genresSet.add(g));
+                    } else if (s.genre) {
+                        genresSet.add(s.genre);
+                    }
+                });
+                genresSet.forEach(g => {
+                    const option = document.createElement('option');
+                    option.value = g;
+                    option.textContent = g;
+                    genreSelect.appendChild(option);
+                });
+
+                displayStories(stories);
+            });
+
+        function displayStories(list) {
+            container.innerHTML = '';
+            list.forEach(story => {
+                const card = document.createElement('div');
+                card.className = 'story-card fade-out';
+
+                // Mark as read
+                const readStories = JSON.parse(localStorage.getItem("readStories") || "[]");
+                const isRead = readStories.includes(story.id);
+                if (isRead) card.classList.add("read");
+
+                card.innerHTML = `
+                    <h3>${story.title}</h3>
+                    <p><em>${Array.isArray(story.genre) ? story.genre.join(", ") : story.genre || ""} | ${story.author || ""}</em></p>
+                    <p>${story.summary || ""}</p>
+                    <a href="story.html?id=${story.id}">Read More →</a>
+                    <button class="mark-read-btn">${isRead ? "✔ Read" : "Mark as Read"}</button>
+                `;
+
+                container.appendChild(card);
+                setTimeout(() => card.classList.remove("fade-out"), 50);
+
+                const btn = card.querySelector(".mark-read-btn");
+                btn.addEventListener("click", () => {
+                    let readStories = JSON.parse(localStorage.getItem("readStories") || "[]");
+                    if (!readStories.includes(story.id)) {
+                        readStories.push(story.id);
+                        localStorage.setItem("readStories", JSON.stringify(readStories));
+                    }
+                    card.classList.add("read");
+                    btn.textContent = "✔ Read";
+                    btn.disabled = true;
+                });
+            });
+        }
+
+        // Search stories
+        searchInput.addEventListener('input', () => {
+            const term = searchInput.value.toLowerCase();
+            const filtered = stories.filter(s =>
+                s.title.toLowerCase().includes(term) || (s.author || "").toLowerCase().includes(term)
+            );
+            displayStories(filtered);
+        });
+
+        // Filter by genre
+        genreSelect.addEventListener('change', () => {
+            const genre = genreSelect.value;
+            const filtered = genre === "" ? stories : stories.filter(s =>
+                Array.isArray(s.genre) ? s.genre.includes(genre) : s.genre === genre
+            );
+            displayStories(filtered);
+        });
+    </script>
+
+</body>
+
+</html>

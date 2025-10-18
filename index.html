@@ -30,59 +30,43 @@
     </header>
     <section>
         <nav>
-            <a href="#">Home</a>
-            <a href="#">Stories</a>
-            <a href="#">Categories</a>
-            <a href="#">About</a>
-            <a href="#">Contact</a>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="stories.html">Stories</a></li>
+                <li><a href="#">Categories</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
         </nav>
     </section>
     <section class="home">
         <section class="intro">
             <div>Feel to the quiet world of stories</div>
             <p>Read, Enjoy, and get lost in Short Tales from all around the world.</p>
-            <button>Read</button>
+            <button><a href="stories.html">Read</a></button>
         </section>
         <div>
-            <img class="book" src="assets/f0b1b404a0a0ddf9085765d4a70e7d57.jpg" alt="book" >
+            <img class="book" src="assets/f0b1b404a0a0ddf9085765d4a70e7d57.jpg" alt="book">
         </div>
     </section>
+    <div id="filters">
+        <input type="text" id="searchInput" placeholder="Search stories...">
+        <!-- <input type="text" id="authorInput" placeholder="Author..."> -->
+        <select id="genreSelect">
+            <option value="">All Genres</option>
+        </select>
+    </div>
 
-    <section class="">
-        <h2>Stories</h2>
-        <div class="story-grid">
-            <div class="story-card">
-                <h3>Story Title 1</h3>
-                <p>Short description of story 1.</p>
-            </div>
-            <div class="story-card">
-                <h3>Story Title 2</h3>
-                <p>Short description of story 2.</p>
-            </div>
-            <div class="story-card">
-                <h3>Story Title 3</h3>
-                <p>Short description of story 3.</p>
-            </div>
-        </div>
-    </section>
+    <p id="storyCount"></p>
 
-    <section class="categories">
-        <h2>Explore Categories</h2>
-        <div class="category-list">
-            <div class="category">Horror</div>
-            <div class="category">Fantasy</div>
-            <div class="category">Romance</div>
-            <div class="category">Comedy</div>
-        </div>
-    </section>
+    <section id="storyContainer" class="stories"></section>
+    <button id="refreshBtn">Shuffle Stories</button>
+
+    <script src="script.js"></script>
 
     <footer>
         &copy; 2025 WhispersTales. All Rights Reserved.
     </footer>
-
 </body>
 
 </html>
-
-
-
