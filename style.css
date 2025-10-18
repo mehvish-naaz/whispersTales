@@ -5,7 +5,7 @@ body {
 
 :root {
     --colour-bg: #ffe7e7;
-    --colour-nav: #e9969f;
+    --colour-nav: #eb9ea1;
     --color-txt: #e79699;
     --color-main: #564335;
     --font-txt: Georgia, 'Times New Roman', Times, serif;
@@ -248,5 +248,28 @@ button a:hover {
 
 .mark-read-btn:hover {
   background-color: #d87c85;
+}
+.attribution {
+  background-color:#fff8f8;
+  color: #564335;
+  font-family: Georgia, 'Times New Roman', serif;
+  padding: 30px;
+  margin-top: 40px;
+  border-top: 2px solid #e9969f;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.attribution a {
+  color: #e79699;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.attribution a:hover {
+  text-decoration: underline;
+}
+footer{
+    text-align: center;
 }
 

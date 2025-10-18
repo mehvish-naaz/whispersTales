@@ -6,30 +6,36 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>All Stories</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Italianno&display=swap" rel="stylesheet">
 </head>
 
 <body>
 
+
+    <header>
+        <div class="head">WhispersTales</div>
+    </header>
     <nav>
         <ul>
             <li><a href="index.html">Home</a></li>
             <li><a href="stories.html">Stories</a></li>
-            <li><a href="#">Categories</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Contact</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="contact.html">Contact</a></li>
         </ul>
     </nav>
+    <h1 style="text-align: center; color: #f19396;">All Stories</h1>
 
-    <header>
-        <h1 style="text-align: center; color: #f19396;">All Stories</h1>
-        <div id="filters">
-            <input type="text" id="searchInput" placeholder="Search stories...">
-            <select id="genreSelect">
-                <option value="">All Genres</option>
-            </select>
-        </div>
-    </header>
 
+
+
+    <div id="filters">
+        <input type="text" id="searchInput" placeholder="Search stories...">
+        <select id="genreSelect">
+            <option value="">All Genres</option>
+        </select>
+    </div>
     <main id="storyContainer"></main>
 
     <script>
@@ -66,7 +72,11 @@
 
         function displayStories(list) {
             container.innerHTML = '';
-            list.forEach(story => {
+
+            // Sort alphabetically by title
+            list.sort((a, b) => a.title.localeCompare(b.title));
+
+            list.forEach((story, index) => {
                 const card = document.createElement('div');
                 card.className = 'story-card fade-out';
 
@@ -76,16 +86,17 @@
                 if (isRead) card.classList.add("read");
 
                 card.innerHTML = `
-                    <h3>${story.title}</h3>
-                    <p><em>${Array.isArray(story.genre) ? story.genre.join(", ") : story.genre || ""} | ${story.author || ""}</em></p>
-                    <p>${story.summary || ""}</p>
-                    <a href="story.html?id=${story.id}">Read More →</a>
-                    <button class="mark-read-btn">${isRead ? "✔ Read" : "Mark as Read"}</button>
-                `;
+            <h3>${index + 1}. ${story.title}</h3>
+            <p><em>${Array.isArray(story.genre) ? story.genre.join(", ") : story.genre || ""} | ${story.author || ""}</em></p>
+            <p>${story.summary || ""}</p>
+            <a href="story.html?id=${story.id}">Read More →</a>
+            <button class="mark-read-btn">${isRead ? "✔ Read" : "Mark as Read"}</button>
+        `;
 
                 container.appendChild(card);
                 setTimeout(() => card.classList.remove("fade-out"), 50);
 
+                // Mark as read button
                 const btn = card.querySelector(".mark-read-btn");
                 btn.addEventListener("click", () => {
                     let readStories = JSON.parse(localStorage.getItem("readStories") || "[]");
@@ -99,6 +110,7 @@
                 });
             });
         }
+
 
         // Search stories
         searchInput.addEventListener('input', () => {

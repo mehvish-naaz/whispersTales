@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact</title>
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Italianno&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<style>
+  .contact {
+  background-color: var(--colour-bg);
+  color: var(--color-main);
+  font-family: var(--font-txt);
+  padding: 50px 20px;
+  text-align: center;
+}
+
+.contact h2 {
+  font-family:Helvetica, sans-serif;
+  color: var(--color-main);
+  margin-bottom: 15px;
+}
+
+.contact p {
+  max-width: 600px;
+  margin: 0 auto 30px;
+  color: var(--color-main);
+}
+
+.contact form {
+  max-width: 500px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.contact input,
+.contact textarea {
+  padding: 10px 15px;
+  border: 1px solid #e9969f;
+  border-radius: 8px;
+  font-family: var(--font-txt);
+  font-size: 16px;
+  background-color: #fffaf9;
+  color: var(--color-main);
+}
+
+.contact button {
+  background-color: var(--colour-nav);
+  color: white;
+  border: none;
+  padding: 12px;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.contact button:hover {
+  background-color: #d17b84;
+}
+ul li{
+  list-style: none;;
+}
+a{
+  text-decoration: none;
+  color: #d17b84;
+}
+</style>
+</head>
+
+<body>
+    <header>
+        <div class="head">WhispersTales</div>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="stories.html">Stories</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+  <section class="contact" id="contact">
+    <h2>Contact Me</h2>
+<p>Whether you have feedback, questions, or ideas for stories, I’m always happy to hear from you! Fill out the form below and I’ll respond promptly. Your input helps make this site even better.</p>
+
+
+    <form action="https://formsubmit.co/kmehvishnaaz@gmail.com" method="POST">
+      <!-- formsubmit options -->
+      <input type="hidden" name="_captcha" value="false">
+      <label for="name">Your Name</label>
+      <input type="text" id="name" name="name" placeholder="Enter your name" required>
+
+      <label for="email">Your Email</label>
+      <input type="email" id="email" name="email" placeholder="Enter your email" required>
+
+      <label for="message">Message</label>
+      <textarea id="message" name="message" rows="5" placeholder="Write your message..." required></textarea>
+
+      <button type="submit">Send Message</button>
+    </form>
+    <h3>social media:</h3>
+    <div class="social-links">
+<ul>
+      <li><a href="https://kmehvishnaaz@gmail.com" target="_blank" rel="noopener noreferrer">Email_<img src="assets/download (2).png" alt="email" width="15px"></a></li>
+      <li><a href="https://github.com/mehvish-naaz" target="_blank" rel="noopener noreferrer">Github_ <img src="assets/download (1).png" alt="github" width="15px"></a></li>
+      <li><a href="https://www.linkedin.com/in/mehvish-naaz-khan-2484a537b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BBcQ088K5SOq9oYKBs%2FticQ%3D%3D"
+        target="_blank" rel="noopener noreferrer">LinkedIn_
+      <img src="assets/download.png" alt="linkedin" width="15px"></a></li>
+      </ul>
+    </div>
+  </section>
+
+
+</body>
+
+</html>
