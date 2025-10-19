@@ -6,13 +6,59 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>All Stories</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Italianno&display=swap" rel="stylesheet">
-        <style>
-        main{
-            margin-left:15px;
-            margin-right: 15px;
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Italianno&family=Quicksand:wght@300..700&display=swap" rel="stylesheet">
+    <style> 
+
+        #storyContainer {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            padding: 10px;
+        }
+
+        .story-card {
+            background-color: #fffaf9;
+            border: 1px solid #e9969f;
+            border-radius: 10px;
+            padding: 15px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s;
+        }
+
+        .story-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .story-card h3 {
+            font-family: Quicksand
+, cursive;
+            margin-bottom: 8px;
+        }
+
+        .story-card p {
+            margin-bottom: 10px;
+            color: #564335;
+        }
+
+        .story-card a {
+            display: inline-block;
+            margin-top: 5px;
+            color: #fff;
+            background-color: #e9969f;
+            padding: 8px 12px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .story-card a:hover {
+            background-color: #d17b84;
+        }
+
+        .story-card.read {
+            opacity: 0.7;
         }
     </style>
 </head>
