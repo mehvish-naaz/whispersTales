@@ -23,7 +23,7 @@
     "summary": "A student loves a girl but needs a red rose to win her heart. A nightingale sacrifices her life to create the rose by singing all night with her heart against a thorn. In the end, the girl rejects the rose, highlighting the tragedy of unappreciated sacrifice.",
     "file": "The Night And The Rose.txt"
   },
-    {
+  {
     "id": 4,
     "title": "The Remarkable Rocket.",
     "author": "Oscar Wilde",
@@ -35,17 +35,20 @@
     "id": 5,
     "title": "The Selfish Giant",
     "author": "Oscar Wilde",
-    "genre": ["Fairy tale", "Moral story"],
+    "genre": [
+      "Fairy tale",
+      "Moral story"
+    ],
     "summary": "A giant builds a wall around his garden to keep children out, causing eternal winter in his garden. When he eventually allows the children in, spring returns. He learns the joy of generosity and love before he dies.",
     "file": "The Selfish Giant.txt"
   },
   {
     "id": 6,
-    "title": "",
-    "author": "",
-    "genre": "none",
-    "summary": "A rainy night brings forgotten memories back.",
-    "file": ".txt"
+    "title": "The Clockmaker’s Promise",
+    "author": "Ai generated",
+    "genre": "Heartwarming Fiction",
+    "summary": "In a quiet village, an old clockmaker works for fifty years to repair clocks and fulfill a promise to his late wife, finding healing through helping a young girl.",
+    "file": "The Clockmaker’s Promise.txt"
   },
   {
     "id": 7,
@@ -168,7 +171,7 @@
     "file": "The Lady`s Maid.txt"
   },
   {
-  "id": 22,
+    "id": 22,
     "title": "The Lady with the Dog",
     "author": "Anton Chekhov",
     "genre": "Literary Fiction / Romance",
@@ -184,7 +187,7 @@
     "file": "A Doctor's Visit.txt"
   },
   {
-    "id":24 ,
+    "id": 24,
     "title": "An Upheaval",
     "author": "Anton Chekhov",
     "genre": "Literary Fiction / Social Commentary",
@@ -192,7 +195,7 @@
     "file": "An Upheaval.txt"
   },
   {
-    "id":25 ,
+    "id": 25,
     "title": "Ionitch",
     "author": "Anton Chekhov",
     "genre": "Literary Fiction / Realism",
@@ -200,7 +203,7 @@
     "file": "Ionitch.txt"
   },
   {
-    "id":26 ,
+    "id": 26,
     "title": "The Head of the Family",
     "author": "Anton Chekhov",
     "genre": "Literary Fiction / Domestic",
@@ -208,7 +211,7 @@
     "file": "The Head of the Family.txt"
   },
   {
-    "id":27 ,
+    "id": 27,
     "title": "The Black Monk",
     "author": "Anton Chekhov",
     "genre": "Psychological Fiction / Fantasy",
@@ -216,7 +219,7 @@
     "file": "The Black Monk.txt"
   },
   {
-    "id":28 ,
+    "id": 28,
     "title": "Volodya",
     "author": "Anton Chekhov",
     "genre": "Literary Fiction / Tragedy",
@@ -224,7 +227,7 @@
     "file": "Volodya.txt"
   },
   {
-    "id":29 ,
+    "id": 29,
     "title": "An Anonymous Story",
     "author": "Anton Chekhov",
     "genre": "Political Fiction / Psychological",
@@ -232,973 +235,2827 @@
     "file": "An Anonymous Story.txt"
   },
   {
+    "id": 30,
     "title": "Boule de Suif",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction / Realism",
-    "summary": "During the Franco-Prussian War, a group of travelers ostracizes a kind prostitute, Boule de Suif, who sacrifices her dignity for their safety, revealing human hypocrisy and moral corruption."
+    "summary": "During the Franco-Prussian War, a group of travelers ostracizes a kind prostitute, Boule de Suif, who sacrifices her dignity for their safety, revealing human hypocrisy and moral corruption.",
+    "file": "Boule de Suif.txt"
   },
   {
+    "id": 31,
     "title": "Two Friends",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction / War",
-    "summary": "Two Parisian friends go fishing during the Franco-Prussian War and are captured by the enemy, facing their deaths with quiet bravery."
+    "summary": "Two Parisian friends go fishing during the Franco-Prussian War and are captured by the enemy, facing their deaths with quiet bravery.",
+    "file": "Two Friends.txt"
   },
   {
+    "id": 32,
     "title": "The Lancer's Wife",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction / War",
-    "summary": "A French lancer's wife shows remarkable courage and cunning when captured by Prussian soldiers, blending humor and patriotism."
+    "summary": "A French lancer's wife shows remarkable courage and cunning when captured by Prussian soldiers, blending humor and patriotism.",
+    "file": "The Lancer's Wife.txt"
   },
   {
+    "id": 33,
     "title": "The Prisoners",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction / War",
-    "summary": "Two French women captured by Prussian soldiers use wit and charm to regain their freedom, highlighting resilience amid war."
+    "summary": "Two French women captured by Prussian soldiers use wit and charm to regain their freedom, highlighting resilience amid war.",
+    "file": "The Prisoners.txt"
   },
   {
+    "id": 34,
     "title": "Two Little Soldiers",
     "author": "Guy de Maupassant",
     "genre": "Romance / Tragedy",
-    "summary": "Two simple soldiers who share innocent friendship and a love for a village girl face heartbreak when jealousy and betrayal strike."
+    "summary": "Two simple soldiers who share innocent friendship and a love for a village girl face heartbreak when jealousy and betrayal strike.",
+    "file": "Two Little Soldiers.txt"
   },
   {
+    "id": 35,
     "title": "Father Milon",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction / War",
-    "summary": "An old French farmer takes revenge on the Prussian soldiers occupying his village, embodying patriotism and sacrifice."
+    "summary": "An old French farmer takes revenge on the Prussian soldiers occupying his village, embodying patriotism and sacrifice.",
+    "file": "Father Milon.txt"
   },
   {
+    "id": 36,
     "title": "A Coup d'État",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction / Satire",
-    "summary": "A satirical account of French villagers’ reaction to the Franco-Prussian War, exposing cowardice, opportunism, and moral weakness."
+    "summary": "A satirical account of French villagers` reaction to the Franco-Prussian War, exposing cowardice, opportunism, and moral weakness.",
+    "file": "A Coup d'État.txt"
   },
   {
+    "id": 37,
     "title": "Lieutenant Lare's Marriage",
     "author": "Guy de Maupassant",
     "genre": "Romance / Realism",
-    "summary": "A cynical look at love and marriage as Lieutenant Lare navigates societal expectations and personal ambition."
+    "summary": "A cynical look at love and marriage as Lieutenant Lare navigates societal expectations and personal ambition.",
+    "file": "Lieutenant Lare's Marriage.txt"
   },
   {
+    "id": 38,
     "title": "The Horrible",
     "author": "Guy de Maupassant",
     "genre": "Horror / Psychological Fiction",
-    "summary": "A priest recounts a terrifying and tragic event involving murder and madness, exploring the darkness of the human mind."
+    "summary": "A priest recounts a terrifying and tragic event involving murder and madness, exploring the darkness of the human mind.",
+    "file": "The Horrible.txt"
   },
   {
+    "id": 39,
     "title": "Madame Parisse",
     "author": "Guy de Maupassant",
     "genre": "Romance / Realism",
-    "summary": "A tale of love, infidelity, and regret, as a woman reflects on her past affair with a young officer during a seaside vacation."
+    "summary": "A tale of love, infidelity, and regret, as a woman reflects on her past affair with a young officer during a seaside vacation.",
+    "file": "Madame Parisse.txt"
   },
   {
+    "id": 40,
     "title": "Mademoiselle Fifi",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction / War",
-    "summary": "During the Prussian occupation, a defiant French prostitute kills a cruel officer nicknamed 'Mademoiselle Fifi,' symbolizing resistance and national pride."
+    "summary": "During the Prussian occupation, a defiant French prostitute kills a cruel officer nicknamed 'Mademoiselle Fifi,' symbolizing resistance and national pride.",
+    "file": "Mademoiselle Fifi.txt"
   },
   {
+    "id": 41,
     "title": "A Duel",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction / War",
-    "summary": "A French civilian, humiliated by a Prussian officer, is forced into a duel that becomes a symbol of personal courage and patriotic defiance."
+    "summary": "A French civilian, humiliated by a Prussian officer, is forced into a duel that becomes a symbol of personal courage and patriotic defiance.",
+    "file": "A Duel.txt"
   },
   {
+    "id": 42,
     "title": "The Colonel's Ideas",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A retired French colonel reflects on patriotism, war, and the decline of national honor, exposing the ironies of pride and aging."
+    "summary": "A retired French colonel reflects on patriotism, war, and the decline of national honor, exposing the ironies of pride and aging.",
+    "file": "The Colonel's Ideas.txt"
   },
   {
+    "id": 43,
     "title": "Mother Sauvage",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction / War",
-    "summary": "A French woman shelters Prussian soldiers during the war but takes terrible revenge after learning her son has been killed by them."
+    "summary": "A French woman shelters Prussian soldiers during the war but takes terrible revenge after learning her son has been killed by them.",
+    "file": "Mother Sauvage.txt"
   },
   {
+    "id": 44,
     "title": "Epiphany",
     "author": "Guy de Maupassant",
     "genre": "Romance / Realism",
-    "summary": "A priest recalls a moment of human tenderness and love he once experienced, contrasting spiritual duty with emotional longing."
+    "summary": "A priest recalls a moment of human tenderness and love he once experienced, contrasting spiritual duty with emotional longing.",
+    "file": "Epiphany.txt"
   },
   {
+    "id": 45,
     "title": "The Mustache",
     "author": "Guy de Maupassant",
     "genre": "Romance / Satire",
-    "summary": "A humorous story about jealousy and vanity, centered on a husband’s irrational reaction to his wife’s innocent affection for a man with a mustache."
+    "summary": "A humorous story about jealousy and vanity, centered on a husband`s irrational reaction to his wife`s innocent affection for a man with a mustache.",
+    "file": "The Mustache.txt"
   },
   {
+    "id": 46,
     "title": "Madame Baptiste",
     "author": "Guy de Maupassant",
     "genre": "Romance / Tragedy",
-    "summary": "A woman’s reputation is ruined by an event from her past, showing the cruelty of gossip and society’s unforgiving nature."
+    "summary": "A woman`s reputation is ruined by an event from her past, showing the cruelty of gossip and society`s unforgiving nature.",
+    "file": "Madame Baptiste.txt"
   },
   {
+    "id": 47,
     "title": "The Question of Latin",
     "author": "Guy de Maupassant",
     "genre": "Satire / Realism",
-    "summary": "A witty critique of the French education system, mocking the rigid teaching of Latin and outdated academic traditions."
+    "summary": "A witty critique of the French education system, mocking the rigid teaching of Latin and outdated academic traditions.",
+    "file": "The Question of Latin.txt"
   },
   {
+    "id": 48,
     "title": "A Meeting",
     "author": "Guy de Maupassant",
     "genre": "Romance / Realism",
-    "summary": "A man unexpectedly reunites with a former lover, reflecting on lost love and the passage of time with quiet melancholy."
+    "summary": "A man unexpectedly reunites with a former lover, reflecting on lost love and the passage of time with quiet melancholy.",
+    "file": "A Meeting.txt"
   },
   {
+    "id": 49,
     "title": "The Blind Man",
     "author": "Guy de Maupassant",
     "genre": "Psychological Fiction / Tragedy",
-    "summary": "A blind man’s suffering and dependence evoke pity and horror, exploring the cruelty of fate and human indifference."
+    "summary": "A blind man`s suffering and dependence evoke pity and horror, exploring the cruelty of fate and human indifference.",
+    "file": "The Blind Man.txt"
   },
   {
+    "id": 50,
     "title": "Indiscretion",
     "author": "Guy de Maupassant",
     "genre": "Romance / Satire",
-    "summary": "A playful tale where a husband’s curiosity and jealousy lead to ironic revelations about love and secrecy."
+    "summary": "A playful tale where a husband`s curiosity and jealousy lead to ironic revelations about love and secrecy.",
+    "file": "Indiscretion.txt"
   },
   {
+    "id": 51,
     "title": "A Family Affair",
     "author": "Guy de Maupassant",
     "genre": "Realism / Satire",
-    "summary": "A darkly comic look at greed and hypocrisy within a family fighting over inheritance."
+    "summary": "A darkly comic look at greed and hypocrisy within a family fighting over inheritance.",
+    "file": "A Family Affair.txt"
   },
   {
+    "id": 52,
     "title": "Beside Schopenhauer's Corpse",
     "author": "Guy de Maupassant",
     "genre": "Philosophical Fiction / Psychological",
-    "summary": "A story about death, philosophy, and human vanity, as a man reflects on life while standing beside Schopenhauer’s corpse."
+    "summary": "A story about death, philosophy, and human vanity, as a man reflects on life while standing beside Schopenhauer`s corpse.",
+    "file": "Beside Schopenhauer's Corpse.txt"
   },
   {
+    "id": 53,
     "title": "Miss Harriet",
     "author": "Guy de Maupassant",
     "genre": "Romance / Tragedy",
-    "summary": "A lonely Englishwoman living in rural France falls in love with a young artist, leading to an unrequited and tragic end."
+    "summary": "A lonely Englishwoman living in rural France falls in love with a young artist, leading to an unrequited and tragic end.",
+    "file": "Miss Harriet.txt"
   },
   {
+    "id": 54,
     "title": "Little Louise Roque",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction / Tragedy",
-    "summary": "A young village girl’s disappearance and death reveal the corruption and cruelty lurking beneath rural innocence."
+    "summary": "A young village girl`s disappearance and death reveal the corruption and cruelty lurking beneath rural innocence.",
+    "file": "Little Louise Roque.txt"
   },
   {
+    "id": 55,
     "title": "The Donkey",
     "author": "Guy de Maupassant",
     "genre": "Satire / Realism",
-    "summary": "A humorous yet biting tale about greed and hypocrisy, as villagers exploit a donkey’s death for their own gain."
+    "summary": "A humorous yet biting tale about greed and hypocrisy, as villagers exploit a donkey’s death for their own gain.",
+    "file": "The Donkey.txt"
   },
   {
+    "id": 56,
     "title": "Moiron",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "An old soldier recounts his loyalty and sacrifices during France’s wars, reflecting on honor and the futility of conflict."
+    "summary": "An old soldier recounts his loyalty and sacrifices during France’s wars, reflecting on honor and the futility of conflict.",
+    "file": "Moiron.txt"
   },
   {
+    "id": 57,
     "title": "The Dispenser of Holy Water",
     "author": "Guy de Maupassant",
     "genre": "Romance / Realism",
-    "summary": "A sacristan secretly falls in love with a woman who visits his church, blending humor with tender human observation."
+    "summary": "A sacristan secretly falls in love with a woman who visits his church, blending humor with tender human observation.",
+    "file": "The Dispenser of Holy Water.txt"
   },
   {
+    "id": 58,
     "title": "A Parricide",
     "author": "Guy de Maupassant",
     "genre": "Horror / Psychological",
-    "summary": "A shocking story about a young man who murders his father, exposing madness, guilt, and moral decay."
+    "summary": "A shocking story about a young man who murders his father, exposing madness, guilt, and moral decay.",
+    "file": "A Parricide.txt"
   },
   {
+    "id": 59,
     "title": "Bertha",
     "author": "Guy de Maupassant",
     "genre": "Romance / Tragedy",
-    "summary": "A woman trapped in a passionless marriage seeks freedom through love, leading to heartbreak and despair."
+    "summary": "A woman trapped in a passionless marriage seeks freedom through love, leading to heartbreak and despair.",
+    "file": "Bertha.txt"
   },
   {
-    "title": "The Patron",
-    "author": "Guy de Maupassant",
-    "genre": "Realism / Satire",
-    "summary": "A restaurant owner’s greed and vanity are exposed in a sharp social commentary on human selfishness."
-  },
-  {
+    "id": 60,
     "title": "The Door",
     "author": "Guy de Maupassant",
     "genre": "Horror / Mystery",
-    "summary": "A chilling tale of paranoia and fear, as a man becomes obsessed with a mysterious door and what lies beyond it."
+    "summary": "A chilling tale of paranoia and fear, as a man becomes obsessed with a mysterious door and what lies beyond it.",
+    "file": "The Door.txt"
   },
   {
+    "id": 61,
     "title": "A Sale",
     "author": "Guy de Maupassant",
     "genre": "Romance / Realism",
-    "summary": "A witty tale of a woman negotiating love and money, revealing the transactional nature of relationships in high society."
+    "summary": "A witty tale of a woman negotiating love and money, revealing the transactional nature of relationships in high society.",
+    "file": "A Sale.txt"
   },
   {
+    "id": 62,
     "title": "The Impolite Sex",
     "author": "Guy de Maupassant",
     "genre": "Romance / Satire",
-    "summary": "A humorous commentary on the differences between men and women, poking fun at romantic and social expectations."
+    "summary": "A humorous commentary on the differences between men and women, poking fun at romantic and social expectations.",
+    "file": "The Impolite Sex.txt"
   },
   {
+    "id": 63,
     "title": "A Wedding Gift",
     "author": "Guy de Maupassant",
     "genre": "Romance / Tragedy",
-    "summary": "A seemingly happy wedding hides betrayal and sorrow when a cruel discovery ruins a bride’s new life."
+    "summary": "A seemingly happy wedding hides betrayal and sorrow when a cruel discovery ruins a bride`s new life.",
+    "file": "A Wedding Gift.txt"
   },
   {
+    "id": 64,
     "title": "The Relic",
     "author": "Guy de Maupassant",
     "genre": "Satire / Romance",
-    "summary": "A mischievous man tricks a pious woman with a fake religious relic, mocking faith, love, and gullibility with dark humor."
+    "summary": "A mischievous man tricks a pious woman with a fake religious relic, mocking faith, love, and gullibility with dark humor.",
+    "file": "The Relic.txt"
   },
   {
+    "id": 65,
     "title": "The Moribund",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A farmer on his deathbed reflects on a life of hardship and duty, revealing the quiet resignation of rural existence."
+    "summary": "A farmer on his deathbed reflects on a life of hardship and duty, revealing the quiet resignation of rural existence.",
+    "file": "The Moribund.txt"
   },
   {
+    "id": 66,
     "title": "The Gamekeeper",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A loyal gamekeeper faces moral conflict when his devotion to his master is tested by human weakness and cruelty."
+    "summary": "A loyal gamekeeper faces moral conflict when his devotion to his master is tested by human weakness and cruelty.",
+    "file": "The Gamekeeper.txt"
   },
   {
+    "id": 67,
     "title": "The Story of a Farm Girl",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A naive peasant girl falls for a deceitful man, leading to betrayal, loss, and a stark portrayal of rural injustice."
+    "summary": "A naive peasant girl falls for a deceitful man, leading to betrayal, loss, and a stark portrayal of rural injustice.",
+    "file": "The Story of a Farm Girl.txt"
   },
   {
+    "id": 68,
     "title": "The Wreck",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A man recalls a tragic shipwreck where love and death intertwine in a haunting story of fate and memory."
+    "summary": "A man recalls a tragic shipwreck where love and death intertwine in a haunting story of fate and memory.",
+    "file": "The Wreck.txt"
   },
   {
+    "id": 69,
     "title": "Theodule Sabot's Confession",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A humorous tale in which a pious carpenter makes an unexpected confession that exposes his human flaws."
+    "summary": "A humorous tale in which a pious carpenter makes an unexpected confession that exposes his human flaws.",
+    "file": "Theodule Sabot's Confession.txt"
   },
   {
+    "id": 70,
     "title": "The Wrong House",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A darkly comic misunderstanding arises when a man mistakenly enters the wrong house, leading to absurd consequences."
+    "summary": "A darkly comic misunderstanding arises when a man mistakenly enters the wrong house, leading to absurd consequences.",
+    "file": "The Wrong House.txt"
   },
   {
+    "id": 71,
     "title": "The Diamond Necklace",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A woman’s desire for wealth and status ends in tragedy when she loses a borrowed necklace and sacrifices her life to replace it."
+    "summary": "A woman`s desire for wealth and status ends in tragedy when she loses a borrowed necklace and sacrifices her life to replace it.",
+    "file": "The Diamond Necklace.txt"
   },
   {
+    "id": 72,
     "title": "The Marquis de Fumerol",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A satire on religious hypocrisy as a nobleman’s death stirs tension between faith, pride, and family honor."
+    "summary": "A satire on religious hypocrisy as a nobleman`s death stirs tension between faith, pride, and family honor.",
+    "file": "The Marquis de Fumerol.txt"
   },
   {
+    "id": 73,
     "title": "The Trip of Le Horla",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A man’s sailing adventure turns eerie and introspective, hinting at the supernatural themes Maupassant would later explore in 'Le Horla'."
+    "summary": "A man`s sailing adventure turns eerie and introspective, hinting at the supernatural themes Maupassant would later explore in 'Le Horla'.",
+    "file": "The Trip of Le Horla.txt"
   },
   {
+    "id": 74,
     "title": "Farewell!",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A poignant war story about two old soldiers recalling lost youth, friendship, and the pain of saying goodbye."
+    "summary": "A poignant war story about two old soldiers recalling lost youth, friendship, and the pain of saying goodbye.",
+    "file": "Farewell!.txt"
   },
   {
+    "id": 75,
     "title": "The Wolf",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "Two brothers’ obsession with hunting a ferocious wolf becomes a symbol of courage, pride, and fatal folly."
+    "summary": "Two brothers` obsession with hunting a ferocious wolf becomes a symbol of courage, pride, and fatal folly.",
+    "file": "The Wolf.txt"
   },
   {
+    "id": 76,
     "title": "The Inn",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A chilling tale of isolation as two men guard a mountain inn through the winter, until loneliness drives one to madness."
+    "summary": "A chilling tale of isolation as two men guard a mountain inn through the winter, until loneliness drives one to madness.",
+    "file": "The Inn.txt"
   },
   {
+    "id": 77,
     "title": "Monsieur Parent",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A tragic story of a gentle husband betrayed by his wife, exploring family dishonor, heartbreak, and human weakness."
+    "summary": "A tragic story of a gentle husband betrayed by his wife, exploring family dishonor, heartbreak, and human weakness.",
+    "file": "Monsieur Parent.txt"
   },
   {
+    "id": 78,
     "title": "Queen Hortense",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "An ironic tale about a former courtesan who clings to her past glory while facing the harsh reality of aging and loss."
+    "summary": "An ironic tale about a former courtesan who clings to her past glory while facing the harsh reality of aging and loss.",
+    "file": "Queen Hortense.txt"
   },
   {
+    "id": 79,
     "title": "Timbuctoo",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A soldier's humorous and bittersweet confession reveals how an imaginary adventure to Timbuctoo changes his dull life."
+    "summary": "A soldier's humorous and bittersweet confession reveals how an imaginary adventure to Timbuctoo changes his dull life.",
+    "file": "Timbuctoo.txt"
   },
   {
+    "id": 80,
     "title": "Tombstones",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A satirical look at human vanity and hypocrisy, as an undertaker reflects on how even in death, people crave prestige."
+    "summary": "A satirical look at human vanity and hypocrisy, as an undertaker reflects on how even in death, people crave prestige.",
+    "file": "Tombstones.txt"
   },
   {
+    "id": 81,
     "title": "Mademoiselle Pearl",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A touching story of an orphan woman’s quiet devotion to the family that raised her, capturing love, sacrifice, and unspoken longing."
+    "summary": "A touching story of an orphan woman`s quiet devotion to the family that raised her, capturing love, sacrifice, and unspoken longing.",
+    "file": "Mademoiselle Pearl.txt"
   },
   {
+    "id": 82,
     "title": "The Thief",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A moral parable about greed and justice, where a small theft exposes society’s deeper corruption and hypocrisy."
+    "summary": "A moral parable about greed and justice, where a small theft exposes society`s deeper corruption and hypocrisy.",
+    "file": "The Thief.txt"
   },
   {
+    "id": 83,
     "title": "Clair de Lune",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A priest recounts a romantic and haunting moonlit memory from his youth, torn between desire and duty."
+    "summary": "A priest recounts a romantic and haunting moonlit memory from his youth, torn between desire and duty.",
+    "file": "Clair de Lune.txt"
   },
   {
+    "id": 84,
     "title": "Waiter, a “Bock”",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "In a Paris café, a man’s casual drink leads to an unexpected story of lost love and haunting memory."
+    "summary": "In a Paris café, a man`s casual drink leads to an unexpected story of lost love and haunting memory.",
+    "file": "Waiter, a “Bock.txt"
   },
   {
+    "id": 85,
     "title": "After",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A somber reflection on death and grief, showing how the loss of a loved one reshapes a man’s world forever."
+    "summary": "A somber reflection on death and grief, showing how the loss of a loved one reshapes a man`s world forever.",
+    "file": "After.txt"
   },
   {
+    "id": 86,
     "title": "Forgiveness",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A woman faces her husband’s betrayal and must choose between vengeance and compassion in a deeply emotional moral conflict."
+    "summary": "A woman faces her husband`s betrayal and must choose between vengeance and compassion in a deeply emotional moral conflict.",
+    "file": "Forgiveness.txt"
   },
   {
+    "id": 87,
     "title": "In the Spring",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A melancholic story contrasting the renewal of spring with human sorrow and the passage of time."
+    "summary": "A melancholic story contrasting the renewal of spring with human sorrow and the passage of time.",
+    "file": "In the Spring.txt"
   },
   {
+    "id": 88,
     "title": "A Queer Night in Paris",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A humorous yet poignant adventure of a poor clerk who experiences a night of strange misfortune and irony in the streets of Paris."
+    "summary": "A humorous yet poignant adventure of a poor clerk who experiences a night of strange misfortune and irony in the streets of Paris.",
+    "file": "A Queer Night in Paris.txt"
   },
   {
+    "id": 89,
     "title": "That Costly Ride",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A tale about the price of pride and impulsive decisions, showing how a moment of recklessness can lead to regret and loss."
+    "summary": "A tale about the price of pride and impulsive decisions, showing how a moment of recklessness can lead to regret and loss.",
+    "file": "That Costly Ride.txt"
   },
   {
+    "id": 90,
     "title": "Useless Beauty",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A countess challenges her husband's possessive ideals by revealing a shocking truth about motherhood and individuality."
+    "summary": "A countess challenges her husband's possessive ideals by revealing a shocking truth about motherhood and individuality.",
+    "file": "Useless Beauty.txt"
   },
   {
+    "id": 91,
     "title": "The Father",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A moving story about a father’s love and the harsh realities of war and social class."
+    "summary": "A moving story about a father`s love and the harsh realities of war and social class.",
+    "file": "The Father.txt"
   },
   {
+    "id": 92,
     "title": "My Uncle Sosthenes",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A humorous portrait of a self-righteous man whose foolish pride leads to comic embarrassment."
+    "summary": "A humorous portrait of a self-righteous man whose foolish pride leads to comic embarrassment.",
+    "file": "My Uncle Sosthenes.txt"
   },
   {
+    "id": 93,
     "title": "The Baroness",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A sharp commentary on class and hypocrisy as a noblewoman’s affair exposes the fragility of social respectability."
+    "summary": "A sharp commentary on class and hypocrisy as a noblewoman`s affair exposes the fragility of social respectability.",
+    "file": "The Baroness.txt"
   },
   {
+    "id": 94,
     "title": "Mother and Son",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A tender yet tragic story of maternal love strained by poverty and separation."
+    "summary": "A tender yet tragic story of maternal love strained by poverty and separation.",
+    "file": "Mother and Son.txt"
   },
   {
+    "id": 95,
     "title": "The Hand",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A chilling tale about a man obsessed with a severed hand, blending realism with eerie psychological horror."
+    "summary": "A chilling tale about a man obsessed with a severed hand, blending realism with eerie psychological horror.",
+    "file": "The Hand.txt"
   },
   {
+    "id": 96,
     "title": "A Tress of Hair",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A collector discovers a lock of hair hidden in an antique desk, uncovering a haunting love story from the past."
+    "summary": "A collector discovers a lock of hair hidden in an antique desk, uncovering a haunting love story from the past.",
+    "file": "A Tress of Hair.txt"
   },
   {
+    "id": 97,
     "title": "On the River",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "Two men reflect on life and loneliness while drifting on a quiet river, blending nostalgia with melancholy."
+    "summary": "Two men reflect on life and loneliness while drifting on a quiet river, blending nostalgia with melancholy.",
+    "file": "On the River.txt"
   },
   {
+    "id": 98,
     "title": "The Cripple",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A story about cruelty and human indifference as a disabled man becomes a target of mockery and pity."
+    "summary": "A story about cruelty and human indifference as a disabled man becomes a target of mockery and pity.",
+    "file": "The Cripple.txt"
   },
   {
+    "id": 99,
     "title": "A Stroll",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A peaceful walk turns into an introspective reflection on life’s fleeting beauty and inevitable decay."
+    "summary": "A peaceful walk turns into an introspective reflection on life`s fleeting beauty and inevitable decay.",
+    "file": "A Stroll.txt"
   },
   {
+    "id": 100,
     "title": "Alexandre",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A domestic servant’s tale of loyalty, humor, and unexpected wisdom, told with Maupassant’s characteristic irony."
+    "summary": "A domestic servant`s tale of loyalty, humor, and unexpected wisdom, told with Maupassant`s characteristic irony.",
+    "file": "Alexandre.txt"
   },
   {
+    "id": 101,
     "title": "The Log",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A simple countryside event—cutting a log—unfolds into a deeper story about memory, hardship, and human connection."
+    "summary": "A simple countryside event—cutting a log—unfolds into a deeper story about memory, hardship, and human connection.",
+    "file": "The Log.txt"
   },
   {
+    "id": 102,
     "title": "Julie Romain",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A young woman’s romantic illusions collide with harsh reality in this tale of love, betrayal, and disillusionment."
+    "summary": "A young woman`s romantic illusions collide with harsh reality in this tale of love, betrayal, and disillusionment.",
+    "file": "Julie Romain.txt"
   },
   {
+    "id": 103,
     "title": "The Rondoli Sisters",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A humorous and sensual travel story about love, lust, and the unpredictability of human desire."
+    "summary": "A humorous and sensual travel story about love, lust, and the unpredictability of human desire.",
+    "file": "The Rondoli Sisters.txt"
   },
   {
+    "id": 104,
     "title": "The False Gems",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A man discovers that his late wife’s seemingly worthless jewelry was real, leading him to an ironic reflection on love and deception."
+    "summary": "A man discovers that his late wife`s seemingly worthless jewelry was real, leading him to an ironic reflection on love and deception.",
+    "file": "The False Gems.txt"
   },
   {
+    "id": 105,
     "title": "Fascination",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A study of passion and manipulation as a man becomes dangerously captivated by a woman’s charm and mystery."
+    "summary": "A study of passion and manipulation as a man becomes dangerously captivated by a woman`s charm and mystery.",
+    "file": "Fascination.txt"
   },
   {
+    "id": 106,
     "title": "Yvette Samoris",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A story of a young woman torn between innocence and the moral corruption of Parisian high society."
+    "summary": "A story of a young woman torn between innocence and the moral corruption of Parisian high society.",
+    "file": "Yvette Samoris.txt"
   },
   {
+    "id": 107,
     "title": "A Vendetta",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A widow vows to avenge her son’s murder using her cunning and an unexpected ally—her faithful dog."
+    "summary": "A widow vows to avenge her son`s murder using her cunning and an unexpected ally—her faithful dog.",
+    "file": "A Vendetta.txt"
   },
   {
+    "id": 108,
     "title": "My Twenty-Five Days",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A soldier’s humorous account of boredom and absurdity during his military service in a dull provincial town."
+    "summary": "A soldier`s humorous account of boredom and absurdity during his military service in a dull provincial town.",
+    "file": "My Twenty-Five Days.txt"
   },
   {
+    "id": 109,
     "title": "The Terror",
     "author": "Guy de Maupassant",
     "genre": "Horror",
-    "summary": "A chilling tale of psychological dread as a man recounts his growing fear of an unseen presence haunting him at night."
+    "summary": "A chilling tale of psychological dread as a man recounts his growing fear of an unseen presence haunting him at night.",
+    "file": "The Terror.txt"
   },
   {
+    "id": 110,
     "title": "Legend of Mont St. Michel",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A monk narrates a local legend blending faith, folklore, and the mystical history of Mont Saint-Michel."
+    "summary": "A monk narrates a local legend blending faith, folklore, and the mystical history of Mont Saint-Michel.",
+    "file": "Legend of Mont St. Michel.txt"
   },
   {
+    "id": 111,
     "title": "A New Year's Gift",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A poignant story about generosity, irony, and human misunderstanding during the holiday season."
+    "summary": "A poignant story about generosity, irony, and human misunderstanding during the holiday season.",
+    "file": "A New Year's Gift.txt"
   },
   {
+    "id": 112,
     "title": "Friend Patience",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A nostalgic reflection on friendship and lost time through the eyes of two aging companions."
+    "summary": "A nostalgic reflection on friendship and lost time through the eyes of two aging companions.",
+    "file": "Friend Patience.txt"
   },
   {
+    "id": 113,
     "title": "Abandoned",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A woman abandoned by her lover confronts the pain of betrayal and the social judgment that follows."
+    "summary": "A woman abandoned by her lover confronts the pain of betrayal and the social judgment that follows.",
+    "file": "Abandoned.txt"
   },
   {
+    "id": 114,
     "title": "The Maison Tellier",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A group of women from a provincial brothel experience unexpected tenderness and spirituality during a trip to a First Communion."
+    "summary": "A group of women from a provincial brothel experience unexpected tenderness and spirituality during a trip to a First Communion.",
+    "file": "The Maison Tellier.txt"
   },
   {
+    "id": 115,
     "title": "Denis",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A simple servant’s life becomes a gentle yet powerful story about devotion, simplicity, and human dignity."
+    "summary": "A simple servant`s life becomes a gentle yet powerful story about devotion, simplicity, and human dignity.",
+    "file": "Denis.txt"
   },
   {
+    "id": 116,
     "title": "My Wife",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A humorous account of marital life, exploring jealousy, affection, and the oddities of domestic relationships."
+    "summary": "A humorous account of marital life, exploring jealousy, affection, and the oddities of domestic relationships.",
+    "file": "My Wife.txt"
   },
   {
+    "id": 117,
     "title": "The Unknown",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A philosophical tale questioning identity, solitude, and the mysteries of the human soul."
+    "summary": "A philosophical tale questioning identity, solitude, and the mysteries of the human soul.",
+    "file": "The Unknown.txt"
   },
   {
+    "id": 118,
     "title": "The Apparition",
     "author": "Guy de Maupassant",
     "genre": "Horror",
-    "summary": "A chilling ghost story about a man who encounters the supernatural while visiting a friend’s home in the countryside."
+    "summary": "A chilling ghost story about a man who encounters the supernatural while visiting a friend`s home in the countryside.",
+    "file": "The Apparition.txt"
   },
   {
+    "id": 119,
     "title": "Toine",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A humorous yet touching story of an innkeeper bedridden after a stroke, who refuses to give up his zest for life and work."
+    "summary": "A humorous yet touching story of an innkeeper bedridden after a stroke, who refuses to give up his zest for life and work.",
+    "file": "Toine.txt"
   },
   {
+    "id": 120,
     "title": "Madame Husson's “Rosier”",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "In a small town, a competition to find the most virtuous young woman takes an unexpected turn when an unlikely man wins instead."
+    "summary": "In a small town, a competition to find the most virtuous young woman takes an unexpected turn when an unlikely man wins instead.",
+    "file": "Madame Husson's “Rosier”.txt"
   },
   {
+    "id": 121,
     "title": "The Adopted Son",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A peasant couple adopts a boy out of kindness, only to face heartbreak when he abandons them for ambition and pride."
+    "summary": "A peasant couple adopts a boy out of kindness, only to face heartbreak when he abandons them for ambition and pride.",
+    "file": "The Adopted Son.txt"
   },
   {
+    "id": 122,
     "title": "Coward",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A man confronts his fear of death before a duel, revealing the fragility of courage and the human instinct for survival."
+    "summary": "A man confronts his fear of death before a duel, revealing the fragility of courage and the human instinct for survival.",
+    "file": "coward.txt"
   },
   {
+    "id": 123,
     "title": "Old Mongilet",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A gentle office worker finally enjoys a long-awaited promotion, only for fate to play a darkly ironic twist."
+    "summary": "A gentle office worker finally enjoys a long-awaited promotion, only for fate to play a darkly ironic twist.",
+    "file": "Old Mongilet.txt"
   },
   {
+    "id": 124,
     "title": "Moonlight",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "Under the moonlight, a woman confesses to a priest about love, regret, and the emotional conflict between sin and beauty."
+    "summary": "Under the moonlight, a woman confesses to a priest about love, regret, and the emotional conflict between sin and beauty.",
+    "file": "Moonlight.txt"
   },
   {
+    "id": 125,
     "title": "The First Snowfall",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A melancholic story of a woman who finds the charm of winter shattered by personal loss and emotional isolation."
+    "summary": "A melancholic story of a woman who finds the charm of winter shattered by personal loss and emotional isolation.",
+    "file": "The First Snowfall.txt"
   },
   {
+    "id": 126,
     "title": "Sundays of a Bourgeois",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A satirical look at middle-class boredom and hypocrisy through the monotonous Sunday rituals of a self-satisfied man."
+    "summary": "A satirical look at middle-class boredom and hypocrisy through the monotonous Sunday rituals of a self-satisfied man.",
+    "file": "Sundays of a Bourgeois.txt"
   },
   {
+    "id": 127,
     "title": "A Recollection",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "Two old friends reminisce about their youthful escapades, revealing both nostalgia and the emptiness of time passed."
+    "summary": "Two old friends reminisce about their youthful escapades, revealing both nostalgia and the emptiness of time passed.",
+    "file": "A Recollection.txt"
   },
   {
+    "id": 128,
     "title": "Our Letters",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "An emotional tale told through letters between lovers, capturing intimacy, distance, and the slow fading of affection."
+    "summary": "An emotional tale told through letters between lovers, capturing intimacy, distance, and the slow fading of affection.",
+    "file": "Our Letters.txt"
   },
   {
+    "id": 129,
     "title": "The Love of Long Ago",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A chance encounter revives an old love, reminding two people of the warmth and sorrow of what once was."
+    "summary": "A chance encounter revives an old love, reminding two people of the warmth and sorrow of what once was.",
+    "file": "The Love of Long Ago.txt"
   },
   {
+    "id": 130,
     "title": "Friend Joseph",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A loyal servant’s simple honesty and devotion contrast sharply with the corruption of his social superiors."
+    "summary": "A loyal servant’s simple honesty and devotion contrast sharply with the corruption of his social superiors.",
+    "file": "Friend Joseph.txt"
   },
   {
+    "id": 131,
+    "title": "An Honest Thief",
+    "author": "Fyodor Dostoevsky",
+    "genre": "Realist Short Story",
+    "summary": "A moving tale of a small-time thief whose honest confession reveals human frailty and compassion.",
+    "file": "An_Honest_Thief.txt"
+  },
+  {
+    "id": 132,
+    "title": "A Novel in Nine Letters",
+    "author": "Fyodor Dostoevsky",
+    "genre": "Epistolary Satire",
+    "summary": "A comedic and satirical story told entirely through a series of misdelivered letters, revealing misunderstandings and bureaucracy.",
+    "file": "A_Novel_in_Nine_Letters.txt"
+  },
+  {
+    "id": 133,
+    "title": "An Unpleasant Predicament",
+    "author": "Fyodor Dostoevsky",
+    "genre": "Social Satire",
+    "summary": "A respectable official becomes unintentionally embroiled in farce after attending a wedding he was not invited to.",
+    "file": "An_Unpleasant_Predicament.txt"
+  },
+  {
+    "id": 134,
+    "title": "Another Man's Wife",
+    "author": "Fyodor Dostoevsky",
+    "genre": "Comic Short Story",
+    "summary": "A humorous mix-up involving mistaken identities and a suspicious husband, written with Dostoevsky’s wit.",
+    "file": "Another_Mans_Wife.txt"
+  },
+  {
+    "id": 135,
+    "title": "The Heavenly Christmas Tree",
+    "author": "Fyodor Dostoevsky",
+    "genre": "Christmas Parable",
+    "summary": "A deeply moving, sympathetic portrayal of a poor child’s dreams on Christmas Eve in the snowy streets of St. Petersburg.",
+    "file": "The_Heavenly_Christmas_Tree.txt"
+  },
+  {
+    "id": 136,
+    "title": "The Peasant Marey",
+    "author": "Fyodor Dostoevsky",
+    "genre": "Memoir Short Story",
+    "summary": "Dostoevsky reflects on an episode of his childhood, drawing lessons of kindness and humility.",
+    "file": "The_Peasant_Marey.txt"
+  },
+  {
+    "id": 137,
+    "title": "The Crocodile",
+    "author": "Fyodor Dostoevsky",
+    "genre": "Political Satire",
+    "summary": "A dark satirical tale in which a civil servant is swallowed by a crocodile and delivers biting social commentary from within.",
+    "file": "The_Crocodile.txt"
+  },
+  {
+    "id": 138,
+    "title": "Bobok",
+    "author": "Fyodor Dostoevsky",
+    "genre": "Philosophical Satire",
+    "summary": "A disillusioned narrator overhears the posthumous conversations of the dead—their weaknesses and absurdities exposed.",
+    "file": "Bobok.txt"
+  },
+  {
+    "id": 139,
+    "title": "The Dream of a Ridiculous Man",
+    "author": "Fyodor Dostoevsky",
+    "genre": "Philosophical Fantasy",
+    "summary": "A despairing man recounts a redemptive, visionary dream which spurs his search for life’s meaning and the possibility of goodness.",
+    "file": "The_Dream_of_a_Ridiculous_Man.txt"
+  },
+  {
+    "id": 140,
+    "title": "The Paper Bird",
+    "author": "Ai generated",
+    "genre": "Magical Realism",
+    "summary": "A young woman folds paper birds with wishes that are carried by the wind, connecting her dreams to mysterious treasures from the sea.",
+    "file": "The Paper Bird.txt"
+  },
+  {
+    "id": 141,
     "title": "The Effeminates",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A sharp satire of modern men’s loss of strength and virtue, criticizing vanity and moral decline in society."
+    "summary": "A sharp satire of modern men’s loss of strength and virtue, criticizing vanity and moral decline in society.",
+    "file": "The Effeminates.txt"
   },
   {
+    "id": 142,
     "title": "Old Amable",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A somber story of a father’s bitterness and pride, showing the emotional isolation that can come with age and resentment."
+    "summary": "A somber story of a father’s bitterness and pride, showing the emotional isolation that can come with age and resentment.",
+    "file": "Old Amable.txt"
   },
   {
+    "id": 143,
     "title": "The Christening",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A humorous and ironic look at small-town life, where a simple christening turns into an event of misunderstandings and gossip."
+    "summary": "A humorous and ironic look at small-town life, where a simple christening turns into an event of misunderstandings and gossip.",
+    "file": "The Christening.txt"
   },
   {
+    "id": 144,
     "title": "The Farmer's Wife",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A tale of rural love and loss, showing the emotional resilience and quiet strength of a peasant woman."
+    "summary": "A tale of rural love and loss, showing the emotional resilience and quiet strength of a peasant woman.",
+    "file": "The Farmer's Wife.txt"
   },
   {
+    "id": 145,
     "title": "The Devil",
     "author": "Guy de Maupassant",
     "genre": "Horror",
-    "summary": "A chilling story where an old woman encounters a mysterious stranger who reveals the darker side of human greed and sin."
+    "summary": "A chilling story where an old woman encounters a mysterious stranger who reveals the darker side of human greed and sin.",
+    "file": "The Devil.txt"
   },
   {
+    "id": 146,
     "title": "The Snipe",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A lighthearted rural tale that turns unexpectedly reflective, revealing Maupassant’s insight into human folly and pride."
+    "summary": "A lighthearted rural tale that turns unexpectedly reflective, revealing Maupassant’s insight into human folly and pride.",
+    "file": "The Snipe.txt"
   },
   {
+    "id": 147,
     "title": "The Will",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A man’s last testament exposes family hypocrisy and greed, blending irony with a dark sense of justice."
+    "summary": "A man’s last testament exposes family hypocrisy and greed, blending irony with a dark sense of justice.",
+    "file": "The Will.txt"
   },
   {
+    "id": 148,
     "title": "Walter Schnaffs' Adventure",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A comical story of a German soldier lost in France, whose cowardice leads to an unexpected twist of fate."
+    "summary": "A comical story of a German soldier lost in France, whose cowardice leads to an unexpected twist of fate.",
+    "file": "Walter Schnaffs' Adventure.txt"
   },
   {
+    "id": 149,
     "title": "At Sea",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A simple yet tragic story of fishermen forced to make a devastating decision while trapped on the open sea."
+    "summary": "A simple yet tragic story of fishermen forced to make a devastating decision while trapped on the open sea.",
+    "file": "At Sea.txt"
   },
   {
+    "id": 150,
     "title": "Minuet",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A nostalgic story about an old couple who dance together, clinging to memories of youth and love amid aging and decay."
+    "summary": "A nostalgic story about an old couple who dance together, clinging to memories of youth and love amid aging and decay.",
+    "file": "Minuet.txt"
   },
   {
+    "id": 151,
     "title": "The Son",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A moving story about family, secrecy, and forgiveness as a mother faces the consequences of her hidden past."
+    "summary": "A moving story about family, secrecy, and forgiveness as a mother faces the consequences of her hidden past.",
+    "file": "The Son.txt"
   },
   {
+    "id": 152,
     "title": "That Pig of a Morin",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A humorous tale about a man whose impulsive act on a train leads to scandal and ridicule in his small town."
+    "summary": "A humorous tale about a man whose impulsive act on a train leads to scandal and ridicule in his small town.",
+    "file": "That Pig of a Morin.txt"
   },
   {
+    "id": 153,
     "title": "Saint Anthony",
     "author": "Guy de Maupassant",
     "genre": "Fantasy",
-    "summary": "A poetic and symbolic tale reflecting on temptation, faith, and the eternal battle between the spiritual and the sensual."
+    "summary": "A poetic and symbolic tale reflecting on temptation, faith, and the eternal battle between the spiritual and the sensual.",
+    "file": "Saint Anthony.txt"
   },
   {
+    "id": 154,
     "title": "Lasting Love",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "An ironic look at aging lovers who cling to their past affection while struggling with vanity and the passage of time."
+    "summary": "An ironic look at aging lovers who cling to their past affection while struggling with vanity and the passage of time.",
+    "file": "Lasting Love.txt"
   },
   {
+    "id": 155,
     "title": "Pierrot",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A heart-wrenching story about a poor woman’s attempt to save her little dog, exposing human cruelty and moral indifference."
+    "summary": "A heart-wrenching story about a poor woman’s attempt to save her little dog, exposing human cruelty and moral indifference.",
+    "file": "Pierrot.txt"
   },
   {
+    "id": 156,
     "title": "A Normandy Joke",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A lighthearted story of rural trickery and wit, illustrating Maupassant’s gift for portraying peasant humor."
+    "summary": "A lighthearted story of rural trickery and wit, illustrating Maupassant’s gift for portraying peasant humor.",
+    "file": "A Normandy Joke.txt"
   },
   {
+    "id": 157,
     "title": "Father Matthew",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A tender yet somber story of an aging priest reflecting on his faith, loneliness, and the quiet sadness of service."
+    "summary": "A tender yet somber story of an aging priest reflecting on his faith, loneliness, and the quiet sadness of service.",
+    "file": "Father Matthew.txt"
   },
   {
+    "id": 158,
     "title": "The Umbrella",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A humorous and ironic tale where an ordinary umbrella sparks unexpected social embarrassment and human folly."
+    "summary": "A humorous and ironic tale where an ordinary umbrella sparks unexpected social embarrassment and human folly.",
+    "file": "The Umbrella.txt"
   },
   {
+    "id": 159,
     "title": "Belhomme's Beast",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A comic story of jealousy and obsession when a man’s pride is challenged by a strange and unruly animal."
+    "summary": "A comic story of jealousy and obsession when a man’s pride is challenged by a strange and unruly animal.",
+    "file": "Belhomme's Beast.txt"
   },
   {
+    "id": 160,
     "title": "Discovery",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A brief story of a man’s encounter with a mysterious event that reveals human greed and curiosity."
+    "summary": "A brief story of a man’s encounter with a mysterious event that reveals human greed and curiosity.",
+    "file": "Discovery.txt"
   },
   {
+    "id": 161,
     "title": "The Accursed Bread",
     "author": "Guy de Maupassant",
     "genre": "Horror",
-    "summary": "A dark story where a cursed loaf brings misfortune, emphasizing Maupassant’s interest in fate and supernatural dread."
+    "summary": "A dark story where a cursed loaf brings misfortune, emphasizing Maupassant’s interest in fate and supernatural dread.",
+    "file": "The Accursed Bread.txt"
   },
   {
+    "id": 162,
     "title": "The Dowry",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A tale of greed and marital arrangements, where material wealth complicates love and family relations."
+    "summary": "A tale of greed and marital arrangements, where material wealth complicates love and family relations.",
+    "file": "The Dowry.txt"
   },
   {
+    "id": 163,
     "title": "The Diary of a Madman",
     "author": "Guy de Maupassant",
     "genre": "Horror",
-    "summary": "A chilling psychological story of madness and obsession revealed through the writings of an unbalanced mind."
+    "summary": "A chilling psychological story of madness and obsession revealed through the writings of an unbalanced mind.",
+    "file": "The Diary of a Madman.txt"
   },
   {
+    "id": 164,
     "title": "The Mask",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A satirical tale exploring vanity, social facades, and the deceptive nature of appearances."
+    "summary": "A satirical tale exploring vanity, social facades, and the deceptive nature of appearances.",
+    "file": "The Mask.txt"
   },
   {
+    "id": 165,
     "title": "The Penguins' Rock",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A whimsical narrative reflecting on nature and human curiosity, with Maupassant’s gentle humor."
+    "summary": "A whimsical narrative reflecting on nature and human curiosity, with Maupassant’s gentle humor.",
+    "file": "The Penguins' Rock.txt"
   },
   {
+    "id": 166,
     "title": "A Family",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A story exposing family dynamics, greed, and hypocrisy, typical of Maupassant’s social realism."
+    "summary": "A story exposing family dynamics, greed, and hypocrisy, typical of Maupassant’s social realism.",
+    "file": "A Family.txt"
   },
   {
+    "id": 167,
     "title": "Suicides",
     "author": "Guy de Maupassant",
     "genre": "Horror",
-    "summary": "A dark narrative exploring despair, fate, and the tragic choices of individuals in desperate circumstances."
+    "summary": "A dark narrative exploring despair, fate, and the tragic choices of individuals in desperate circumstances.",
+    "file": "Suicides.txt"
   },
   {
+    "id": 168,
     "title": "An Artifice",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A clever story of deception and trickery, examining human vanity and cunning."
+    "summary": "A clever story of deception and trickery, examining human vanity and cunning.",
+    "file": "An Artifice.txt"
   },
   {
+    "id": 169,
     "title": "Dreams",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A poetic story where a man reflects on his hopes and desires, blending nostalgia with the melancholy of lost opportunities."
+    "summary": "A poetic story where a man reflects on his hopes and desires, blending nostalgia with the melancholy of lost opportunities.",
+    "file": "Dreams.txt"
   },
   {
+    "id": 170,
     "title": "Simon's Papa",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A humorous story of paternal authority and the everyday misadventures of a small-town father."
+    "summary": "A humorous story of paternal authority and the everyday misadventures of a small-town father.",
+    "file": "Simon's Papa.txt"
   },
   {
+    "id": 171,
     "title": "The Child",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A poignant tale focusing on childhood innocence and the harsh lessons of adult life."
+    "summary": "A poignant tale focusing on childhood innocence and the harsh lessons of adult life.",
+    "file": "The Child.txt"
   },
   {
+    "id": 172,
     "title": "A Country Excursion",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A short travel story exploring rural life, simple pleasures, and subtle social observations."
+    "summary": "A short travel story exploring rural life, simple pleasures, and subtle social observations.",
+    "file": "A Country Excursion.txt"
   },
   {
+    "id": 173,
     "title": "Rose",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A tender romance portraying love, jealousy, and societal constraints in a provincial setting."
+    "summary": "A tender romance portraying love, jealousy, and societal constraints in a provincial setting.",
+    "file": "Rose.txt"
   },
   {
+    "id": 174,
     "title": "Rosalie Prudent",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A story of a young woman navigating love and societal pressures, showing Maupassant’s realist touch."
+    "summary": "A story of a young woman navigating love and societal pressures, showing Maupassant’s realist touch.",
+    "file": "Rosalie Prudent.txt"
   },
   {
+    "id": 175,
     "title": "Regret",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A melancholy story reflecting on missed opportunities and the passage of time."
+    "summary": "A melancholy story reflecting on missed opportunities and the passage of time.",
+    "file": "Regret.txt"
   },
   {
+    "id": 176,
     "title": "A Sister's Confession",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A dramatic tale of family secrets, guilt, and reconciliation revealed through a sister’s confession."
+    "summary": "A dramatic tale of family secrets, guilt, and reconciliation revealed through a sister’s confession.",
+    "file": "A Sister's Confession.txt"
   },
   {
+    "id": 177,
     "title": "Coco",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A humorous yet affectionate story about a mischievous child and the adults who deal with her antics."
+    "summary": "A humorous yet affectionate story about a mischievous child and the adults who deal with her antics.",
+    "file": "Coco.txt"
   },
   {
+    "id": 178,
     "title": "Dead Woman's Secret",
     "author": "Guy de Maupassant",
     "genre": "Horror",
-    "summary": "A mysterious story of a woman’s hidden past that emerges after her death, filled with suspense and dark revelations."
+    "summary": "A mysterious story of a woman’s hidden past that emerges after her death, filled with suspense and dark revelations.",
+    "file": "Dead Woman's Secret.txt"
   },
   {
+    "id": 179,
     "title": "A Humble Drama",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A short, realistic tale highlighting the quiet struggles and moral dilemmas of ordinary people."
+    "summary": "A short, realistic tale highlighting the quiet struggles and moral dilemmas of ordinary people.",
+    "file": "A Humble Drama.txt"
   },
   {
+    "id": 180,
     "title": "Mademoiselle Cocotte",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "A witty story of a young woman navigating love, desire, and societal expectations in a provincial town."
+    "summary": "A witty story of a young woman navigating love, desire, and societal expectations in a provincial town.",
+    "file": "Mademoiselle Cocotte.txt"
   },
   {
+    "id": 181,
     "title": "The Corsican Bandit",
     "author": "Guy de Maupassant",
     "genre": "Historical Fiction",
-    "summary": "An adventurous tale of crime and cunning in Corsica, blending suspense with Maupassant’s realism."
+    "summary": "An adventurous tale of crime and cunning in Corsica, blending suspense with Maupassant’s realism.",
+    "file": "The Corsican Bandit.txt"
   },
   {
+    "id": 182,
     "title": "The Grave",
     "author": "Guy de Maupassant",
     "genre": "Horror",
-    "summary": "A chilling story of death and superstition, examining human fear and the eerie power of graves and memory."
+    "summary": "A chilling story of death and superstition, examining human fear and the eerie power of graves and memory.",
+    "file": "The Grave.txt"
   },
   {
-    "title": "Old Judas",
-    "author": "Guy de Maupassant",
-    "genre": "Historical Fiction",
-    "summary": "A story of betrayal, human greed, and the social dynamics of a small town, showing Maupassant’s sharp realism."
-  },
-  {
-    "title": "The Little Cask",
-    "author": "Guy de Maupassant",
-    "genre": "Historical Fiction",
-    "summary": "A humorous tale of a man’s obsession with a wine cask, highlighting human folly and everyday vices."
-  },
-  {
-    "title": "Boitelle",
-    "author": "Guy de Maupassant",
-    "genre": "Historical Fiction",
-    "summary": "A whimsical story of a naive man’s adventures and misunderstandings, capturing the lighter side of provincial life."
-  },
-  {
-    "title": "A Widow",
-    "author": "Guy de Maupassant",
-    "genre": "Historical Fiction",
-    "summary": "A poignant story exploring grief, loneliness, and social expectations faced by a recently widowed woman."
-  },
-  {
-    "title": "The Englishman of Etretat",
-    "author": "Guy de Maupassant",
-    "genre": "Historical Fiction",
-    "summary": "A story mixing cultural observation with subtle humor, focusing on the quirks of a visiting Englishman in Normandy."
-  },
-  {
-    "title": "Magnetism",
-    "author": "Guy de Maupassant",
-    "genre": "Fantasy",
-    "summary": "A tale of mysterious powers and psychological manipulation, blending the supernatural with human obsession."
-  },
-  {
-    "title": "A Father's Confession",
-    "author": "Guy de Maupassant",
-    "genre": "Historical Fiction",
-    "summary": "A father reveals a long-held secret, exposing the complexity of family relationships and moral responsibility."
-  },
-  {
-    "title": "A Mother of Monsters",
-    "author": "Guy de Maupassant",
-    "genre": "Horror",
-    "summary": "A disturbing story of maternal cruelty and the monstrous consequences of unchecked violence within a family."
-  },
-  {
-    "title": "An Uncomfortable Bed",
-    "author": "Guy de Maupassant",
-    "genre": "Historical Fiction",
-    "summary": "A humorous tale highlighting the absurdities of social etiquette and human discomfort in everyday life."
-  },
-  {
-    "title": "A Portrait",
-    "author": "Guy de Maupassant",
-    "genre": "Historical Fiction",
-    "summary": "A reflective story of memory and nostalgia, centered on a painting that evokes the past and lost love."
-  },
-  {
-    "title": "The Drunkard",
-    "author": "Guy de Maupassant",
-    "genre": "Historical Fiction",
-    "summary": "A moral tale depicting the downfall and social consequences of excessive drinking, illustrating human weakness."
-  },
-  {
-    "title": "The Wardrobe",
-    "author": "Guy de Maupassant",
-    "genre": "Historical Fiction",
-    "summary": "A domestic story where a simple wardrobe becomes a symbol of secrecy, envy, and social tension."
-  },
-  {
-    "title": "The Mountain Pool",
-    "author": "Guy de Maupassant",
-    "genre": "Historical Fiction",
-    "summary": "A serene yet contemplative tale of nature, human reflection, and the fleeting beauty of rural landscapes."
-  },
-  {
-    "title": "A Cremation",
-    "author": "Guy de Maupassant",
-    "genre": "Historical Fiction",
-    "summary": "A story reflecting on mortality, societal customs, and the human confrontation with death."
-  },
-  {
-    "title": "Misti",
-    "author": "Guy de Maupassant",
-    "genre": "Historical Fiction",
-    "summary": "A humorous and lighthearted tale of love, misunderstanding, and whimsical adventures."
-  },
-  {
-    "title": "Madame Hermet",
-    "author": "Guy de Maupassant",
-    "genre": "Historical Fiction",
-    "summary": "A story of social ambition, vanity, and the emotional struggles of a provincial woman striving for respect."
-  },
-  {
+    "id": 183,
     "title": "The Magic Couch",
     "author": "Guy de Maupassant",
     "genre": "Fantasy",
-    "summary": "A short tale where a supernatural couch brings unexpected experiences, blending whimsy with the uncanny."
+    "summary": "A short tale where a supernatural couch brings unexpected experiences, blending whimsy with the uncanny.",
+    "file": "The Magic Couch.txt"
+  },
+  {
+    "id": 184,
+    "title": "Clochette",
+    "author": "Guy de Maupassant",
+    "genre": "Drama",
+    "summary": "A touching tale about friendship and loss, centered on the character of Clochette, whose life is marked by both hardship and resilience.",
+    "file": "Clochette.txt"
+  },
+  {
+    "id": 185,
+    "title": "The Kiss",
+    "author": "Guy de Maupassant",
+    "genre": "Romance",
+    "summary": "A subtle examination of desire and social convention through a simple but significant kiss exchanged between two characters.",
+    "file": "The_Kiss.txt"
+  },
+  {
+    "id": 186,
+    "title": "The Legion of Honor",
+    "author": "Guy de Maupassant",
+    "genre": "Satire",
+    "summary": "A satirical look at ambition and pride as a man’s life revolves around his hopes of receiving a prestigious honor.",
+    "file": "The_Legion_of_Honor.txt"
+  },
+  {
+    "id": 187,
+    "title": "The Test",
+    "author": "Guy de Maupassant",
+    "genre": "Realism",
+    "summary": "A narrative involving moral choices and loyalty, where characters face situations that reveal their true nature.",
+    "file": "The_Test.txt"
+  },
+  {
+    "id": 188,
+    "title": "Found On a Drowned Man",
+    "author": "Guy de Maupassant",
+    "genre": "Tragedy",
+    "summary": "A moving discovery of personal history through objects found on a drowned stranger, exposing the loneliness and anonymity of death.",
+    "file": "Found_on_a_Drowned_Man.txt"
+  },
+  {
+    "id": 189,
+    "title": "The Orphan",
+    "author": "Guy de Maupassant",
+    "genre": "Crime",
+    "summary": "An exploration of grief and innocence as it follows a young orphan's emotional struggles after losing her parents.",
+    "file": "The_Orphan.txt"
+  },
+  {
+    "id": 190,
+    "title": "The Beggar",
+    "author": "Guy de Maupassant",
+    "genre": "Realism",
+    "summary": "This story reveals society’s cold indifference through the eyes of a destitute beggar, underscoring themes of poverty and perception.",
+    "file": "The_Beggar.txt"
+  },
+  {
+    "id": 191,
+    "title": "The Rabbit",
+    "author": "Guy de Maupassant",
+    "genre": "Comedy",
+    "summary": "A darkly humorous narrative about a couple whose relationship is tested by a trivial dispute over a rabbit.",
+    "file": "The_Rabbit.txt"
+  },
+  {
+    "id": 192,
+    "title": "His Avenger",
+    "author": "Guy de Maupassant",
+    "genre": "Drama",
+    "summary": "A tale of vengeance and justice as a character sets out to defend family honor after a perceived wrong.",
+    "file": "His_Avenger.txt"
+  },
+  {
+    "id": 193,
+    "title": "My Uncle Jules",
+    "author": "Guy de Maupassant",
+    "genre": "Family Fiction",
+    "summary": "A family drama driven by hopes and disappointments as the protagonist awaits the return of the elusive Uncle Jules.",
+    "file": "My_Uncle_Jules.txt"
+  },
+  {
+    "id": 194,
+    "title": "The Model",
+    "author": "Guy de Maupassant",
+    "genre": "Psychological Fiction",
+    "summary": "Examines the complex relationship between an artist and his model, blending themes of passion, exploitation, and regret.",
+    "file": "The_Model.txt"
+  },
+  {
+    "id": 195,
+    "title": "A Vagabond",
+    "author": "Guy de Maupassant",
+    "genre": "Adventure",
+    "summary": "The wandering life of a vagabond is depicted, revealing the tension between freedom and societal alienation.",
+    "file": "A_Vagabond.txt"
+  },
+  {
+    "id": 196,
+    "title": "The Fishing Hole",
+    "author": "Guy de Maupassant",
+    "genre": "Tragedy",
+    "summary": "Combines humor and human nature in a tale of competition and pride near a rural fishing spot.",
+    "file": "The_Fishing_Hole.txt"
+  },
+  {
+    "id": 197,
+    "title": "The Spasm",
+    "author": "Guy de Maupassant",
+    "genre": "Horror",
+    "summary": "A brief but powerful narrative grappling with grief and the uncontrollable power of memory.",
+    "file": "The_Spasm.txt"
+  },
+  {
+    "id": 198,
+    "title": "In the Wood",
+    "author": "Guy de Maupassant",
+    "genre": "Romantic Comedy",
+    "summary": "Blending atmosphere and suspense, this story centers on an unsettling moment experienced in a dark wood.",
+    "file": "In_the_Wood.txt"
+  },
+  {
+    "id": 199,
+    "title": "Martine",
+    "author": "Guy de Maupassant",
+    "genre": "Romance",
+    "summary": "A study of rural hardship and emotional endurance through the life of the character Martine.",
+    "file": "Martine.txt"
+  },
+  {
+    "id": 200,
+    "title": "All Over",
+    "author": "Guy de Maupassant",
+    "genre": "Drama",
+    "summary": "A sharp, ironic glimpse into fleeting disappointment when plans and hopes are dashed suddenly.",
+    "file": "All_Over.txt"
+  },
+  {
+    "id": 201,
+    "title": "The Parrot",
+    "author": "Guy de Maupassant",
+    "genre": "Comedy",
+    "summary": "Unfolds the chaos and misunderstandings brought about by a mischievous parrot in a small town.",
+    "file": "The_Parrot.txt"
+  },
+  {
+    "id": 202,
+    "title": "The Piece of String",
+    "author": "Guy de Maupassant",
+    "genre": "Realism",
+    "summary": "A powerful parable about suspicion and reputation, as a man’s simple action spirals into public accusation.",
+    "file": "The_Piece_of_String.txt"
+  },
+  {
+    "id": 203,
+    "title": "The Golden Bird",
+    "author": "Brothers Grimm",
+    "genre": "Fairy Tale",
+    "summary": "A classic tale about a prince’s quest to catch a golden bird and the trials he faces, filled with magical helpers and jealous brothers.",
+    "file": "The_Golden_Bird.txt"
+  },
+  {
+    "id": 204,
+    "title": "Hans in Luck",
+    "author": "Brothers Grimm",
+    "genre": "Folktale",
+    "summary": "Hans is rewarded for his service by exchanging his possessions until he ends up with nothing, yet remains cheerful, seeing good in every trade.",
+    "file": "Hans_in_Luck.txt"
+  },
+  {
+    "id": 205,
+    "title": "Jorinda and Jorindel",
+    "author": "Brothers Grimm",
+    "genre": "Fairy Tale",
+    "summary": "Jorinda is captured by a witch and her beloved Jorindel must undertake a magical quest to save her.",
+    "file": "Jorinda_and_Jorindel.txt"
+  },
+  {
+    "id": 206,
+    "title": "The Travelling Musicians",
+    "author": "Brothers Grimm",
+    "genre": "Animal Fable",
+    "summary": "Four aging domestic animals become musicians and outwit robbers at a cottage, becoming the famous Bremen Town Musicians.",
+    "file": "The_Travelling_Musicians.txt"
+  },
+  {
+    "id": 207,
+    "title": "Old Sultan",
+    "author": "Brothers Grimm",
+    "genre": "Animal Tale",
+    "summary": "An old dog named Sultan proves his worth and loyalty by protecting his family from a wolf, earning a renewed place in his master's home.",
+    "file": "Old_Sultan.txt"
+  },
+  {
+    "id": 208,
+    "title": "The Straw, the Coal, and the Bean",
+    "author": "Brothers Grimm",
+    "genre": "Comic Tale",
+    "summary": "A playful adventure of a straw, a coal, and a bean that encounter obstacles together with humorous results.",
+    "file": "The_Straw_the_Coal_and_the_Bean.txt"
+  },
+  {
+    "id": 209,
+    "title": "Briar Rose",
+    "author": "Brothers Grimm",
+    "genre": "Fairy Tale",
+    "summary": "Also known as Sleeping Beauty, this tale follows a princess cursed to sleep for a hundred years until awakened by a prince.",
+    "file": "Briar_Rose.txt"
+  },
+  {
+    "id": 210,
+    "title": "The Dog and the Sparrow",
+    "author": "Brothers Grimm",
+    "genre": "Animal Fable",
+    "summary": "A mistreated dog finds a friend in a sparrow, who exacts vengeance on the dog's cruel master with clever tricks.",
+    "file": "The_Dog_and_the_Sparrow.txt"
+  },
+  {
+    "id": 211,
+    "title": "The Twelve Dancing Princesses",
+    "author": "Brothers Grimm",
+    "genre": "Mystery Fairy Tale",
+    "summary": "Twelve princesses secretly dance every night, baffling the king who offers their hand in marriage to anyone who can solve the mystery.",
+    "file": "The_Twelve_Dancing_Princesses.txt"
+  },
+  {
+    "id": 212,
+    "title": "The Fisherman and His Wife",
+    "author": "Brothers Grimm",
+    "genre": "Moral Fairy Tale",
+    "summary": "A fisherman’s greedy wife pushes him to keep asking a magical fish for more, until their desires bring ruin.",
+    "file": "The_Fisherman_and_His_Wife.txt"
+  },
+  {
+    "id": 213,
+    "title": "The Willow-Wren and the Bear",
+    "author": "Brothers Grimm",
+    "genre": "Animal Fable",
+    "summary": "A conflict between birds and the bear leads to a clever victory for the smallest creatures.",
+    "file": "The_Willow-Wren_and_the_Bear.txt"
+  },
+  {
+    "id": 214,
+    "title": "The Frog-Prince",
+    "author": "Brothers Grimm",
+    "genre": "Fairy Tale",
+    "summary": "A princess promises her friendship to a frog, who is then revealed to be an enchanted prince.",
+    "file": "The_Frog-Prince.txt"
+  },
+  {
+    "id": 215,
+    "title": "Cat and Mouse in Partnership",
+    "author": "Brothers Grimm",
+    "genre": "Animal Fable",
+    "summary": "A cat and a mouse become partners, but their relationship ends in betrayal and tragedy.",
+    "file": "Cat_and_Mouse_in_Partnership.txt"
+  },
+  {
+    "id": 216,
+    "title": "The Goose-Girl",
+    "author": "Brothers Grimm",
+    "genre": "Fairy Tale",
+    "summary": "A princess is forced to become a goose-girl, but with help, she is restored to her true status.",
+    "file": "The_Goose-Girl.txt"
+  },
+  {
+    "id": 217,
+    "title": "The Adventures of Chanticleer and Partlet",
+    "author": "Brothers Grimm",
+    "genre": "Animal Tale",
+    "summary": "Chanticleer the rooster and Partlet the hen experience a series of humorous, sometimes cautionary mishaps.",
+    "file": "The_Adventures_of_Chanticleer_and_Partlet.txt"
+  },
+  {
+    "id": 218,
+    "title": "Rapunzel",
+    "author": "Brothers Grimm",
+    "genre": "Fairy Tale",
+    "summary": "A maiden trapped in a tower by a wicked sorceress is finally freed by a prince.",
+    "file": "Rapunzel.txt"
+  },
+  {
+    "id": 219,
+    "title": "Fundevogel",
+    "author": "Brothers Grimm",
+    "genre": "Fairy Tale",
+    "summary": "Two foster siblings, Fundevogel and Lenchen, escape from harm using magical transformations.",
+    "file": "Fundevogel.txt"
+  },
+  {
+    "id": 220,
+    "title": "The Valiant Little Tailor",
+    "author": "Brothers Grimm",
+    "genre": "Adventure Fairy Tale",
+    "summary": "A clever tailor triumphs over giants and other obstacles by wit and courage, making his fortune.",
+    "file": "The_Valiant_Little_Tailor.txt"
+  },
+  {
+    "id": 221,
+    "title": "Hansel and Gretel",
+    "author": "Brothers Grimm",
+    "genre": "Fairy Tale",
+    "summary": "Two siblings outwit a witch who tries to eat them after being abandoned in the forest.",
+    "file": "Hansel_and_Gretel.txt"
+  },
+  {
+    "id": 222,
+    "title": "The Mouse, the Bird, and the Sausage",
+    "author": "Brothers Grimm",
+    "genre": "Comic Animal Tale",
+    "summary": "Three friends find their harmonious life disrupted by trying to change their roles, leading to disaster.",
+    "file": "The_Mouse_the_Bird_and_the_Sausage.txt"
+  },
+  {
+    "id": 223,
+    "title": "Mother Holle",
+    "author": "Brothers Grimm",
+    "genre": "Moral Fairy Tale",
+    "summary": "A hardworking girl is rewarded and her lazy stepsister punished by the magical Mother Holle.",
+    "file": "Mother_Holle.txt"
+  },
+  {
+    "id": 224,
+    "title": "Little Red-Cap (Little Red Riding Hood)",
+    "author": "Brothers Grimm",
+    "genre": "Fairy Tale",
+    "summary": "A young girl is saved from a wolf’s belly by a brave hunter after visiting her grandmother.",
+    "file": "Little_Red-Cap.txt"
+  },
+  {
+    "id": 225,
+    "title": "The Robber Bridegroom",
+    "author": "Brothers Grimm",
+    "genre": "Dark Fairy Tale",
+    "summary": "A bride discovers her betrothed is a murderer and cleverly exposes him, saving her own life.",
+    "file": "The_Robber_Bridegroom.txt"
+  },
+  {
+    "id": 226,
+    "title": "Tom Thumb",
+    "author": "Brothers Grimm",
+    "genre": "Adventure Fairy Tale",
+    "summary": "A child no bigger than a thumb uses his cleverness to escape trouble and help his family.",
+    "file": "Tom_Thumb.txt"
+  },
+  {
+    "id": 227,
+    "title": "Rumpelstiltskin",
+    "author": "Brothers Grimm",
+    "genre": "Fairy Tale",
+    "summary": "A miller's daughter must discover the true name of a magical dwarf to save her child.",
+    "file": "Rumpelstiltskin.txt"
+  },
+  {
+    "id": 228,
+    "title": "Clever Gretel",
+    "author": "Brothers Grimm",
+    "genre": "Comic Tale",
+    "summary": "Clever Gretel outsmarts her employer and steals two chickens prepared for guests.",
+    "file": "Clever_Gretel.txt"
+  },
+  {
+    "id": 229,
+    "title": "The Old Man and His Grandson",
+    "author": "Brothers Grimm",
+    "genre": "Moral Tale",
+    "summary": "A child teaches a lesson in kindness to his parents when they mistreat his aging grandfather.",
+    "file": "The_Old_Man_and_His_Grandson.txt"
+  },
+  {
+    "id": 230,
+    "title": "The Little Peasant",
+    "author": "Brothers Grimm",
+    "genre": "Comic Fairy Tale",
+    "summary": "A clever peasant uses his wits to gain wealth and outsmart those who snubbed him.",
+    "file": "The_Little_Peasant.txt"
+  },
+  {
+    "id": 231,
+    "title": "Frederick and Catherine",
+    "author": "Brothers Grimm",
+    "genre": "Comic Tale",
+    "summary": "Frederick’s foolish wife, Catherine, makes one blunder after another to Frederick’s exasperation.",
+    "file": "Frederick_and_Catherine.txt"
+  },
+  {
+    "id": 232,
+    "title": "Sweetheart Roland",
+    "author": "Brothers Grimm",
+    "genre": "Fairy Tale",
+    "summary": "A girl and her beloved, Roland, elude a wicked witch with magical disguises and perseverance.",
+    "file": "Sweetheart_Roland.txt"
+  },
+  {
+    "id": 233,
+    "title": "Snowdrop",
+    "author": "Brothers Grimm",
+    "genre": "Fairy Tale",
+    "summary": "The story of Snow White, who escapes her jealous stepmother and finds refuge with seven dwarfs.",
+    "file": "Snowdrop.txt"
+  },
+  {
+    "id": 234,
+    "title": "The Pink",
+    "author": "Brothers Grimm",
+    "genre": "Fairy Tale",
+    "summary": "A prince, born from a wish for a child, is protected by a magical flower from his wicked mother.",
+    "file": "The_Pink.txt"
+  },
+  {
+    "id": 235,
+    "title": "Clever Elsie",
+    "author": "Brothers Grimm",
+    "genre": "Comic Tale",
+    "summary": "Elsie's excessive worrying leads to comic misadventures about her own wedding dinner.",
+    "file": "Clever_Elsie.txt"
+  },
+  {
+    "id": 236,
+    "title": "The Miser in the Bush",
+    "author": "Brothers Grimm",
+    "genre": "Moral Fairy Tale",
+    "summary": "A miser is punished for his misdeeds by magic creatures after cheating a servant.",
+    "file": "The_Miser_in_the_Bush.txt"
+  },
+  {
+    "id": 237,
+    "title": "Ashputtel",
+    "author": "Brothers Grimm",
+    "genre": "Fairy Tale",
+    "summary": "The classic Cinderella story: a mistreated girl's fortune turns when she attends the royal ball with magical help.",
+    "file": "Ashputtel.txt"
+  },
+  {
+    "id": 238,
+    "title": "The White Snake",
+    "author": "Brothers Grimm",
+    "genre": "Fairy Tale",
+    "summary": "A servant gains the ability to understand animals after tasting a white snake and uses it to perform heroic deeds.",
+    "file": "The_White_Snake.txt"
+  },
+  {
+    "id": 239,
+    "title": "The Wolf and the Seven Little Kids",
+    "author": "Brothers Grimm",
+    "genre": "Fairy Tale",
+    "summary": "A wolf tries to eat seven young goats, but the youngest outwits him and saves them all.",
+    "file": "The_Wolf_and_the_Seven_Little_Kids.txt"
+  },
+  {
+    "id": 240,
+    "title": "The Queen Bee",
+    "author": "Brothers Grimm",
+    "genre": "Fairy Tale",
+    "summary": "A kind prince is rewarded for his empathy towards animals when they help him pass the tests to win a princess.",
+    "file": "The_Queen_Bee.txt"
+  },
+  {
+    "id": 241,
+    "title": "The Elves and the Shoemaker",
+    "author": "Brothers Grimm",
+    "genre": "Fairy Tale",
+    "summary": "Elves secretly help a poor shoemaker finish shoes at night, changing his fortune.",
+    "file": "The_Elves_and_the_Shoemaker.txt"
+  },
+  {
+    "id": 242,
+    "title": "The Juniper-Tree",
+    "author": "Brothers Grimm",
+    "genre": "Dark Fairy Tale",
+    "summary": "A boy, murdered by his stepmother, is magically resurrected to deliver justice for the wrongs done to him.",
+    "file": "The_Juniper-Tree.txt"
+  },
+  {
+    "id": 243,
+    "title": "The Turnip",
+    "author": "Brothers Grimm",
+    "genre": "Comic Fairy Tale",
+    "summary": "Two brothers’ fortunes change after one discovers a giant turnip, teaching a lesson about envy and generosity.",
+    "file": "The_Turnip.txt"
+  },
+  {
+    "id": 244,
+    "title": "Clever Hans",
+    "author": "Brothers Grimm",
+    "genre": "Comic Tale",
+    "summary": "Hans misinterprets advice and instructions, causing amusing outcomes.",
+    "file": "Clever_Hans.txt"
+  },
+  {
+    "id": 245,
+    "title": "The Three Languages",
+    "author": "Brothers Grimm",
+    "genre": "Moral Fairy Tale",
+    "summary": "A youth, considered foolish, learns animal languages and uses this gift to become king.",
+    "file": "The_Three_Languages.txt"
+  },
+  {
+    "id": 246,
+    "title": "The Fox and the Cat",
+    "author": "Brothers Grimm",
+    "genre": "Animal Fable",
+    "summary": "A fox who knows many tricks is outwitted by a cat who knows only one, but it saves him.",
+    "file": "The_Fox_and_the_Cat.txt"
+  },
+  {
+    "id": 247,
+    "title": "The Four Clever Brothers",
+    "author": "Brothers Grimm",
+    "genre": "Adventure Fairy Tale",
+    "summary": "Four brothers learn different trades and combine skills to save a princess.",
+    "file": "The_Four_Clever_Brothers.txt"
+  },
+  {
+    "id": 248,
+    "title": "Lily and the Lion",
+    "author": "Brothers Grimm",
+    "genre": "Fairy Tale",
+    "summary": "A maiden promises to marry a lion transformed into a man and embarks on a quest to rescue him.",
+    "file": "Lily_and_the_Lion.txt"
+  },
+  {
+    "id": 249,
+    "title": "The Fox and the Horse",
+    "author": "Brothers Grimm",
+    "genre": "Animal Tale",
+    "summary": "A horse, cast out by his master, outwits him with the help of a clever fox.",
+    "file": "The_Fox_and_the_Horse.txt"
+  },
+  {
+    "id": 250,
+    "title": "The Blue Light",
+    "author": "Brothers Grimm",
+    "genre": "Dark Fairy Tale",
+    "summary": "A discharged soldier uses a magical blue light to take revenge on a king who wronged him.",
+    "file": "The_Blue_Light.txt"
+  },
+  {
+    "id": 251,
+    "title": "The Raven",
+    "author": "Brothers Grimm",
+    "genre": "Fairy Tale",
+    "summary": "A prince undertakes a quest to rescue a princess transformed into a raven.",
+    "file": "The_Raven.txt"
+  },
+  {
+    "id": 252,
+    "title": "The Golden Goose",
+    "author": "Brothers Grimm",
+    "genre": "Comic Fairy Tale",
+    "summary": "A simpleton’s kindness is rewarded with a magical goose and a string of followers.",
+    "file": "The_Golden_Goose.txt"
+  },
+  {
+    "id": 253,
+    "title": "The Water of Life",
+    "author": "Brothers Grimm",
+    "genre": "Fairy Tale",
+    "summary": "Three brothers compete to find magical water to cure their dying father; the youngest succeeds through kindness.",
+    "file": "The_Water_of_Life.txt"
+  },
+  {
+    "id": 254,
+    "title": "The Twelve Huntsmen",
+    "author": "Brothers Grimm",
+    "genre": "Adventure Fairy Tale",
+    "summary": "A woman and eleven companions dress as huntsmen to save her engagement to a prince.",
+    "file": "The_Twelve_Huntsmen.txt"
+  },
+  {
+    "id": 255,
+    "title": "The King of the Golden Mountain",
+    "author": "Brothers Grimm",
+    "genre": "Adventure Fairy Tale",
+    "summary": "A young man overcomes many perils to become king and win his family's happiness.",
+    "file": "The_King_of_the_Golden_Mountain.txt"
+  },
+  {
+    "id": 256,
+    "title": "Doctor Knowall",
+    "author": "Brothers Grimm",
+    "genre": "Comic Tale",
+    "summary": "A peasant accidentally becomes a famous doctor, solving crimes by luck and misunderstanding.",
+    "file": "Doctor_Knowall.txt"
+  },
+  {
+    "id": 257,
+    "title": "The Seven Ravens",
+    "author": "Brothers Grimm",
+    "genre": "Fairy Tale",
+    "summary": "A girl sets out to rescue her brothers who are transformed into ravens due to a curse.",
+    "file": "The_Seven_Ravens.txt"
+  },
+  {
+    "id": 258,
+    "title": "The Wedding of Mrs Fox",
+    "author": "Brothers Grimm",
+    "genre": "Animal Fable",
+    "summary": "Mrs. Fox tests suitors' loyalty after Mr. Fox fakes his own death.",
+    "file": "The_Wedding_of_Mrs_Fox.txt"
+  },
+  {
+    "id": 259,
+    "title": "The Salad",
+    "author": "Brothers Grimm",
+    "genre": "Comic Tale",
+    "summary": "A magical salad brings misfortune and confusion, but luck ultimately prevails.",
+    "file": "The_Salad.txt"
+  },
+  {
+    "id": 260,
+    "title": "The Story of the Youth Who Went Forth to Learn What Fear Was",
+    "author": "Brothers Grimm",
+    "genre": "Adventure Fairy Tale",
+    "summary": "A fearless youth goes on a quest to discover the meaning of fear, learning life lessons along the way.",
+    "file": "The_Story_of_the_Youth_Who_Went_Forth_to_Learn_What_Fear_Was.txt"
+  },
+  {
+    "id": 261,
+    "title": "King Grisly-Beard",
+    "author": "Brothers Grimm",
+    "genre": "Moral Fairy Tale",
+    "summary": "A proud princess learns humility and the value of kindness after marrying a disguised king.",
+    "file": "King_Grisly-Beard.txt"
+  },
+  {
+    "id": 262,
+    "title": "Iron Hans",
+    "author": "Brothers Grimm",
+    "genre": "Fairy Tale",
+    "summary": "A wild man helps a prince grow into a wise and brave king through adventure and magic.",
+    "file": "Iron_Hans.txt"
+  },
+  {
+    "id": 263,
+    "title": "Cat-Skin",
+    "author": "Brothers Grimm",
+    "genre": "Fairy Tale",
+    "summary": "A princess, pursued by her own father, escapes and hides under a coat made of many furs, ultimately finding love.",
+    "file": "Cat-Skin.txt"
+  },
+  {
+    "id": 264,
+    "title": "Snow-White and Rose-Red",
+    "author": "Brothers Grimm",
+    "genre": "Fairy Tale",
+    "summary": "Two sisters, Snow-White and Rose-Red, show kindness to a bear who is really an enchanted prince.",
+    "file": "Snow-White_and_Rose-Red.txt"
+  },
+  {
+    "id": 265,
+    "title": "The Emperor's New Clothes",
+    "author": "Hans Christian Andersen",
+    "genre": "Literary Fairy Tale",
+    "summary": "A vain emperor is tricked into wearing invisible clothes, exposing the dangers of pride and flattery.",
+    "file": "The_Emperors_New_Clothes.txt"
+  },
+  {
+    "id": 266,
+    "title": "The Swineherd",
+    "author": "Hans Christian Andersen",
+    "genre": "Literary Fairy Tale",
+    "summary": "A prince disguises himself as a swineherd to win the heart of a vain princess, ultimately teaching her a lesson about superficiality.",
+    "file": "The_Swineherd.txt"
+  },
+  {
+    "id": 267,
+    "title": "The Real Princess",
+    "author": "Hans Christian Andersen",
+    "genre": "Literary Fairy Tale",
+    "summary": "Also known as The Princess and the Pea, this story tells of a delicate princess proved by a single pea beneath many mattresses.",
+    "file": "The_Real_Princess.txt"
+  },
+  {
+    "id": 268,
+    "title": "The Shoes of Fortune",
+    "author": "Hans Christian Andersen",
+    "genre": "Fantasy Fairy Tale",
+    "summary": "Magical shoes bring their wearers various adventures—and often disappointment—by fulfilling their deepest wishes in unexpected ways.",
+    "file": "The_Shoes_of_Fortune.txt"
+  },
+  {
+    "id": 269,
+    "title": "The Fir Tree",
+    "author": "Hans Christian Andersen",
+    "genre": "Moral Fairy Tale",
+    "summary": "A fir tree, discontent with the present, misses out on the joys of life by yearning only for the future.",
+    "file": "The_Fir_Tree.txt"
+  },
+  {
+    "id": 270,
+    "title": "The Snow Queen",
+    "author": "Hans Christian Andersen",
+    "genre": "Literary Fairy Tale",
+    "summary": "A young girl embarks on a magical journey to rescue her friend from the icy clutches of the Snow Queen.",
+    "file": "The_Snow_Queen.txt"
+  },
+  {
+    "id": 271,
+    "title": "The Leap-Frog",
+    "author": "Hans Christian Andersen",
+    "genre": "Comic Fairy Tale",
+    "summary": "Animals compete to earn the king’s favor; the frog’s wit surprises everyone despite others’ boasts.",
+    "file": "The_Leap-Frog.txt"
+  },
+  {
+    "id": 272,
+    "title": "The Elderbush",
+    "author": "Hans Christian Andersen",
+    "genre": "Literary Fairy Tale",
+    "summary": "A tale of dreams and memories as told by the magical elderbush and a loving grandmother.",
+    "file": "The_Elderbush.txt"
+  },
+  {
+    "id": 273,
+    "title": "The Bell",
+    "author": "Hans Christian Andersen",
+    "genre": "Moral Fairy Tale",
+    "summary": "Children search for a mysterious bell in the forest, discovering beauty and wonder along the way.",
+    "file": "The_Bell.txt"
+  },
+  {
+    "id": 274,
+    "title": "The Old House",
+    "author": "Hans Christian Andersen",
+    "genre": "Literary Fairy Tale",
+    "summary": "A lonely old house finds new companionship and happiness after years of solitude.",
+    "file": "The_Old_House.txt"
+  },
+  {
+    "id": 275,
+    "title": "The Happy Family",
+    "author": "Hans Christian Andersen",
+    "genre": "Animal Tale",
+    "summary": "A family of snails contentedly live beneath a burdock leaf, reflecting simple happiness and comic irony.",
+    "file": "The_Happy_Family.txt"
+  },
+  {
+    "id": 276,
+    "title": "The Story of a Mother",
+    "author": "Hans Christian Andersen",
+    "genre": "Tragic Fairy Tale",
+    "summary": "A mother’s deep love is tested as she braves great challenges to save her child from Death.",
+    "file": "The_Story_of_a_Mother.txt"
+  },
+  {
+    "id": 277,
+    "title": "The False Collar",
+    "author": "Hans Christian Andersen",
+    "genre": "Comic Tale",
+    "summary": "A discarded collar recounts its adventures, comically boasting about its brief glory.",
+    "file": "The_False_Collar.txt"
+  },
+  {
+    "id": 278,
+    "title": "The Shadow",
+    "author": "Hans Christian Andersen",
+    "genre": "Dark Fairy Tale",
+    "summary": "A man's shadow takes on a life of its own, ultimately overpowering and destroying its creator.",
+    "file": "The_Shadow.txt"
+  },
+  {
+    "id": 279,
+    "title": "The Little Match Girl",
+    "author": "Hans Christian Andersen",
+    "genre": "Tragic Fairy Tale",
+    "summary": "A poor girl experiences bittersweet visions in the cold before passing away, providing a poignant social commentary.",
+    "file": "The_Little_Match_Girl.txt"
+  },
+  {
+    "id": 280,
+    "title": "The Dream of Little Tuk",
+    "author": "Hans Christian Andersen",
+    "genre": "Literary Fairy Tale",
+    "summary": "Little Tuk’s dreams transport him on magical journeys that bring both comfort and wisdom.",
+    "file": "The_Dream_of_Little_Tuk.txt"
+  },
+  {
+    "id": 281,
+    "title": "The Naughty Boy",
+    "author": "Hans Christian Andersen",
+    "genre": "Comic Fairy Tale",
+    "summary": "Cupid, depicted as a mischievous boy, plays pranks, turning love upside down in a lighthearted tale.",
+    "file": "The_Naughty_Boy.txt"
+  },
+  {
+    "id": 282,
+    "title": "The Red Shoes",
+    "author": "Hans Christian Andersen",
+    "genre": "Moral Fairy Tale",
+    "summary": "A vain girl’s obsession with red shoes leads to a lesson in humility and repentance.",
+    "file": "The_Red_Shoes.txt"
+  },
+  {
+    "id": 283,
+    "title": "The Black Cat",
+    "author": "Edgar Allan Poe",
+    "genre": "Gothic Horror",
+    "summary": "A chilling story of guilt and psychological horror as a man's descent into madness is symbolized by a mysterious black cat.",
+    "file": "The_Black_Cat.txt"
+  },
+  {
+    "id": 284,
+    "title": "The Flayed Hand",
+    "author": "Guy de Maupassant",
+    "genre": "Supernatural Horror",
+    "summary": "A severed hand, kept as a curiosity, exacts vengeance upon those who disturb it.",
+    "file": "The_Flayed_Hand.txt"
+  },
+  {
+    "id": 285,
+    "title": "The Vengeance of a Tree",
+    "author": "Eleanor Furneaux Smith",
+    "genre": "Supernatural Mystery",
+    "summary": "A tree appears to exact revenge from beyond the grave, raising questions of guilt and justice.",
+    "file": "The_Vengeance_of_a_Tree.txt"
+  },
+  {
+    "id": 286,
+    "title": "The Parlor-Car Ghost",
+    "author": "Anonymous",
+    "genre": "Ghost Story",
+    "summary": "Passengers on a train witness spectral events, leading to fright and confusion.",
+    "file": "The_Parlor-Car_Ghost.txt"
+  },
+  {
+    "id": 287,
+    "title": "Ghost of Buckstown Inn",
+    "author": "Anonymous",
+    "genre": "Ghost Story",
+    "summary": "An eerie tale about a restless spirit haunting a rural inn.",
+    "file": "Ghost_of_Buckstown_Inn.txt"
+  },
+  {
+    "id": 288,
+    "title": "The Burglar’s Ghost",
+    "author": "Anonymous",
+    "genre": "Ghost Story",
+    "summary": "After a failed robbery, a burglar's ghost lingers to unsettle future occupants.",
+    "file": "The_Burglars_Ghost.txt"
+  },
+  {
+    "id": 289,
+    "title": "A Phantom Toe",
+    "author": "Anonymous",
+    "genre": "Humorous Ghost Story",
+    "summary": "A comical account of a mysterious toe that haunts a small town.",
+    "file": "A_Phantom_Toe.txt"
+  },
+  {
+    "id": 290,
+    "title": "Mrs. Davenport’s Ghost",
+    "author": "Anonymous",
+    "genre": "Paranormal Tale",
+    "summary": "The ghost of Mrs. Davenport returns to reveal long-kept family secrets.",
+    "file": "Mrs_Davenports_Ghost.txt"
+  },
+  {
+    "id": 291,
+    "title": "The Phantom Woman",
+    "author": "Anonymous",
+    "genre": "Supernatural Story",
+    "summary": "A mysterious woman appears and vanishes, leaving characters doubting their senses.",
+    "file": "The_Phantom_Woman.txt"
+  },
+  {
+    "id": 292,
+    "title": "The Phantom Hag",
+    "author": "Anonymous",
+    "genre": "Ghost Story",
+    "summary": "A terrifying hag haunts those who trespass her domain.",
+    "file": "The_Phantom_Hag.txt"
+  },
+  {
+    "id": 293,
+    "title": "From the Tomb",
+    "author": "Anonymous",
+    "genre": "Horror",
+    "summary": "An unquiet spirit emerges from the grave to right past wrongs.",
+    "file": "From_the_Tomb.txt"
+  },
+  {
+    "id": 294,
+    "title": "Sandy’s Ghost",
+    "author": "Anonymous",
+    "genre": "Ghost Story",
+    "summary": "A loyal dog’s ghost continues to visit and protect its owner.",
+    "file": "Sandys_Ghost.txt"
+  },
+  {
+    "id": 295,
+    "title": "The Ghosts of Red Creek",
+    "author": "Anonymous",
+    "genre": "Horror",
+    "summary": "Hauntings along Red Creek frighten locals and raise old legends.",
+    "file": "The_Ghosts_of_Red_Creek.txt"
+  },
+  {
+    "id": 296,
+    "title": "The Spectre Bride",
+    "author": "Anonymous",
+    "genre": "Gothic Tale",
+    "summary": "A bride returns from the grave to fulfill an unbreakable vow.",
+    "file": "The_Spectre_Bride.txt"
+  },
+  {
+    "id": 297,
+    "title": "How He Caught the Ghost",
+    "author": "Anonymous",
+    "genre": "Comic Ghost Story",
+    "summary": "Through humorous missteps, a character attempts to trap a troublesome ghost.",
+    "file": "How_He_Caught_the_Ghost.txt"
+  },
+  {
+    "id": 298,
+    "title": "Grand-Dame’s Ghost Story",
+    "author": "Anonymous",
+    "genre": "Family Ghost Story",
+    "summary": "An elderly woman recounts a personal, haunting encounter from her youth.",
+    "file": "Grand-Dames_Ghost_Story.txt"
+  },
+  {
+    "id": 299,
+    "title": "A Fight with a Ghost",
+    "author": "Anonymous",
+    "genre": "Paranormal Tale",
+    "summary": "A physical battle with a ghost tests one man's courage and beliefs.",
+    "file": "A_Fight_with_a_Ghost.txt"
+  },
+  {
+    "id": 300,
+    "title": "Colonel Halifax’s Ghost Story",
+    "author": "Anonymous",
+    "genre": "Military Ghost Tale",
+    "summary": "A colonel tells of spectral events experienced during his service.",
+    "file": "Colonel_Halifaxs_Ghost_Story.txt"
+  },
+  {
+    "id": 301,
+    "title": "The Ghost of the Count",
+    "author": "Anonymous",
+    "genre": "Gothic Story",
+    "summary": "A nobleman's ghost haunts his ancestral home, seeking peace.",
+    "file": "The_Ghost_of_the_Count.txt"
+  },
+  {
+    "id": 302,
+    "title": "The Old Mansion",
+    "author": "Anonymous",
+    "genre": "Haunted House Tale",
+    "summary": "Mysteries abound in an old mansion where restless spirits roam.",
+    "file": "The_Old_Mansion.txt"
+  },
+  {
+    "id": 303,
+    "title": "A Misfit Ghost",
+    "author": "Anonymous",
+    "genre": "Comic Ghost Story",
+    "summary": "A ghost struggles to be scary but only causes laughter.",
+    "file": "A_Misfit_Ghost.txt"
+  },
+  {
+    "id": 304,
+    "title": "An Unbidden Guest",
+    "author": "Anonymous",
+    "genre": "Paranormal Story",
+    "summary": "A mysterious guest appears at a gathering, causing unease and suspicion.",
+    "file": "An_Unbidden_Guest.txt"
+  },
+  {
+    "id": 305,
+    "title": "The Dead Woman’s Photograph",
+    "author": "Anonymous",
+    "genre": "Supernatural Mystery",
+    "summary": "An old photograph reveals a chilling secret about a woman's death.",
+    "file": "The_Dead_Womans_Photograph.txt"
+  },
+  {
+    "id": 306,
+    "title": "The Ghost of a Live Man",
+    "author": "Anonymous",
+    "genre": "Comic Ghost Story",
+    "summary": "Confusion and chaos follow when a man is mistaken for his own ghost.",
+    "file": "The_Ghost_of_a_Live_Man.txt"
+  },
+  {
+    "id": 307,
+    "title": "The Ghost of Washington",
+    "author": "Anonymous",
+    "genre": "Patriotic Ghost Tale",
+    "summary": "The spirit of George Washington returns, instilling wisdom and courage.",
+    "file": "The_Ghost_of_Washington.txt"
+  },
+  {
+    "id": 308,
+    "title": "My Lord Bag of Rice",
+    "author": "Yei Theodora Ozaki (reteller)",
+    "genre": "Japanese Fairy Tale",
+    "summary": "A legendary warrior helps a dragon king and is rewarded with a magical bag of rice that brings good fortune.",
+    "file": "My_Lord_Bag_of_Rice.txt"
+  },
+  {
+    "id": 309,
+    "title": "The Tongue-Cut Sparrow",
+    "author": "Yei Theodora Ozaki (reteller)",
+    "genre": "Japanese Folktale",
+    "summary": "An old man is kindly to a sparrow but his greedy wife suffers after mistreating it, showing the power of kindness and retribution.",
+    "file": "The_Tongue-Cut_Sparrow.txt"
+  },
+  {
+    "id": 310,
+    "title": "The Story of Urashima Taro, the Fisher Lad",
+    "author": "Yei Theodora Ozaki (reteller)",
+    "genre": "Japanese Fairy Tale",
+    "summary": "A fisherman is transported to an undersea palace, but when he returns, centuries have passed in the world above.",
+    "file": "Urashima_Taro_the_Fisher_Lad.txt"
+  },
+  {
+    "id": 311,
+    "title": "The Farmer and the Badger",
+    "author": "Yei Theodora Ozaki (reteller)",
+    "genre": "Japanese Folktale",
+    "summary": "A kind farmer is betrayed by a badger only for the badger to face clever retribution from a rabbit.",
+    "file": "The_Farmer_and_the_Badger.txt"
+  },
+  {
+    "id": 312,
+    "title": "The “Shinansha,” or the South Pointing Carriage",
+    "author": "Yei Theodora Ozaki (reteller)",
+    "genre": "Chinese Legend",
+    "summary": "The invention of a magical carriage that always points south helps a Chinese king win battles and return home.",
+    "file": "The_Shinansha_or_the_South_Pointing_Carriage.txt"
+  },
+  {
+    "id": 313,
+    "title": "The Adventures of Kintaro, the Golden Boy",
+    "author": "Yei Theodora Ozaki (reteller)",
+    "genre": "Japanese Fairy Tale",
+    "summary": "Kintaro, possessed of extraordinary strength, befriends animals and has many adventures before becoming a famed warrior.",
+    "file": "The_Adventures_of_Kintaro_the_Golden_Boy.txt"
+  },
+  {
+    "id": 314,
+    "title": "The Story of Princess Hase. A Story of Old Japan",
+    "author": "Yei Theodora Ozaki (reteller)",
+    "genre": "Japanese Fairy Tale",
+    "summary": "The virtuous Princess Hase survives many hardships through wisdom and perseverance, rewarded for her devotion and filial piety.",
+    "file": "The_Story_of_Princess_Hase.txt"
+  },
+  {
+    "id": 315,
+    "title": "The Story of the Man Who Did Not Wish to Die",
+    "author": "Yei Theodora Ozaki (reteller)",
+    "genre": "Japanese Folktale",
+    "summary": "A man's quest to escape death ironically teaches him the value of a finite life.",
+    "file": "The_Story_of_the_Man_Who_Did_Not_Wish_to_Die.txt"
+  },
+  {
+    "id": 316,
+    "title": "The Bamboo-Cutter and the Moon-Child",
+    "author": "Yei Theodora Ozaki (reteller)",
+    "genre": "Japanese Fairy Tale",
+    "summary": "A beautiful girl found in a bamboo stalk turns out to be a princess from the moon, returning home after many suitors are tested.",
+    "file": "The_Bamboo-Cutter_and_the_Moon-Child.txt"
+  },
+  {
+    "id": 317,
+    "title": "The Mirror of Matsuyama: A Story of Old Japan",
+    "author": "Yei Theodora Ozaki (reteller)",
+    "genre": "Japanese Fairy Tale",
+    "summary": "A magical mirror brings comfort and misunderstanding to a mother and daughter, teaching a lesson in love and remembrance.",
+    "file": "The_Mirror_of_Matsuyama.txt"
+  },
+  {
+    "id": 318,
+    "title": "The Goblin of Adachigahara",
+    "author": "Yei Theodora Ozaki (reteller)",
+    "genre": "Japanese Folktale",
+    "summary": "Travelers encounter an old woman in a lonely house, who is revealed to be a terrifying goblin.",
+    "file": "The_Goblin_of_Adachigahara.txt"
+  },
+  {
+    "id": 319,
+    "title": "The Sagacious Monkey and the Boar",
+    "author": "Yei Theodora Ozaki (reteller)",
+    "genre": "Japanese Animal Tale",
+    "summary": "A clever monkey outsmarts a boastful boar through trickery and intelligence.",
+    "file": "The_Sagacious_Monkey_and_the_Boar.txt"
+  },
+  {
+    "id": 320,
+    "title": "The Happy Hunter and the Skillful Fisher",
+    "author": "Yei Theodora Ozaki (reteller)",
+    "genre": "Japanese Legend",
+    "summary": "Two royal brothers learn about humility and cooperation as they swap roles with magical help from sea gods.",
+    "file": "The_Happy_Hunter_and_the_Skillful_Fisher.txt"
+  },
+  {
+    "id": 321,
+    "title": "The Story of the Old Man Who Made Withered Trees to Flower",
+    "author": "Yei Theodora Ozaki (reteller)",
+    "genre": "Japanese Folktale",
+    "summary": "The spirit of a grateful dog helps a kind old man magically make trees blossom, punishing his greedy neighbor.",
+    "file": "The_Old_Man_Who_Made_Withered_Trees_to_Flower.txt"
+  },
+  {
+    "id": 322,
+    "title": "The Jelly Fish and the Monkey",
+    "author": "Yei Theodora Ozaki (reteller)",
+    "genre": "Japanese Animal Tale",
+    "summary": "A jellyfish, tricked into a king’s dangerous mission, loses his bones and learns the cost of naiveté.",
+    "file": "The_Jelly_Fish_and_the_Monkey.txt"
+  },
+  {
+    "id": 323,
+    "title": "The Quarrel of the Monkey and the Crab",
+    "author": "Yei Theodora Ozaki (reteller)",
+    "genre": "Japanese Animal Tale",
+    "summary": "The monkey’s greed and treachery are repaid with karma in this tale about justice and clever revenge.",
+    "file": "The_Quarrel_of_the_Monkey_and_the_Crab.txt"
+  },
+  {
+    "id": 324,
+    "title": "The White Hare and the Crocodiles",
+    "author": "Yei Theodora Ozaki (reteller)",
+    "genre": "Japanese Folktale",
+    "summary": "A white hare is punished for trickery, but kindness leads to its healing and happiness.",
+    "file": "The_White_Hare_and_the_Crocodiles.txt"
+  },
+  {
+    "id": 325,
+    "title": "The Story of Prince Yamato Take",
+    "author": "Yei Theodora Ozaki (reteller)",
+    "genre": "Japanese Legend",
+    "summary": "The epic journeys and heroic deeds of Prince Yamato Take, one of Japan’s most famous warrior-princes.",
+    "file": "The_Story_of_Prince_Yamato_Take.txt"
+  },
+  {
+    "id": 326,
+    "title": "Momotaro, or The Story of the Son of a Peach",
+    "author": "Yei Theodora Ozaki (reteller)",
+    "genre": "Japanese Heroic Folktale",
+    "summary": "Born from a peach, Momotaro embarks on a quest with animal friends to defeat ogres and bring peace to his land.",
+    "file": "Momotaro_The_Story_of_the_Son_of_a_Peach.txt"
+  },
+  {
+    "id": 327,
+    "title": "The Ogre of Rashomon",
+    "author": "Yei Theodora Ozaki (reteller)",
+    "genre": "Japanese Folktale",
+    "summary": "A brave warrior faces a fearsome ogre at the Rashomon gate, highlighting courage and cunning.",
+    "file": "The_Ogre_of_Rashomon.txt"
+  },
+  {
+    "id": 328,
+    "title": "How an Old Man Lost His Wen",
+    "author": "Yei Theodora Ozaki (reteller)",
+    "genre": "Japanese Folktale",
+    "summary": "Through a twist of fate and encounter with supernatural beings, an old man loses an unsightly bump from his face.",
+    "file": "How_an_Old_Man_Lost_His_Wen.txt"
+  },
+  {
+    "id": 329,
+    "title": "The Stones of Five Colors and the Empress Jokwa. An Old Chinese Story",
+    "author": "Yei Theodora Ozaki (reteller)",
+    "genre": "Chinese Fairy Tale",
+    "summary": "The Empress Jokwa repairs the broken sky with magical colored stones in this legend of balance and harmony.",
+    "file": "The_Stones_of_Five_Colors_and_the_Empress_Jokwa.txt"
+  },
+  {
+    "id": 330,
+    "title": "CHARAN",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Romance",
+    "summary": "A celebrated story of love and devotion from 15th-century Korea. Keydong, a gifted young man, and Charan, a talented dancing girl, share an intense bond, face separation and hardship, and ultimately triumph through perseverance, intellect, and royal favor. Their journey exemplifies unwavering love and the power of destiny.",
+    "file": "CHARAN.txt"
+  },
+  {
+    "id": 331,
+    "title": "The Story of Chang To-Ryong",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Taoist Legend",
+    "summary": "Chang To-Ryong is a mysterious beggar in Seoul who is later revealed as a major Taoist spirit-man. Blending Korean folklore and Taoist beliefs, the tale explores themes of reincarnation, spirit worlds, and the kindness between a young scholar and a supernatural being.",
+    "file": "The Story of Chang To-Ryong.txt"
+  },
+  {
+    "id": 332,
+    "title": "A Story of the Fox",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Supernatural",
+    "summary": "A Korean official is deceived by a fox-spirit in the guise of a beautiful woman, narrowly escaping death through wisdom and good fortune. The story warns of supernatural trickery and the importance of vigilance against evil spirits.",
+    "file": "A Story of the Fox.txt"
+  },
+  {
+    "id": 333,
+    "title": "Cheung Puk-Chang, the Seer",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Mysticism",
+    "summary": "Cheung Puk-Chang, revered as one of Korea’s three spirit-men, is renowned for his visions and supernatural insight. His tale describes how spiritual power and pure living create harmony with unseen realms.",
+    "file": "Cheung Puk-Chang, the Seer.txt"
+  },
+  {
+    "id": 334,
+    "title": "Yun Se-Pyong, the Wizard",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Magic",
+    "summary": "Yun Se-Pyong is a legendary wizard in Korean lore, respected for his magical talents and his role among the three great spirit-men of Chosun. His life and feats demonstrate the influence of mystics in Korean history.",
+    "file": "Yun Se-Pyong, the Wizard.txt"
+  },
+  {
+    "id": 335,
+    "title": "The Wild-Cat Woman",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Supernatural",
+    "summary": "A tale of a mysterious woman who transforms into a wild-cat, representing the dangers of the supernatural and the necessity for courage and wisdom.",
+    "file": "The Wild-Cat Woman.txt"
+  },
+  {
+    "id": 336,
+    "title": "The Ill-Fated Priest",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Supernatural Tragedy",
+    "summary": "A priest's tragic fate is sealed by his inability to overcome supernatural forces and misfortune, illustrating how fate and omens shape human lives in Korean tradition.",
+    "file": "The Ill-Fated Priest.txt"
+  },
+  {
+    "id": 337,
+    "title": "The Vision of the Holy Man",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Spiritual",
+    "summary": "A holy man is granted divine visions and prophecies, leading communities through spiritual wisdom. The story extols the virtue and role of spiritual guides in maintaining harmony with the unseen world.",
+    "file": "The Vision of the Holy Man.txt"
+  },
+  {
+    "id": 338,
+    "title": "The Visit of the Man of God",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Spiritual Encounter",
+    "summary": "The arrival of a mysterious man of God brings blessings and revelations to those who welcome him, demonstrating respect for the supernatural and hospitality toward strangers.",
+    "file": "The Visit of the Man of God.txt"
+  },
+  {
+    "id": 339,
+    "title": "The Literary Man of Imsil",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Literary Adventure",
+    "summary": "A scholar of Imsil displays remarkable wit and literary prowess while encountering the supernatural, illustrating how cleverness and artistry bring success and protection.",
+    "file": "The Literary Man of Imsil.txt"
+  },
+  {
+    "id": 340,
+    "title": "The Soldier of Kang-Wha",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Military Supernatural",
+    "summary": "A soldier stationed at Kang-Wha faces trial by supernatural forces and emerges victorious through discipline and courage.",
+    "file": "The Soldier of Kang-Wha.txt"
+  },
+  {
+    "id": 341,
+    "title": "Cursed by the Snake",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Curse",
+    "summary": "A chilling narrative of a man cursed by a snake he mistreated, causing harm to his family and a lesson of karma and respect for animals.",
+    "file": "Cursed by the Snake.txt"
+  },
+  {
+    "id": 342,
+    "title": "The Man on the Road",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Journey",
+    "summary": "A wandering traveler encounters a sequence of mystical and threatening events on an isolated road—an allegory for vigilance and faith on life’s journey.",
+    "file": "The Man on the Road.txt"
+  },
+  {
+    "id": 343,
+    "title": "The Old Man Who Became a Fish",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Transformation",
+    "summary": "A cautionary tale about an old man transformed into a fish as punishment or result of supernatural interference, reflecting on change and humility.",
+    "file": "The Old Man Who Became a Fish.txt"
+  },
+  {
+    "id": 344,
+    "title": "The Geomancer",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Geomancy",
+    "summary": "The mysterious and powerful skills of a geomancer affect his life and those of others through the art of divining propitious sites and events.",
+    "file": "The Geomancer.txt"
+  },
+  {
+    "id": 345,
+    "title": "The Man Who Became a Pig",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Transformation",
+    "summary": "A humorous but cautionary tale about a man transformed into a pig due to folly or magical intervention, showing the consequences of vice.",
+    "file": "The Man Who Became a Pig.txt"
+  },
+  {
+    "id": 346,
+    "title": "The Old Woman Who Became a Goblin",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Transformation",
+    "summary": "A tale of an old woman transformed into a goblin, warning of the dangers that come with greed or disrespect toward mystical powers.",
+    "file": "The Old Woman Who Became a Goblin.txt"
+  },
+  {
+    "id": 347,
+    "title": "The Grateful Ghost",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Ghost",
+    "summary": "A grateful spirit helps those who honor the dead, reflecting on respect for ancestors and the unseen aid that virtuous deeds attract.",
+    "file": "The Grateful Ghost.txt"
+  },
+  {
+    "id": 348,
+    "title": "The Plucky Maiden",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Bravery",
+    "summary": "A courageous young woman faces supernatural threats with wit and bravery, embodying the empowerment of women in Korean tradition.",
+    "file": "The Plucky Maiden.txt"
+  },
+  {
+    "id": 349,
+    "title": "The Resourceful Wife",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Resourcefulness",
+    "summary": "A wife’s cleverness and fortitude save her family during supernatural trials, showing the vital role of women’s resourcefulness in folk tales.",
+    "file": "The Resourceful Wife.txt"
+  },
+  {
+    "id": 350,
+    "title": "The Boxed-Up Governor",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Comedic Justice",
+    "summary": "A corrupt official receives poetic justice when tricked and boxed up by the clever commoners he oppressed.",
+    "file": "The Boxed-Up Governor.txt"
+  },
+  {
+    "id": 351,
+    "title": "The Man Who Lost His Legs",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Tragedy",
+    "summary": "A story of a man whose legs are mysteriously lost as a result of supernatural influence or as punishment, reflecting the unpredictable nature of fate in folk beliefs.",
+    "file": "The Man Who Lost His Legs.txt"
+  },
+  {
+    "id": 352,
+    "title": "Ten Thousand Devils",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Supernatural",
+    "summary": "An allegory about a confrontation with a legion of devils, focusing on themes of courage, temptation, and the resilience of the human spirit in the face of evil.",
+    "file": "Ten Thousand Devils.txt"
+  },
+  {
+    "id": 353,
+    "title": "The Home of the Fairies",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Fantasy",
+    "summary": "A mortal stumbles upon the hidden abode of fairies, exploring the boundaries between human and supernatural worlds and the price of forbidden knowledge.",
+    "file": "The Home of the Fairies.txt"
+  },
+  {
+    "id": 354,
+    "title": "The Honest Witch",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Magic",
+    "summary": "A rare tale of a witch who uses her powers for good, offering wisdom and help rather than harm, thus subverting expectations of witchcraft in traditional stories.",
+    "file": "The Honest Witch.txt"
+  },
+  {
+    "id": 355,
+    "title": "Whom the King Honors",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Loyalty",
+    "summary": "A parable centered on loyalty to the king and the rewards bestowed by authority on the virtuous and faithful.",
+    "file": "Whom the King Honors.txt"
+  },
+  {
+    "id": 356,
+    "title": "The Fortunes of Yoo",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Fortune",
+    "summary": "The ups and downs of Yoo, a man whose destiny is shaped by supernatural forces, luck, and perseverance.",
+    "file": "The Fortunes of Yoo.txt"
+  },
+  {
+    "id": 357,
+    "title": "An Encounter with a Hobgoblin",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Supernatural Encounter",
+    "summary": "A man unwittingly meets a mischievous hobgoblin, leading to chaos and lessons in humility, luck, and cleverness.",
+    "file": "An Encounter with a Hobgoblin.txt"
+  },
+  {
+    "id": 358,
+    "title": "The Snake’s Revenge",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Revenge",
+    "summary": "A vengeful snake takes retribution on a household, warning of the consequences of cruelty to animals.",
+    "file": "The Snake’s Revenge.txt"
+  },
+  {
+    "id": 359,
+    "title": "The Brave Magistrate",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Bravery",
+    "summary": "A magistrate confronts supernatural threats with courage and wisdom, restoring balance and justice to his district.",
+    "file": "The Brave Magistrate.txt"
+  },
+  {
+    "id": 360,
+    "title": "The Temple to the God of War",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Mythology",
+    "summary": "The founding of a temple honoring the god of war, describing miracles, rituals, and the martial spirit in Korean tradition.",
+    "file": "The Temple to the God of War.txt"
+  },
+  {
+    "id": 361,
+    "title": "A Visit from the Shades",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Ghost",
+    "summary": "A mortal receives a visit from the spirits of the dead, resulting in revelations or warnings for the living.",
+    "file": "A Visit from the Shades.txt"
+  },
+  {
+    "id": 362,
+    "title": "The Fearless Captain",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Heroism",
+    "summary": "A courageous captain overcomes supernatural adversaries, embodying leadership, valor, and the power of belief.",
+    "file": "The Fearless Captain.txt"
+  },
+  {
+    "id": 363,
+    "title": "The King of Yom-na (Hell)",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Afterlife",
+    "summary": "This tale explores the Buddhist folklore and moral judgments delivered by the king of the underworld, addressing justice after death.",
+    "file": "The King of Yom-na (Hell).txt"
+  },
+  {
+    "id": 364,
+    "title": "Hong’s Experiences in Hades",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Afterlife",
+    "summary": "Hong narrates his journey through the horrors and lessons of the Korean underworld after death, describing punishments and the hope for redemption.",
+    "file": "Hong’s Experiences in Hades.txt"
+  },
+  {
+    "id": 365,
+    "title": "Haunted Houses",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Horror",
+    "summary": "A recounting of multiple haunted dwellings, each with its own ghostly backstory and supernatural events.",
+    "file": "Haunted Houses.txt"
+  },
+  {
+    "id": 366,
+    "title": "Im, the Hunter",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Heroism",
+    "summary": "Im, a skilled hunter, faces supernatural dangers in the wild, showcasing courage, perseverance, and respect for the natural and spiritual world.",
+    "file": "Im, the Hunter.txt"
+  },
+  {
+    "id": 367,
+    "title": "The Magic Invasion of Seoul",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Magic",
+    "summary": "A tale of magical chaos and heroism as Seoul faces a supernatural invasion, requiring wit and magical prowess to repel the threat.",
+    "file": "The Magic Invasion of Seoul.txt"
+  },
+  {
+    "id": 368,
+    "title": "The Awful Little Goblin",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Supernatural",
+    "summary": "A troublesome goblin causes chaos until clever humans find a way to outwit him, teaching lessons about cunning and problem-solving.",
+    "file": "The Awful Little Goblin.txt"
+  },
+  {
+    "id": 369,
+    "title": "God’s Way",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Moral",
+    "summary": "A philosophical narrative about the mysterious workings of heaven and fate, challenging human understanding of the divine.",
+    "file": "God’s Way.txt"
+  },
+  {
+    "id": 370,
+    "title": "The Old Man in the Dream",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Dream",
+    "summary": "A dream encounter with an aged spirit conveys advice or prophecy, blending the worlds of the living and the spiritual.",
+    "file": "The Old Man in the Dream.txt"
+  },
+  {
+    "id": 371,
+    "title": "The Perfect Priest",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Religious",
+    "summary": "A priest achieves spiritual enlightenment and utters profound teachings, inspiring all who follow his example.",
+    "file": "The Perfect Priest.txt"
+  },
+  {
+    "id": 372,
+    "title": "The Propitious Magpie",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Auspicious Animal",
+    "summary": "The appearance of a magpie brings fortune and symbolically guides characters through pivotal moments, celebrating omens in Korean tradition.",
+    "file": "The Propitious Magpie.txt"
+  },
+  {
+    "id": 373,
+    "title": "The ‘Old Buddha’",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Spiritual",
+    "summary": "A tale centered on the veneration of an old Buddha statue and its miraculous influence in the human realm.",
+    "file": "The Old Buddha.txt"
+  },
+  {
+    "id": 374,
+    "title": "A Wonderful Medicine",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Healing",
+    "summary": "A miraculous cure appears under mysterious circumstances, blending folk medicine and supernatural assistance.",
+    "file": "A Wonderful Medicine.txt"
+  },
+  {
+    "id": 375,
+    "title": "Faithful Mo",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Loyalty",
+    "summary": "Mo’s unwavering loyalty to family and friends is tested by supernatural events, serving as a model of perseverance and virtue.",
+    "file": "Faithful Mo.txt"
+  },
+  {
+    "id": 376,
+    "title": "The Renowned Maing",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Fame",
+    "summary": "Maing’s exploits and renown stem from a blend of human ingenuity and supernatural favor.",
+    "file": "The Renowned Maing.txt"
+  },
+  {
+    "id": 377,
+    "title": "The Senses",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Philosophical",
+    "summary": "A philosophical reflection on the five senses, using parables to teach wisdom and self-discipline.",
+    "file": "The Senses.txt"
+  },
+  {
+    "id": 378,
+    "title": "Who Decides, God or the King?",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Philosophical",
+    "summary": "A tale debating the source of real authority: divine power or royal command, using allegorical trials.",
+    "file": "Who Decides, God or the King.txt"
+  },
+  {
+    "id": 379,
+    "title": "Three Things Mastered",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Wisdom",
+    "summary": "A wise person gains mastery over three important aspects of life, offering instructions for self-betterment and success.",
+    "file": "Three Things Mastered.txt"
+  },
+  {
+    "id": 380,
+    "title": "Strangely Stricken Dead",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Mystery",
+    "summary": "A mysterious death occurs with supernatural undertones, highlighting the dangers of ignoring omens.",
+    "file": "Strangely Stricken Dead.txt"
+  },
+  {
+    "id": 381,
+    "title": "The Mysterious Hoi Tree",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Nature",
+    "summary": "The enigmatic hoi tree becomes a focal point for supernatural happenings, revealing the spiritual side of nature.",
+    "file": "The Mysterious Hoi Tree.txt"
+  },
+  {
+    "id": 382,
+    "title": "Ta-Hong",
+    "author": "Im Bang",
+    "genre": "Korean Folktale/Legend",
+    "summary": "The legend of Ta-Hong, a character whose adventures blend heroism and supernatural interventions.",
+    "file": "Ta-Hong.txt"
   }
-
-
-
-
 ]

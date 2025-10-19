@@ -48,11 +48,11 @@ async function loadStories() {
       return matchesSearch && matchesGenre;
     });
 
-    // Update story count
-    document.getElementById("storyCount").textContent = `Showing ${filtered.length} story(s)`;
+    // // Update story count
+    // document.getElementById("storyCount").textContent = `Showing ${filtered.length} story(s)`;
 
     // Shuffle and pick first 8
-    const selected = filtered.sort(() => 0.5 - Math.random()).slice(0, 8);
+    const selected = filtered.sort(() => 0.5 - Math.random()).slice(0,12);
 
     container.innerHTML = "";
 
