@@ -3,7 +3,10 @@
     "id": 1,
     "title": "The Devoted Friend",
     "author": "Oscar Wilde",
-    "genre": "Allegorical story / Moral tale",
+    "genre": [
+      "Allegorical",
+      "Moral"
+    ],
     "summary": "Hans, a poor gardener, is exploited by his wealthy friend, the miller. The miller repeatedly asks Hans for help, pretending to be devoted, but never reciprocates. Hans ultimately sacrifices himself for his friends sake, highlighting the hypocrisy of false friendship.",
     "file": "The Devoted Friend.txt"
   },
@@ -11,7 +14,10 @@
     "id": 2,
     "title": "The Happy Prince",
     "author": "Oscar Wilde",
-    "genre": "Fairy tale / Allegorical fiction",
+    "genre": [
+      "Fairy tale",
+      "Allegorical"
+    ],
     "summary": "A golden statue of a prince overlooks a city and sees the suffering of its poor. With the help of a kind-hearted swallow, the prince gives away all his gold and jewels to help the needy, ultimately sacrificing himself for the welfare of others.",
     "file": "The Happy Prince.txt"
   },
@@ -19,7 +25,10 @@
     "id": 3,
     "title": "The Night And The Rose.",
     "author": "Oscar Wilde",
-    "genre": "Fairy tale / Tragic romance",
+    "genre": [
+      "Fairy tale",
+      "Romance"
+    ],
     "summary": "A student loves a girl but needs a red rose to win her heart. A nightingale sacrifices her life to create the rose by singing all night with her heart against a thorn. In the end, the girl rejects the rose, highlighting the tragedy of unappreciated sacrifice.",
     "file": "The Night And The Rose.txt"
   },
@@ -27,7 +36,7 @@
     "id": 4,
     "title": "The Remarkable Rocket.",
     "author": "Oscar Wilde",
-    "genre": "Satirical fairy tale",
+    "genre": "Fairy tale",
     "summary": "A vain and pompous firework, the Rocket, believes himself destined for greatness. On the night of a royal wedding, he fails spectacularly because of his arrogance. The story humorously critiques pride and self-importance.",
     "file": "The Remarkable Rocket.txt"
   },
@@ -37,7 +46,7 @@
     "author": "Oscar Wilde",
     "genre": [
       "Fairy tale",
-      "Moral story"
+      "Moral"
     ],
     "summary": "A giant builds a wall around his garden to keep children out, causing eternal winter in his garden. When he eventually allows the children in, spring returns. He learns the joy of generosity and love before he dies.",
     "file": "The Selfish Giant.txt"
@@ -54,7 +63,7 @@
     "id": 7,
     "title": "At the Bay",
     "author": "Katherine Mansfield",
-    "genre": "Literary Fiction/ Modernist ",
+    "genre": ["Literary Fiction","Modernist"],
     "summary": "Depicts a day in the life of the Burnell family, exploring the nuances of family relationships, childhood, and domestic life.",
     "file": "At the Bay.txt"
   },
@@ -62,7 +71,7 @@
     "id": 8,
     "title": "The Garden-Party",
     "author": "Katherine Mansfield",
-    "genre": "Literary Fiction/ Modernist ",
+    "genre": ["Literary Fiction","Modernist"],
     "summary": "Laura Burnell wrestles with class consciousness and mortality when a working-class neighbor dies during her family`s garden party.",
     "file": "The Garden-Party.txt"
   },
@@ -70,7 +79,7 @@
     "id": 9,
     "title": "The Daughters of the Late Colonel",
     "author": "Katherine Mansfield",
-    "genre": "Literary Fiction/ Modernist ",
+    "genre": ["Literary Fiction","Modernist"],
     "summary": "Focuses on the lives of two sisters who struggle with freedom and indecision after their father`s death.",
     "file": "The Daughters of the Late Colonel.txt"
   },
@@ -78,7 +87,7 @@
     "id": 10,
     "title": "Mr. and Mrs. Dove",
     "author": "Katherine Mansfield",
-    "genre": "Literary Fiction/ Modernist ",
+    "genre": ["Literary Fiction","Modernist"],
     "summary": "A story exploring the relationship and misunderstandings between a married couple, highlighting mundane domestic life.",
     "file": "Mr. and Mrs. Dove.txt"
   },
@@ -86,7 +95,7 @@
     "id": 11,
     "title": "The Young Girl",
     "author": "Katherine Mansfield",
-    "genre": "Literary Fiction/ Modernist ",
+    "genre": ["Literary Fiction","Modernist"],
     "summary": "Explores a young girl`s perceptions of social class and personal identity in her daily life.",
     "file": "The Young Girl.txt"
   },
@@ -94,7 +103,7 @@
     "id": 12,
     "title": "Life of Ma Parker",
     "author": "Katherine Mansfield",
-    "genre": "Literary Fiction/ Modernist ",
+    "genre": ["Literary Fiction","Modernist"],
     "summary": "Ma Parker, an elderly servant, reflects on her hardships and the emotional toll of poverty and loss.",
     "file": "Life of Ma Parker.txt"
   },
@@ -102,7 +111,7 @@
     "id": 13,
     "title": "Marriage à la Mode",
     "author": "Katherine Mansfield",
-    "genre": "Literary Fiction/ Modernist ",
+    "genre": ["Literary Fiction","Modernist"],
     "summary": "Critiques the social conventions of marriage and the emotional distance between spouses.",
     "file": "Marriage à la Mode.txt"
   },
@@ -110,7 +119,7 @@
     "id": 14,
     "title": "The Voyage",
     "author": "Katherine Mansfield",
-    "genre": "Literary Fiction/ Modernist ",
+    "genre": ["Literary Fiction","Modernist"],
     "summary": "A young girl travels to live with her estranged grandmother, exploring themes of displacement and emotional growth.",
     "file": "The Voyage.txt"
   },
@@ -118,7 +127,7 @@
     "id": 15,
     "title": "Miss Brill",
     "author": "Katherine Mansfield",
-    "genre": "Literary Fiction/ Modernist ",
+    "genre": ["Literary Fiction","Modernist"],
     "summary": "Miss Brill, an isolated woman, observes people in a park and experiences the sting of loneliness and social alienation.",
     "file": "Miss Brill.txt"
   },
@@ -126,7 +135,7 @@
     "id": 16,
     "title": "Her First Ball",
     "author": "Katherine Mansfield",
-    "genre": "Literary Fiction/ Modernist ",
+    "genre": ["Literary Fiction","Modernist"],
     "summary": "A young girl experiences her first dance, balancing excitement and a sudden awareness of life`s realities.",
     "file": "Her First Ball.txt"
   },
@@ -134,7 +143,7 @@
     "id": 17,
     "title": "The Singing Lesson",
     "author": "Katherine Mansfield",
-    "genre": "Literary Fiction/ Modernist ",
+    "genre": ["Literary Fiction","Modernist"],
     "summary": "A music teacher navigates personal disappointment and fleeting moments of joy in her professional and emotional life.",
     "file": "The Singing Lesson.txt"
   },
@@ -142,7 +151,7 @@
     "id": 18,
     "title": "The Stranger",
     "author": "Katherine Mansfield",
-    "genre": "Literary Fiction/ Modernist ",
+    "genre": ["Literary Fiction","Modernist"],
     "summary": "A woman meets a stranger at a party and reflects on her identity, loneliness, and human connections.",
     "file": "The Stranger.txt"
   },
@@ -150,7 +159,7 @@
     "id": 19,
     "title": "Bank Holiday",
     "author": "Katherine Mansfield",
-    "genre": "Literary Fiction/ Modernist ",
+    "genre":["Literary Fiction","Modernist"],
     "summary": "Explores family dynamics and social observation during a seaside bank holiday trip.",
     "file": "Bank Holiday.txt"
   },
@@ -158,7 +167,7 @@
     "id": 20,
     "title": "An Ideal Family",
     "author": "Katherine Mansfield",
-    "genre": "Literary Fiction/ Modernist ",
+    "genre":["Literary Fiction","Modernist"],
     "summary": "Examines the superficiality and underlying tensions within a supposedly perfect family.",
     "file": "An Ideal Family.txt"
   },
@@ -166,7 +175,7 @@
     "id": 21,
     "title": "The Lady`s Maid",
     "author": "Katherine Mansfield",
-    "genre": "Literary Fiction/ Modernist ",
+    "genre":["Literary Fiction","Modernist"],
     "summary": "Highlights class distinctions and the complex relationships between servants and employers.",
     "file": "The Lady`s Maid.txt"
   },
@@ -174,7 +183,7 @@
     "id": 22,
     "title": "The Lady with the Dog",
     "author": "Anton Chekhov",
-    "genre": "Literary Fiction / Romance",
+    "genre": ["Literary Fiction","Romance"],
     "summary": "A married man and a married woman meet while vacationing in Yalta and begin an affair that evolves into genuine love, exploring themes of loneliness and emotional awakening.",
     "file": "The Lady with the Dog.txt"
   },
@@ -182,7 +191,7 @@
     "id": 23,
     "title": "A Doctor's Visit",
     "author": "Anton Chekhov",
-    "genre": "Literary Fiction / Psychological",
+    "genre": ["Literary Fiction","Psychological"],
     "summary": "A young doctor visits a wealthy factory owner`s ailing daughter and becomes deeply affected by her suffering and the emptiness of upper-class life.",
     "file": "A Doctor's Visit.txt"
   },
@@ -190,7 +199,7 @@
     "id": 24,
     "title": "An Upheaval",
     "author": "Anton Chekhov",
-    "genre": "Literary Fiction / Social Commentary",
+    "genre": ["Literary Fiction","Social Commentary"],
     "summary": "A governess feels humiliated when she is suspected of theft in her employer`s home, revealing class prejudice and the fragility of human dignity.",
     "file": "An Upheaval.txt"
   },
@@ -198,7 +207,7 @@
     "id": 25,
     "title": "Ionitch",
     "author": "Anton Chekhov",
-    "genre": "Literary Fiction / Realism",
+    "genre": ["Literary Fiction","Realism"],
     "summary": "A hardworking doctor gradually becomes indifferent and materialistic as he grows disillusioned with life and love in a small provincial town.",
     "file": "Ionitch.txt"
   },
@@ -206,7 +215,7 @@
     "id": 26,
     "title": "The Head of the Family",
     "author": "Anton Chekhov",
-    "genre": "Literary Fiction / Domestic",
+    "genre": ["Literary Fiction","Domestic"],
     "summary": "A humorous and ironic look at family life, showing the struggles and contradictions of being the so-called `head` of a household.",
     "file": "The Head of the Family.txt"
   },
@@ -214,7 +223,7 @@
     "id": 27,
     "title": "The Black Monk",
     "author": "Anton Chekhov",
-    "genre": "Psychological Fiction / Fantasy",
+    "genre": ["Psychological Fiction","Fantasy"],
     "summary": "A scholar begins seeing visions of a mysterious black monk who tells him he is destined for greatness, blurring the line between genius and madness.",
     "file": "The Black Monk.txt"
   },
@@ -222,7 +231,7 @@
     "id": 28,
     "title": "Volodya",
     "author": "Anton Chekhov",
-    "genre": "Literary Fiction / Tragedy",
+    "genre": ["Literary Fiction","Tragedy"],
     "summary": "A sensitive young man struggles with unrequited love and existential despair, leading to a tragic end that reflects the pain of youth and isolation.",
     "file": "Volodya.txt"
   },
@@ -230,7 +239,7 @@
     "id": 29,
     "title": "An Anonymous Story",
     "author": "Anton Chekhov",
-    "genre": "Political Fiction / Psychological",
+    "genre": ["Political Fiction","Psychological"],
     "summary": "A revolutionary goes undercover as a servant in a government official`s home, only to become entangled in the emotional and moral complexities of his secret mission.",
     "file": "An Anonymous Story.txt"
   },
@@ -238,7 +247,7 @@
     "id": 30,
     "title": "Boule de Suif",
     "author": "Guy de Maupassant",
-    "genre": "Historical Fiction / Realism",
+    "genre": ["Historical Fiction","Realism"],
     "summary": "During the Franco-Prussian War, a group of travelers ostracizes a kind prostitute, Boule de Suif, who sacrifices her dignity for their safety, revealing human hypocrisy and moral corruption.",
     "file": "Boule de Suif.txt"
   },
@@ -246,7 +255,7 @@
     "id": 31,
     "title": "Two Friends",
     "author": "Guy de Maupassant",
-    "genre": "Historical Fiction / War",
+    "genre": ["Historical Fiction","War"],
     "summary": "Two Parisian friends go fishing during the Franco-Prussian War and are captured by the enemy, facing their deaths with quiet bravery.",
     "file": "Two Friends.txt"
   },
@@ -254,7 +263,7 @@
     "id": 32,
     "title": "The Lancer's Wife",
     "author": "Guy de Maupassant",
-    "genre": "Historical Fiction / War",
+    "genre": ["Historical Fiction","War"],
     "summary": "A French lancer's wife shows remarkable courage and cunning when captured by Prussian soldiers, blending humor and patriotism.",
     "file": "The Lancer's Wife.txt"
   },
@@ -262,7 +271,7 @@
     "id": 33,
     "title": "The Prisoners",
     "author": "Guy de Maupassant",
-    "genre": "Historical Fiction / War",
+    "genre": ["Historical Fiction","War"],
     "summary": "Two French women captured by Prussian soldiers use wit and charm to regain their freedom, highlighting resilience amid war.",
     "file": "The Prisoners.txt"
   },
@@ -270,7 +279,7 @@
     "id": 34,
     "title": "Two Little Soldiers",
     "author": "Guy de Maupassant",
-    "genre": "Romance / Tragedy",
+    "genre": ["Romance","Tragedy"],
     "summary": "Two simple soldiers who share innocent friendship and a love for a village girl face heartbreak when jealousy and betrayal strike.",
     "file": "Two Little Soldiers.txt"
   },
@@ -278,7 +287,7 @@
     "id": 35,
     "title": "Father Milon",
     "author": "Guy de Maupassant",
-    "genre": "Historical Fiction / War",
+    "genre": ["Historical Fiction","War"],
     "summary": "An old French farmer takes revenge on the Prussian soldiers occupying his village, embodying patriotism and sacrifice.",
     "file": "Father Milon.txt"
   },
@@ -286,7 +295,7 @@
     "id": 36,
     "title": "A Coup d'État",
     "author": "Guy de Maupassant",
-    "genre": "Historical Fiction / Satire",
+    "genre": ["Historical Fiction","satire"],
     "summary": "A satirical account of French villagers` reaction to the Franco-Prussian War, exposing cowardice, opportunism, and moral weakness.",
     "file": "A Coup d'État.txt"
   },
@@ -294,7 +303,7 @@
     "id": 37,
     "title": "Lieutenant Lare's Marriage",
     "author": "Guy de Maupassant",
-    "genre": "Romance / Realism",
+    "genre": ["Romance","Realism"],
     "summary": "A cynical look at love and marriage as Lieutenant Lare navigates societal expectations and personal ambition.",
     "file": "Lieutenant Lare's Marriage.txt"
   },
@@ -302,7 +311,7 @@
     "id": 38,
     "title": "The Horrible",
     "author": "Guy de Maupassant",
-    "genre": "Horror / Psychological Fiction",
+    "genre": ["Horror","Psychological Fiction"],
     "summary": "A priest recounts a terrifying and tragic event involving murder and madness, exploring the darkness of the human mind.",
     "file": "The Horrible.txt"
   },
@@ -310,7 +319,7 @@
     "id": 39,
     "title": "Madame Parisse",
     "author": "Guy de Maupassant",
-    "genre": "Romance / Realism",
+    "genre": ["Romance","Realism"],
     "summary": "A tale of love, infidelity, and regret, as a woman reflects on her past affair with a young officer during a seaside vacation.",
     "file": "Madame Parisse.txt"
   },
@@ -318,7 +327,7 @@
     "id": 40,
     "title": "Mademoiselle Fifi",
     "author": "Guy de Maupassant",
-    "genre": "Historical Fiction / War",
+    "genre": ["Historical Fiction","War"],
     "summary": "During the Prussian occupation, a defiant French prostitute kills a cruel officer nicknamed 'Mademoiselle Fifi,' symbolizing resistance and national pride.",
     "file": "Mademoiselle Fifi.txt"
   },
@@ -326,7 +335,7 @@
     "id": 41,
     "title": "A Duel",
     "author": "Guy de Maupassant",
-    "genre": "Historical Fiction / War",
+    "genre": ["Historical Fiction","War"],
     "summary": "A French civilian, humiliated by a Prussian officer, is forced into a duel that becomes a symbol of personal courage and patriotic defiance.",
     "file": "A Duel.txt"
   },
@@ -342,7 +351,7 @@
     "id": 43,
     "title": "Mother Sauvage",
     "author": "Guy de Maupassant",
-    "genre": "Historical Fiction / War",
+    "genre": ["Historical Fiction","War"],
     "summary": "A French woman shelters Prussian soldiers during the war but takes terrible revenge after learning her son has been killed by them.",
     "file": "Mother Sauvage.txt"
   },
@@ -350,7 +359,7 @@
     "id": 44,
     "title": "Epiphany",
     "author": "Guy de Maupassant",
-    "genre": "Romance / Realism",
+    "genre": ["Romance","Realism"],
     "summary": "A priest recalls a moment of human tenderness and love he once experienced, contrasting spiritual duty with emotional longing.",
     "file": "Epiphany.txt"
   },
@@ -358,7 +367,7 @@
     "id": 45,
     "title": "The Mustache",
     "author": "Guy de Maupassant",
-    "genre": "Romance / Satire",
+    "genre": ["Romance","Satire"],
     "summary": "A humorous story about jealousy and vanity, centered on a husband`s irrational reaction to his wife`s innocent affection for a man with a mustache.",
     "file": "The Mustache.txt"
   },
@@ -366,7 +375,7 @@
     "id": 46,
     "title": "Madame Baptiste",
     "author": "Guy de Maupassant",
-    "genre": "Romance / Tragedy",
+    "genre": ["Romance","Tragedy"],
     "summary": "A woman`s reputation is ruined by an event from her past, showing the cruelty of gossip and society`s unforgiving nature.",
     "file": "Madame Baptiste.txt"
   },
@@ -374,7 +383,7 @@
     "id": 47,
     "title": "The Question of Latin",
     "author": "Guy de Maupassant",
-    "genre": "Satire / Realism",
+    "genre": ["Satire","Realism"],
     "summary": "A witty critique of the French education system, mocking the rigid teaching of Latin and outdated academic traditions.",
     "file": "The Question of Latin.txt"
   },
@@ -382,7 +391,7 @@
     "id": 48,
     "title": "A Meeting",
     "author": "Guy de Maupassant",
-    "genre": "Romance / Realism",
+    "genre": ["Romance","Realism"],
     "summary": "A man unexpectedly reunites with a former lover, reflecting on lost love and the passage of time with quiet melancholy.",
     "file": "A Meeting.txt"
   },
@@ -390,7 +399,7 @@
     "id": 49,
     "title": "The Blind Man",
     "author": "Guy de Maupassant",
-    "genre": "Psychological Fiction / Tragedy",
+    "genre": ["Psychological Fiction","Tragedy"],
     "summary": "A blind man`s suffering and dependence evoke pity and horror, exploring the cruelty of fate and human indifference.",
     "file": "The Blind Man.txt"
   },
@@ -398,7 +407,7 @@
     "id": 50,
     "title": "Indiscretion",
     "author": "Guy de Maupassant",
-    "genre": "Romance / Satire",
+    "genre": ["Romance","Satire"],
     "summary": "A playful tale where a husband`s curiosity and jealousy lead to ironic revelations about love and secrecy.",
     "file": "Indiscretion.txt"
   },
@@ -406,7 +415,7 @@
     "id": 51,
     "title": "A Family Affair",
     "author": "Guy de Maupassant",
-    "genre": "Realism / Satire",
+    "genre": ["Romance","Satire"],
     "summary": "A darkly comic look at greed and hypocrisy within a family fighting over inheritance.",
     "file": "A Family Affair.txt"
   },
@@ -414,7 +423,7 @@
     "id": 52,
     "title": "Beside Schopenhauer's Corpse",
     "author": "Guy de Maupassant",
-    "genre": "Philosophical Fiction / Psychological",
+    "genre": ["Philosophical Fiction","Psychological"],
     "summary": "A story about death, philosophy, and human vanity, as a man reflects on life while standing beside Schopenhauer`s corpse.",
     "file": "Beside Schopenhauer's Corpse.txt"
   },
@@ -422,7 +431,7 @@
     "id": 53,
     "title": "Miss Harriet",
     "author": "Guy de Maupassant",
-    "genre": "Romance / Tragedy",
+    "genre": ["Romance","Tragedy"],
     "summary": "A lonely Englishwoman living in rural France falls in love with a young artist, leading to an unrequited and tragic end.",
     "file": "Miss Harriet.txt"
   },
@@ -430,7 +439,7 @@
     "id": 54,
     "title": "Little Louise Roque",
     "author": "Guy de Maupassant",
-    "genre": "Historical Fiction / Tragedy",
+    "genre": ["Historical Fiction","Tragedy"],
     "summary": "A young village girl`s disappearance and death reveal the corruption and cruelty lurking beneath rural innocence.",
     "file": "Little Louise Roque.txt"
   },
@@ -438,7 +447,7 @@
     "id": 55,
     "title": "The Donkey",
     "author": "Guy de Maupassant",
-    "genre": "Satire / Realism",
+    "genre": ["Satire","Realism"],
     "summary": "A humorous yet biting tale about greed and hypocrisy, as villagers exploit a donkey’s death for their own gain.",
     "file": "The Donkey.txt"
   },
@@ -454,7 +463,7 @@
     "id": 57,
     "title": "The Dispenser of Holy Water",
     "author": "Guy de Maupassant",
-    "genre": "Romance / Realism",
+    "genre": ["Romance","Realism"],
     "summary": "A sacristan secretly falls in love with a woman who visits his church, blending humor with tender human observation.",
     "file": "The Dispenser of Holy Water.txt"
   },
@@ -462,7 +471,7 @@
     "id": 58,
     "title": "A Parricide",
     "author": "Guy de Maupassant",
-    "genre": "Horror / Psychological",
+    "genre": ["Horror","Psychological"],
     "summary": "A shocking story about a young man who murders his father, exposing madness, guilt, and moral decay.",
     "file": "A Parricide.txt"
   },
@@ -470,7 +479,7 @@
     "id": 59,
     "title": "Bertha",
     "author": "Guy de Maupassant",
-    "genre": "Romance / Tragedy",
+    "genre": ["Romance","Tragedy"],
     "summary": "A woman trapped in a passionless marriage seeks freedom through love, leading to heartbreak and despair.",
     "file": "Bertha.txt"
   },
@@ -478,7 +487,7 @@
     "id": 60,
     "title": "The Door",
     "author": "Guy de Maupassant",
-    "genre": "Horror / Mystery",
+    "genre": ["Horror","Mystery"],
     "summary": "A chilling tale of paranoia and fear, as a man becomes obsessed with a mysterious door and what lies beyond it.",
     "file": "The Door.txt"
   },
@@ -486,7 +495,7 @@
     "id": 61,
     "title": "A Sale",
     "author": "Guy de Maupassant",
-    "genre": "Romance / Realism",
+    "genre": ["Romance","Realism"],
     "summary": "A witty tale of a woman negotiating love and money, revealing the transactional nature of relationships in high society.",
     "file": "A Sale.txt"
   },
@@ -494,7 +503,7 @@
     "id": 62,
     "title": "The Impolite Sex",
     "author": "Guy de Maupassant",
-    "genre": "Romance / Satire",
+    "genre": ["Romance","Satire"],
     "summary": "A humorous commentary on the differences between men and women, poking fun at romantic and social expectations.",
     "file": "The Impolite Sex.txt"
   },
@@ -502,7 +511,7 @@
     "id": 63,
     "title": "A Wedding Gift",
     "author": "Guy de Maupassant",
-    "genre": "Romance / Tragedy",
+    "genre": ["Romance","Tragedy"],
     "summary": "A seemingly happy wedding hides betrayal and sorrow when a cruel discovery ruins a bride`s new life.",
     "file": "A Wedding Gift.txt"
   },
@@ -510,7 +519,7 @@
     "id": 64,
     "title": "The Relic",
     "author": "Guy de Maupassant",
-    "genre": "Satire / Romance",
+    "genre": ["Satire","Romance"],
     "summary": "A mischievous man tricks a pious woman with a fake religious relic, mocking faith, love, and gullibility with dark humor.",
     "file": "The Relic.txt"
   },
@@ -1046,7 +1055,7 @@
     "id": 131,
     "title": "An Honest Thief",
     "author": "Fyodor Dostoevsky",
-    "genre": "Realist Short Story",
+    "genre": "Realist Story",
     "summary": "A moving tale of a small-time thief whose honest confession reveals human frailty and compassion.",
     "file": "An_Honest_Thief.txt"
   },
@@ -1054,7 +1063,7 @@
     "id": 132,
     "title": "A Novel in Nine Letters",
     "author": "Fyodor Dostoevsky",
-    "genre": "Epistolary Satire",
+    "genre": "Satire",
     "summary": "A comedic and satirical story told entirely through a series of misdelivered letters, revealing misunderstandings and bureaucracy.",
     "file": "A_Novel_in_Nine_Letters.txt"
   },
@@ -1062,7 +1071,7 @@
     "id": 133,
     "title": "An Unpleasant Predicament",
     "author": "Fyodor Dostoevsky",
-    "genre": "Social Satire",
+    "genre": "Satire",
     "summary": "A respectable official becomes unintentionally embroiled in farce after attending a wedding he was not invited to.",
     "file": "An_Unpleasant_Predicament.txt"
   },
@@ -1078,7 +1087,7 @@
     "id": 135,
     "title": "The Heavenly Christmas Tree",
     "author": "Fyodor Dostoevsky",
-    "genre": "Christmas Parable",
+    "genre": "Fiction",
     "summary": "A deeply moving, sympathetic portrayal of a poor child’s dreams on Christmas Eve in the snowy streets of St. Petersburg.",
     "file": "The_Heavenly_Christmas_Tree.txt"
   },
@@ -1086,7 +1095,7 @@
     "id": 136,
     "title": "The Peasant Marey",
     "author": "Fyodor Dostoevsky",
-    "genre": "Memoir Short Story",
+    "genre": "Fiction",
     "summary": "Dostoevsky reflects on an episode of his childhood, drawing lessons of kindness and humility.",
     "file": "The_Peasant_Marey.txt"
   },
@@ -1094,7 +1103,7 @@
     "id": 137,
     "title": "The Crocodile",
     "author": "Fyodor Dostoevsky",
-    "genre": "Political Satire",
+    "genre": "Satire",
     "summary": "A dark satirical tale in which a civil servant is swallowed by a crocodile and delivers biting social commentary from within.",
     "file": "The_Crocodile.txt"
   },
@@ -1102,7 +1111,7 @@
     "id": 138,
     "title": "Bobok",
     "author": "Fyodor Dostoevsky",
-    "genre": "Philosophical Satire",
+    "genre": "Satire",
     "summary": "A disillusioned narrator overhears the posthumous conversations of the dead—their weaknesses and absurdities exposed.",
     "file": "Bobok.txt"
   },
@@ -1110,7 +1119,7 @@
     "id": 139,
     "title": "The Dream of a Ridiculous Man",
     "author": "Fyodor Dostoevsky",
-    "genre": "Philosophical Fantasy",
+    "genre": "Fantasy",
     "summary": "A despairing man recounts a redemptive, visionary dream which spurs his search for life’s meaning and the possibility of goodness.",
     "file": "The_Dream_of_a_Ridiculous_Man.txt"
   },
@@ -1118,7 +1127,7 @@
     "id": 140,
     "title": "The Paper Bird",
     "author": "Ai generated",
-    "genre": "Magical Realism",
+    "genre": "Fantasy",
     "summary": "A young woman folds paper birds with wishes that are carried by the wind, connecting her dreams to mysterious treasures from the sea.",
     "file": "The Paper Bird.txt"
   },
@@ -1542,7 +1551,7 @@
     "id": 193,
     "title": "My Uncle Jules",
     "author": "Guy de Maupassant",
-    "genre": "Family Fiction",
+    "genre": "Fiction",
     "summary": "A family drama driven by hopes and disappointments as the protagonist awaits the return of the elusive Uncle Jules.",
     "file": "My_Uncle_Jules.txt"
   },
@@ -1550,7 +1559,7 @@
     "id": 194,
     "title": "The Model",
     "author": "Guy de Maupassant",
-    "genre": "Psychological Fiction",
+    "genre": "Fiction",
     "summary": "Examines the complex relationship between an artist and his model, blending themes of passion, exploitation, and regret.",
     "file": "The_Model.txt"
   },
@@ -1646,7 +1655,7 @@
     "id": 206,
     "title": "The Travelling Musicians",
     "author": "Brothers Grimm",
-    "genre": "Animal Fable",
+    "genre": "Animal Tale",
     "summary": "Four aging domestic animals become musicians and outwit robbers at a cottage, becoming the famous Bremen Town Musicians.",
     "file": "The_Travelling_Musicians.txt"
   },
@@ -1662,7 +1671,7 @@
     "id": 208,
     "title": "The Straw, the Coal, and the Bean",
     "author": "Brothers Grimm",
-    "genre": "Comic Tale",
+    "genre": "Comic Fairy Tale",
     "summary": "A playful adventure of a straw, a coal, and a bean that encounter obstacles together with humorous results.",
     "file": "The_Straw_the_Coal_and_the_Bean.txt"
   },
@@ -1678,7 +1687,7 @@
     "id": 210,
     "title": "The Dog and the Sparrow",
     "author": "Brothers Grimm",
-    "genre": "Animal Fable",
+    "genre": "Animal Tale",
     "summary": "A mistreated dog finds a friend in a sparrow, who exacts vengeance on the dog's cruel master with clever tricks.",
     "file": "The_Dog_and_the_Sparrow.txt"
   },
@@ -1686,7 +1695,7 @@
     "id": 211,
     "title": "The Twelve Dancing Princesses",
     "author": "Brothers Grimm",
-    "genre": "Mystery Fairy Tale",
+    "genre": ["Mystery","Fairy Tale"],
     "summary": "Twelve princesses secretly dance every night, baffling the king who offers their hand in marriage to anyone who can solve the mystery.",
     "file": "The_Twelve_Dancing_Princesses.txt"
   },
@@ -1694,7 +1703,7 @@
     "id": 212,
     "title": "The Fisherman and His Wife",
     "author": "Brothers Grimm",
-    "genre": "Moral Fairy Tale",
+    "genre": ["Moral","Fairy Tale"],
     "summary": "A fisherman’s greedy wife pushes him to keep asking a magical fish for more, until their desires bring ruin.",
     "file": "The_Fisherman_and_His_Wife.txt"
   },
@@ -1702,7 +1711,7 @@
     "id": 213,
     "title": "The Willow-Wren and the Bear",
     "author": "Brothers Grimm",
-    "genre": "Animal Fable",
+    "genre": "Animal Tale",
     "summary": "A conflict between birds and the bear leads to a clever victory for the smallest creatures.",
     "file": "The_Willow-Wren_and_the_Bear.txt"
   },
@@ -1718,7 +1727,7 @@
     "id": 215,
     "title": "Cat and Mouse in Partnership",
     "author": "Brothers Grimm",
-    "genre": "Animal Fable",
+    "genre": "Animal Tale",
     "summary": "A cat and a mouse become partners, but their relationship ends in betrayal and tragedy.",
     "file": "Cat_and_Mouse_in_Partnership.txt"
   },
@@ -1758,7 +1767,7 @@
     "id": 220,
     "title": "The Valiant Little Tailor",
     "author": "Brothers Grimm",
-    "genre": "Adventure Fairy Tale",
+    "genre": ["Adventure","Fairy Tale"],
     "summary": "A clever tailor triumphs over giants and other obstacles by wit and courage, making his fortune.",
     "file": "The_Valiant_Little_Tailor.txt"
   },
@@ -1782,7 +1791,7 @@
     "id": 223,
     "title": "Mother Holle",
     "author": "Brothers Grimm",
-    "genre": "Moral Fairy Tale",
+    "genre": ["Moral","Fairy Tale"],
     "summary": "A hardworking girl is rewarded and her lazy stepsister punished by the magical Mother Holle.",
     "file": "Mother_Holle.txt"
   },
@@ -1806,7 +1815,7 @@
     "id": 226,
     "title": "Tom Thumb",
     "author": "Brothers Grimm",
-    "genre": "Adventure Fairy Tale",
+    "genre": ["Adventure","Fairy Tale"],
     "summary": "A child no bigger than a thumb uses his cleverness to escape trouble and help his family.",
     "file": "Tom_Thumb.txt"
   },
@@ -1822,7 +1831,7 @@
     "id": 228,
     "title": "Clever Gretel",
     "author": "Brothers Grimm",
-    "genre": "Comic Tale",
+    "genre": "Comic Fairy Tale",
     "summary": "Clever Gretel outsmarts her employer and steals two chickens prepared for guests.",
     "file": "Clever_Gretel.txt"
   },
@@ -1846,7 +1855,7 @@
     "id": 231,
     "title": "Frederick and Catherine",
     "author": "Brothers Grimm",
-    "genre": "Comic Tale",
+    "genre": "Comic Fairy Tale",
     "summary": "Frederick’s foolish wife, Catherine, makes one blunder after another to Frederick’s exasperation.",
     "file": "Frederick_and_Catherine.txt"
   },
@@ -1878,7 +1887,7 @@
     "id": 235,
     "title": "Clever Elsie",
     "author": "Brothers Grimm",
-    "genre": "Comic Tale",
+    "genre": "Comic Fairy Tale",
     "summary": "Elsie's excessive worrying leads to comic misadventures about her own wedding dinner.",
     "file": "Clever_Elsie.txt"
   },
@@ -1886,7 +1895,7 @@
     "id": 236,
     "title": "The Miser in the Bush",
     "author": "Brothers Grimm",
-    "genre": "Moral Fairy Tale",
+    "genre": ["Moral","Fairy Tale"],
     "summary": "A miser is punished for his misdeeds by magic creatures after cheating a servant.",
     "file": "The_Miser_in_the_Bush.txt"
   },
@@ -1950,7 +1959,7 @@
     "id": 244,
     "title": "Clever Hans",
     "author": "Brothers Grimm",
-    "genre": "Comic Tale",
+    "genre": "Comic Fairy Tale",
     "summary": "Hans misinterprets advice and instructions, causing amusing outcomes.",
     "file": "Clever_Hans.txt"
   },
@@ -1958,7 +1967,7 @@
     "id": 245,
     "title": "The Three Languages",
     "author": "Brothers Grimm",
-    "genre": "Moral Fairy Tale",
+    "genre": ["Moral","Fairy Tale"],
     "summary": "A youth, considered foolish, learns animal languages and uses this gift to become king.",
     "file": "The_Three_Languages.txt"
   },
@@ -1966,7 +1975,7 @@
     "id": 246,
     "title": "The Fox and the Cat",
     "author": "Brothers Grimm",
-    "genre": "Animal Fable",
+    "genre": "Animal Tale",
     "summary": "A fox who knows many tricks is outwitted by a cat who knows only one, but it saves him.",
     "file": "The_Fox_and_the_Cat.txt"
   },
@@ -1974,7 +1983,7 @@
     "id": 247,
     "title": "The Four Clever Brothers",
     "author": "Brothers Grimm",
-    "genre": "Adventure Fairy Tale",
+    "genre": ["Adventure","Fairy Tale"],
     "summary": "Four brothers learn different trades and combine skills to save a princess.",
     "file": "The_Four_Clever_Brothers.txt"
   },
@@ -2030,7 +2039,7 @@
     "id": 254,
     "title": "The Twelve Huntsmen",
     "author": "Brothers Grimm",
-    "genre": "Adventure Fairy Tale",
+    "genre": ["Adventure","Fairy Tale"],
     "summary": "A woman and eleven companions dress as huntsmen to save her engagement to a prince.",
     "file": "The_Twelve_Huntsmen.txt"
   },
@@ -2038,7 +2047,7 @@
     "id": 255,
     "title": "The King of the Golden Mountain",
     "author": "Brothers Grimm",
-    "genre": "Adventure Fairy Tale",
+    "genre": ["Adventure","Fairy Tale"],
     "summary": "A young man overcomes many perils to become king and win his family's happiness.",
     "file": "The_King_of_the_Golden_Mountain.txt"
   },
@@ -2046,7 +2055,7 @@
     "id": 256,
     "title": "Doctor Knowall",
     "author": "Brothers Grimm",
-    "genre": "Comic Tale",
+    "genre": "Comic Fairy Tale",
     "summary": "A peasant accidentally becomes a famous doctor, solving crimes by luck and misunderstanding.",
     "file": "Doctor_Knowall.txt"
   },
@@ -2062,7 +2071,7 @@
     "id": 258,
     "title": "The Wedding of Mrs Fox",
     "author": "Brothers Grimm",
-    "genre": "Animal Fable",
+    "genre": "Animal Fairy Tale",
     "summary": "Mrs. Fox tests suitors' loyalty after Mr. Fox fakes his own death.",
     "file": "The_Wedding_of_Mrs_Fox.txt"
   },
@@ -2070,7 +2079,7 @@
     "id": 259,
     "title": "The Salad",
     "author": "Brothers Grimm",
-    "genre": "Comic Tale",
+    "genre": "Comic Fairy Tale",
     "summary": "A magical salad brings misfortune and confusion, but luck ultimately prevails.",
     "file": "The_Salad.txt"
   },
@@ -2078,7 +2087,7 @@
     "id": 260,
     "title": "The Story of the Youth Who Went Forth to Learn What Fear Was",
     "author": "Brothers Grimm",
-    "genre": "Adventure Fairy Tale",
+    "genre": ["Adventure","Fairy Tale"],
     "summary": "A fearless youth goes on a quest to discover the meaning of fear, learning life lessons along the way.",
     "file": "The_Story_of_the_Youth_Who_Went_Forth_to_Learn_What_Fear_Was.txt"
   },
@@ -2086,7 +2095,7 @@
     "id": 261,
     "title": "King Grisly-Beard",
     "author": "Brothers Grimm",
-    "genre": "Moral Fairy Tale",
+    "genre": ["Moral","Fairy Tale"],
     "summary": "A proud princess learns humility and the value of kindness after marrying a disguised king.",
     "file": "King_Grisly-Beard.txt"
   },
@@ -2118,7 +2127,7 @@
     "id": 265,
     "title": "The Emperor's New Clothes",
     "author": "Hans Christian Andersen",
-    "genre": "Literary Fairy Tale",
+    "genre": ["Adventure","Fairy Tale"],
     "summary": "A vain emperor is tricked into wearing invisible clothes, exposing the dangers of pride and flattery.",
     "file": "The_Emperors_New_Clothes.txt"
   },
@@ -2126,7 +2135,7 @@
     "id": 266,
     "title": "The Swineherd",
     "author": "Hans Christian Andersen",
-    "genre": "Literary Fairy Tale",
+    "genre": ["Adventure","Fairy Tale"],
     "summary": "A prince disguises himself as a swineherd to win the heart of a vain princess, ultimately teaching her a lesson about superficiality.",
     "file": "The_Swineherd.txt"
   },
@@ -2134,7 +2143,7 @@
     "id": 267,
     "title": "The Real Princess",
     "author": "Hans Christian Andersen",
-    "genre": "Literary Fairy Tale",
+    "genre": ["Adventure","Fairy Tale"],
     "summary": "Also known as The Princess and the Pea, this story tells of a delicate princess proved by a single pea beneath many mattresses.",
     "file": "The_Real_Princess.txt"
   },
@@ -2142,7 +2151,7 @@
     "id": 268,
     "title": "The Shoes of Fortune",
     "author": "Hans Christian Andersen",
-    "genre": "Fantasy Fairy Tale",
+    "genre": ["Adventure","Fairy Tale"],
     "summary": "Magical shoes bring their wearers various adventures—and often disappointment—by fulfilling their deepest wishes in unexpected ways.",
     "file": "The_Shoes_of_Fortune.txt"
   },
@@ -2150,7 +2159,7 @@
     "id": 269,
     "title": "The Fir Tree",
     "author": "Hans Christian Andersen",
-    "genre": "Moral Fairy Tale",
+    "genre": ["Adventure","Fairy Tale"],
     "summary": "A fir tree, discontent with the present, misses out on the joys of life by yearning only for the future.",
     "file": "The_Fir_Tree.txt"
   },
@@ -2158,7 +2167,7 @@
     "id": 270,
     "title": "The Snow Queen",
     "author": "Hans Christian Andersen",
-    "genre": "Literary Fairy Tale",
+    "genre": ["Adventure","Fairy Tale"],
     "summary": "A young girl embarks on a magical journey to rescue her friend from the icy clutches of the Snow Queen.",
     "file": "The_Snow_Queen.txt"
   },
@@ -2174,7 +2183,7 @@
     "id": 272,
     "title": "The Elderbush",
     "author": "Hans Christian Andersen",
-    "genre": "Literary Fairy Tale",
+    "genre": ["Literary","Fairy Tale"],
     "summary": "A tale of dreams and memories as told by the magical elderbush and a loving grandmother.",
     "file": "The_Elderbush.txt"
   },
@@ -2182,7 +2191,7 @@
     "id": 273,
     "title": "The Bell",
     "author": "Hans Christian Andersen",
-    "genre": "Moral Fairy Tale",
+    "genre": ["Moral","Fairy Tale"],
     "summary": "Children search for a mysterious bell in the forest, discovering beauty and wonder along the way.",
     "file": "The_Bell.txt"
   },
@@ -2190,7 +2199,7 @@
     "id": 274,
     "title": "The Old House",
     "author": "Hans Christian Andersen",
-    "genre": "Literary Fairy Tale",
+    "genre": ["Literary","Fairy Tale"],
     "summary": "A lonely old house finds new companionship and happiness after years of solitude.",
     "file": "The_Old_House.txt"
   },
@@ -2206,7 +2215,7 @@
     "id": 276,
     "title": "The Story of a Mother",
     "author": "Hans Christian Andersen",
-    "genre": "Tragic Fairy Tale",
+    "genre": ["Tragic","Fairy Tale"],
     "summary": "A mother’s deep love is tested as she braves great challenges to save her child from Death.",
     "file": "The_Story_of_a_Mother.txt"
   },
@@ -2214,7 +2223,7 @@
     "id": 277,
     "title": "The False Collar",
     "author": "Hans Christian Andersen",
-    "genre": "Comic Tale",
+    "genre": "Comic Fairy Tale",
     "summary": "A discarded collar recounts its adventures, comically boasting about its brief glory.",
     "file": "The_False_Collar.txt"
   },
@@ -2230,7 +2239,7 @@
     "id": 279,
     "title": "The Little Match Girl",
     "author": "Hans Christian Andersen",
-    "genre": "Tragic Fairy Tale",
+    "genre": ["Tragic","Fairy Tale"],
     "summary": "A poor girl experiences bittersweet visions in the cold before passing away, providing a poignant social commentary.",
     "file": "The_Little_Match_Girl.txt"
   },
@@ -2238,7 +2247,7 @@
     "id": 280,
     "title": "The Dream of Little Tuk",
     "author": "Hans Christian Andersen",
-    "genre": "Literary Fairy Tale",
+    "genre": ["Literary","Fairy Tale"],
     "summary": "Little Tuk’s dreams transport him on magical journeys that bring both comfort and wisdom.",
     "file": "The_Dream_of_Little_Tuk.txt"
   },
@@ -2246,7 +2255,7 @@
     "id": 281,
     "title": "The Naughty Boy",
     "author": "Hans Christian Andersen",
-    "genre": "Comic Fairy Tale",
+    "genre": ["Comic","Fairy Tale"],
     "summary": "Cupid, depicted as a mischievous boy, plays pranks, turning love upside down in a lighthearted tale.",
     "file": "The_Naughty_Boy.txt"
   },
@@ -2254,7 +2263,7 @@
     "id": 282,
     "title": "The Red Shoes",
     "author": "Hans Christian Andersen",
-    "genre": "Moral Fairy Tale",
+    "genre": ["Moral","Fairy Tale"],
     "summary": "A vain girl’s obsession with red shoes leads to a lesson in humility and repentance.",
     "file": "The_Red_Shoes.txt"
   },
@@ -2262,7 +2271,7 @@
     "id": 283,
     "title": "The Black Cat",
     "author": "Edgar Allan Poe",
-    "genre": "Gothic Horror",
+    "genre": "Horror",
     "summary": "A chilling story of guilt and psychological horror as a man's descent into madness is symbolized by a mysterious black cat.",
     "file": "The_Black_Cat.txt"
   },
@@ -2270,7 +2279,7 @@
     "id": 284,
     "title": "The Flayed Hand",
     "author": "Guy de Maupassant",
-    "genre": "Supernatural Horror",
+    "genre": "Horror",
     "summary": "A severed hand, kept as a curiosity, exacts vengeance upon those who disturb it.",
     "file": "The_Flayed_Hand.txt"
   },
@@ -2278,7 +2287,7 @@
     "id": 285,
     "title": "The Vengeance of a Tree",
     "author": "Eleanor Furneaux Smith",
-    "genre": "Supernatural Mystery",
+    "genre": "Horror",
     "summary": "A tree appears to exact revenge from beyond the grave, raising questions of guilt and justice.",
     "file": "The_Vengeance_of_a_Tree.txt"
   },
@@ -2310,7 +2319,7 @@
     "id": 289,
     "title": "A Phantom Toe",
     "author": "Anonymous",
-    "genre": "Humorous Ghost Story",
+    "genre": "Ghost Story",
     "summary": "A comical account of a mysterious toe that haunts a small town.",
     "file": "A_Phantom_Toe.txt"
   },
@@ -2318,7 +2327,7 @@
     "id": 290,
     "title": "Mrs. Davenport’s Ghost",
     "author": "Anonymous",
-    "genre": "Paranormal Tale",
+    "genre": "Ghost Tale",
     "summary": "The ghost of Mrs. Davenport returns to reveal long-kept family secrets.",
     "file": "Mrs_Davenports_Ghost.txt"
   },
@@ -2326,7 +2335,7 @@
     "id": 291,
     "title": "The Phantom Woman",
     "author": "Anonymous",
-    "genre": "Supernatural Story",
+    "genre": "Ghost Story",
     "summary": "A mysterious woman appears and vanishes, leaving characters doubting their senses.",
     "file": "The_Phantom_Woman.txt"
   },
@@ -2366,7 +2375,7 @@
     "id": 296,
     "title": "The Spectre Bride",
     "author": "Anonymous",
-    "genre": "Gothic Tale",
+    "genre": "Ghost Tale",
     "summary": "A bride returns from the grave to fulfill an unbreakable vow.",
     "file": "The_Spectre_Bride.txt"
   },
@@ -2382,7 +2391,7 @@
     "id": 298,
     "title": "Grand-Dame’s Ghost Story",
     "author": "Anonymous",
-    "genre": "Family Ghost Story",
+    "genre": "Ghost Story",
     "summary": "An elderly woman recounts a personal, haunting encounter from her youth.",
     "file": "Grand-Dames_Ghost_Story.txt"
   },
@@ -2390,7 +2399,7 @@
     "id": 299,
     "title": "A Fight with a Ghost",
     "author": "Anonymous",
-    "genre": "Paranormal Tale",
+    "genre": "Ghost Tale",
     "summary": "A physical battle with a ghost tests one man's courage and beliefs.",
     "file": "A_Fight_with_a_Ghost.txt"
   },
@@ -2398,7 +2407,7 @@
     "id": 300,
     "title": "Colonel Halifax’s Ghost Story",
     "author": "Anonymous",
-    "genre": "Military Ghost Tale",
+    "genre": "Ghost Tale",
     "summary": "A colonel tells of spectral events experienced during his service.",
     "file": "Colonel_Halifaxs_Ghost_Story.txt"
   },
@@ -2406,7 +2415,7 @@
     "id": 301,
     "title": "The Ghost of the Count",
     "author": "Anonymous",
-    "genre": "Gothic Story",
+    "genre": "Ghost Story",
     "summary": "A nobleman's ghost haunts his ancestral home, seeking peace.",
     "file": "The_Ghost_of_the_Count.txt"
   },
@@ -2414,7 +2423,7 @@
     "id": 302,
     "title": "The Old Mansion",
     "author": "Anonymous",
-    "genre": "Haunted House Tale",
+    "genre": "Ghost Tale",
     "summary": "Mysteries abound in an old mansion where restless spirits roam.",
     "file": "The_Old_Mansion.txt"
   },
@@ -2430,7 +2439,7 @@
     "id": 304,
     "title": "An Unbidden Guest",
     "author": "Anonymous",
-    "genre": "Paranormal Story",
+    "genre": "Ghost Story",
     "summary": "A mysterious guest appears at a gathering, causing unease and suspicion.",
     "file": "An_Unbidden_Guest.txt"
   },
@@ -2438,7 +2447,7 @@
     "id": 305,
     "title": "The Dead Woman’s Photograph",
     "author": "Anonymous",
-    "genre": "Supernatural Mystery",
+    "genre": "Horror",
     "summary": "An old photograph reveals a chilling secret about a woman's death.",
     "file": "The_Dead_Womans_Photograph.txt"
   },
@@ -2454,7 +2463,7 @@
     "id": 307,
     "title": "The Ghost of Washington",
     "author": "Anonymous",
-    "genre": "Patriotic Ghost Tale",
+    "genre": "Ghost tale",
     "summary": "The spirit of George Washington returns, instilling wisdom and courage.",
     "file": "The_Ghost_of_Washington.txt"
   },
@@ -2582,7 +2591,7 @@
     "id": 323,
     "title": "The Quarrel of the Monkey and the Crab",
     "author": "Yei Theodora Ozaki (reteller)",
-    "genre": "Japanese Animal Tale",
+    "genre": "Japanese Animal tale",
     "summary": "The monkey’s greed and treachery are repaid with karma in this tale about justice and clever revenge.",
     "file": "The_Quarrel_of_the_Monkey_and_the_Crab.txt"
   },
@@ -2598,7 +2607,7 @@
     "id": 325,
     "title": "The Story of Prince Yamato Take",
     "author": "Yei Theodora Ozaki (reteller)",
-    "genre": "Japanese Legend",
+    "genre": "Japanese Folktale",
     "summary": "The epic journeys and heroic deeds of Prince Yamato Take, one of Japan’s most famous warrior-princes.",
     "file": "The_Story_of_Prince_Yamato_Take.txt"
   },
@@ -2606,7 +2615,7 @@
     "id": 326,
     "title": "Momotaro, or The Story of the Son of a Peach",
     "author": "Yei Theodora Ozaki (reteller)",
-    "genre": "Japanese Heroic Folktale",
+    "genre": "Japanese Folktale",
     "summary": "Born from a peach, Momotaro embarks on a quest with animal friends to defeat ogres and bring peace to his land.",
     "file": "Momotaro_The_Story_of_the_Son_of_a_Peach.txt"
   },
@@ -2638,7 +2647,7 @@
     "id": 330,
     "title": "CHARAN",
     "author": "Im Bang",
-    "genre": "Korean Folktale/Romance",
+    "genre": ["Korean Folktale","Romance"],
     "summary": "A celebrated story of love and devotion from 15th-century Korea. Keydong, a gifted young man, and Charan, a talented dancing girl, share an intense bond, face separation and hardship, and ultimately triumph through perseverance, intellect, and royal favor. Their journey exemplifies unwavering love and the power of destiny.",
     "file": "CHARAN.txt"
   },
@@ -2646,7 +2655,7 @@
     "id": 331,
     "title": "The Story of Chang To-Ryong",
     "author": "Im Bang",
-    "genre": "Korean Folktale/Taoist Legend",
+    "genre": ["Korean Folktale","Legend"],
     "summary": "Chang To-Ryong is a mysterious beggar in Seoul who is later revealed as a major Taoist spirit-man. Blending Korean folklore and Taoist beliefs, the tale explores themes of reincarnation, spirit worlds, and the kindness between a young scholar and a supernatural being.",
     "file": "The Story of Chang To-Ryong.txt"
   },
@@ -2654,7 +2663,7 @@
     "id": 332,
     "title": "A Story of the Fox",
     "author": "Im Bang",
-    "genre": "Korean Folktale/Supernatural",
+    "genre": ["Korean Folktale","Supernatural"],
     "summary": "A Korean official is deceived by a fox-spirit in the guise of a beautiful woman, narrowly escaping death through wisdom and good fortune. The story warns of supernatural trickery and the importance of vigilance against evil spirits.",
     "file": "A Story of the Fox.txt"
   },
@@ -2662,7 +2671,7 @@
     "id": 333,
     "title": "Cheung Puk-Chang, the Seer",
     "author": "Im Bang",
-    "genre": "Korean Folktale/Mysticism",
+    "genre": "Korean Folktale",
     "summary": "Cheung Puk-Chang, revered as one of Korea’s three spirit-men, is renowned for his visions and supernatural insight. His tale describes how spiritual power and pure living create harmony with unseen realms.",
     "file": "Cheung Puk-Chang, the Seer.txt"
   },
@@ -2670,7 +2679,7 @@
     "id": 334,
     "title": "Yun Se-Pyong, the Wizard",
     "author": "Im Bang",
-    "genre": "Korean Folktale/Magic",
+    "genre": ["Korean Folktale","Magic"],
     "summary": "Yun Se-Pyong is a legendary wizard in Korean lore, respected for his magical talents and his role among the three great spirit-men of Chosun. His life and feats demonstrate the influence of mystics in Korean history.",
     "file": "Yun Se-Pyong, the Wizard.txt"
   },
@@ -2678,7 +2687,7 @@
     "id": 335,
     "title": "The Wild-Cat Woman",
     "author": "Im Bang",
-    "genre": "Korean Folktale/Supernatural",
+    "genre": ["Korean Folktale","Supernatural"],
     "summary": "A tale of a mysterious woman who transforms into a wild-cat, representing the dangers of the supernatural and the necessity for courage and wisdom.",
     "file": "The Wild-Cat Woman.txt"
   },
@@ -2686,7 +2695,7 @@
     "id": 336,
     "title": "The Ill-Fated Priest",
     "author": "Im Bang",
-    "genre": "Korean Folktale/Supernatural Tragedy",
+    "genre": ["Korean Folktale","Supernatural"],
     "summary": "A priest's tragic fate is sealed by his inability to overcome supernatural forces and misfortune, illustrating how fate and omens shape human lives in Korean tradition.",
     "file": "The Ill-Fated Priest.txt"
   },
@@ -2694,7 +2703,7 @@
     "id": 337,
     "title": "The Vision of the Holy Man",
     "author": "Im Bang",
-    "genre": "Korean Folktale/Spiritual",
+    "genre": ["Korean Folktale","Spiritual"],
     "summary": "A holy man is granted divine visions and prophecies, leading communities through spiritual wisdom. The story extols the virtue and role of spiritual guides in maintaining harmony with the unseen world.",
     "file": "The Vision of the Holy Man.txt"
   },
@@ -2702,7 +2711,7 @@
     "id": 338,
     "title": "The Visit of the Man of God",
     "author": "Im Bang",
-    "genre": "Korean Folktale/Spiritual Encounter",
+    "genre": ["Korean Folktale","Spiritual"],
     "summary": "The arrival of a mysterious man of God brings blessings and revelations to those who welcome him, demonstrating respect for the supernatural and hospitality toward strangers.",
     "file": "The Visit of the Man of God.txt"
   },
@@ -2710,7 +2719,7 @@
     "id": 339,
     "title": "The Literary Man of Imsil",
     "author": "Im Bang",
-    "genre": "Korean Folktale/Literary Adventure",
+    "genre": ["Korean Folktale","Literary Adventure"],
     "summary": "A scholar of Imsil displays remarkable wit and literary prowess while encountering the supernatural, illustrating how cleverness and artistry bring success and protection.",
     "file": "The Literary Man of Imsil.txt"
   },
@@ -2718,7 +2727,7 @@
     "id": 340,
     "title": "The Soldier of Kang-Wha",
     "author": "Im Bang",
-    "genre": "Korean Folktale/Military Supernatural",
+    "genre": ["Korean Folktale","Supernatural"],
     "summary": "A soldier stationed at Kang-Wha faces trial by supernatural forces and emerges victorious through discipline and courage.",
     "file": "The Soldier of Kang-Wha.txt"
   },
@@ -2726,7 +2735,7 @@
     "id": 341,
     "title": "Cursed by the Snake",
     "author": "Im Bang",
-    "genre": "Korean Folktale/Curse",
+    "genre": ["Korean Folktale","Curse"],
     "summary": "A chilling narrative of a man cursed by a snake he mistreated, causing harm to his family and a lesson of karma and respect for animals.",
     "file": "Cursed by the Snake.txt"
   },
@@ -2734,7 +2743,7 @@
     "id": 342,
     "title": "The Man on the Road",
     "author": "Im Bang",
-    "genre": "Korean Folktale/Journey",
+    "genre": ["Korean Folktale","Journey"],
     "summary": "A wandering traveler encounters a sequence of mystical and threatening events on an isolated road—an allegory for vigilance and faith on life’s journey.",
     "file": "The Man on the Road.txt"
   },
@@ -2742,7 +2751,7 @@
     "id": 343,
     "title": "The Old Man Who Became a Fish",
     "author": "Im Bang",
-    "genre": "Korean Folktale/Transformation",
+    "genre": ["Korean Folktale","Transformation"],
     "summary": "A cautionary tale about an old man transformed into a fish as punishment or result of supernatural interference, reflecting on change and humility.",
     "file": "The Old Man Who Became a Fish.txt"
   },
@@ -2750,7 +2759,7 @@
     "id": 344,
     "title": "The Geomancer",
     "author": "Im Bang",
-    "genre": "Korean Folktale/Geomancy",
+    "genre": "Korean Folktale",
     "summary": "The mysterious and powerful skills of a geomancer affect his life and those of others through the art of divining propitious sites and events.",
     "file": "The Geomancer.txt"
   },
@@ -2758,7 +2767,7 @@
     "id": 345,
     "title": "The Man Who Became a Pig",
     "author": "Im Bang",
-    "genre": "Korean Folktale/Transformation",
+    "genre": ["Korean Folktale","Transformation"],
     "summary": "A humorous but cautionary tale about a man transformed into a pig due to folly or magical intervention, showing the consequences of vice.",
     "file": "The Man Who Became a Pig.txt"
   },
@@ -2766,7 +2775,7 @@
     "id": 346,
     "title": "The Old Woman Who Became a Goblin",
     "author": "Im Bang",
-    "genre": "Korean Folktale/Transformation",
+    "genre": ["Korean Folktale","Transformation"],
     "summary": "A tale of an old woman transformed into a goblin, warning of the dangers that come with greed or disrespect toward mystical powers.",
     "file": "The Old Woman Who Became a Goblin.txt"
   },
@@ -2774,7 +2783,7 @@
     "id": 347,
     "title": "The Grateful Ghost",
     "author": "Im Bang",
-    "genre": "Korean Folktale/Ghost",
+    "genre": ["Korean Folktale","Ghost"],
     "summary": "A grateful spirit helps those who honor the dead, reflecting on respect for ancestors and the unseen aid that virtuous deeds attract.",
     "file": "The Grateful Ghost.txt"
   },
@@ -2782,7 +2791,7 @@
     "id": 348,
     "title": "The Plucky Maiden",
     "author": "Im Bang",
-    "genre": "Korean Folktale/Bravery",
+    "genre": ["Korean Folktale","Bravery"],
     "summary": "A courageous young woman faces supernatural threats with wit and bravery, embodying the empowerment of women in Korean tradition.",
     "file": "The Plucky Maiden.txt"
   },
@@ -2790,7 +2799,7 @@
     "id": 349,
     "title": "The Resourceful Wife",
     "author": "Im Bang",
-    "genre": "Korean Folktale/Resourcefulness",
+    "genre": ["Korean Folktale","Resourcefulness"],
     "summary": "A wife’s cleverness and fortitude save her family during supernatural trials, showing the vital role of women’s resourcefulness in folk tales.",
     "file": "The Resourceful Wife.txt"
   },
@@ -2798,264 +2807,8 @@
     "id": 350,
     "title": "The Boxed-Up Governor",
     "author": "Im Bang",
-    "genre": "Korean Folktale/Comedic Justice",
+    "genre": ["Korean Folktale","Comedic Justice"],
     "summary": "A corrupt official receives poetic justice when tricked and boxed up by the clever commoners he oppressed.",
     "file": "The Boxed-Up Governor.txt"
-  },
-  {
-    "id": 351,
-    "title": "The Man Who Lost His Legs",
-    "author": "Im Bang",
-    "genre": "Korean Folktale/Tragedy",
-    "summary": "A story of a man whose legs are mysteriously lost as a result of supernatural influence or as punishment, reflecting the unpredictable nature of fate in folk beliefs.",
-    "file": "The Man Who Lost His Legs.txt"
-  },
-  {
-    "id": 352,
-    "title": "Ten Thousand Devils",
-    "author": "Im Bang",
-    "genre": "Korean Folktale/Supernatural",
-    "summary": "An allegory about a confrontation with a legion of devils, focusing on themes of courage, temptation, and the resilience of the human spirit in the face of evil.",
-    "file": "Ten Thousand Devils.txt"
-  },
-  {
-    "id": 353,
-    "title": "The Home of the Fairies",
-    "author": "Im Bang",
-    "genre": "Korean Folktale/Fantasy",
-    "summary": "A mortal stumbles upon the hidden abode of fairies, exploring the boundaries between human and supernatural worlds and the price of forbidden knowledge.",
-    "file": "The Home of the Fairies.txt"
-  },
-  {
-    "id": 354,
-    "title": "The Honest Witch",
-    "author": "Im Bang",
-    "genre": "Korean Folktale/Magic",
-    "summary": "A rare tale of a witch who uses her powers for good, offering wisdom and help rather than harm, thus subverting expectations of witchcraft in traditional stories.",
-    "file": "The Honest Witch.txt"
-  },
-  {
-    "id": 355,
-    "title": "Whom the King Honors",
-    "author": "Im Bang",
-    "genre": "Korean Folktale/Loyalty",
-    "summary": "A parable centered on loyalty to the king and the rewards bestowed by authority on the virtuous and faithful.",
-    "file": "Whom the King Honors.txt"
-  },
-  {
-    "id": 356,
-    "title": "The Fortunes of Yoo",
-    "author": "Im Bang",
-    "genre": "Korean Folktale/Fortune",
-    "summary": "The ups and downs of Yoo, a man whose destiny is shaped by supernatural forces, luck, and perseverance.",
-    "file": "The Fortunes of Yoo.txt"
-  },
-  {
-    "id": 357,
-    "title": "An Encounter with a Hobgoblin",
-    "author": "Im Bang",
-    "genre": "Korean Folktale/Supernatural Encounter",
-    "summary": "A man unwittingly meets a mischievous hobgoblin, leading to chaos and lessons in humility, luck, and cleverness.",
-    "file": "An Encounter with a Hobgoblin.txt"
-  },
-  {
-    "id": 358,
-    "title": "The Snake’s Revenge",
-    "author": "Im Bang",
-    "genre": "Korean Folktale/Revenge",
-    "summary": "A vengeful snake takes retribution on a household, warning of the consequences of cruelty to animals.",
-    "file": "The Snake’s Revenge.txt"
-  },
-  {
-    "id": 359,
-    "title": "The Brave Magistrate",
-    "author": "Im Bang",
-    "genre": "Korean Folktale/Bravery",
-    "summary": "A magistrate confronts supernatural threats with courage and wisdom, restoring balance and justice to his district.",
-    "file": "The Brave Magistrate.txt"
-  },
-  {
-    "id": 360,
-    "title": "The Temple to the God of War",
-    "author": "Im Bang",
-    "genre": "Korean Folktale/Mythology",
-    "summary": "The founding of a temple honoring the god of war, describing miracles, rituals, and the martial spirit in Korean tradition.",
-    "file": "The Temple to the God of War.txt"
-  },
-  {
-    "id": 361,
-    "title": "A Visit from the Shades",
-    "author": "Im Bang",
-    "genre": "Korean Folktale/Ghost",
-    "summary": "A mortal receives a visit from the spirits of the dead, resulting in revelations or warnings for the living.",
-    "file": "A Visit from the Shades.txt"
-  },
-  {
-    "id": 362,
-    "title": "The Fearless Captain",
-    "author": "Im Bang",
-    "genre": "Korean Folktale/Heroism",
-    "summary": "A courageous captain overcomes supernatural adversaries, embodying leadership, valor, and the power of belief.",
-    "file": "The Fearless Captain.txt"
-  },
-  {
-    "id": 363,
-    "title": "The King of Yom-na (Hell)",
-    "author": "Im Bang",
-    "genre": "Korean Folktale/Afterlife",
-    "summary": "This tale explores the Buddhist folklore and moral judgments delivered by the king of the underworld, addressing justice after death.",
-    "file": "The King of Yom-na (Hell).txt"
-  },
-  {
-    "id": 364,
-    "title": "Hong’s Experiences in Hades",
-    "author": "Im Bang",
-    "genre": "Korean Folktale/Afterlife",
-    "summary": "Hong narrates his journey through the horrors and lessons of the Korean underworld after death, describing punishments and the hope for redemption.",
-    "file": "Hong’s Experiences in Hades.txt"
-  },
-  {
-    "id": 365,
-    "title": "Haunted Houses",
-    "author": "Im Bang",
-    "genre": "Korean Folktale/Horror",
-    "summary": "A recounting of multiple haunted dwellings, each with its own ghostly backstory and supernatural events.",
-    "file": "Haunted Houses.txt"
-  },
-  {
-    "id": 366,
-    "title": "Im, the Hunter",
-    "author": "Im Bang",
-    "genre": "Korean Folktale/Heroism",
-    "summary": "Im, a skilled hunter, faces supernatural dangers in the wild, showcasing courage, perseverance, and respect for the natural and spiritual world.",
-    "file": "Im, the Hunter.txt"
-  },
-  {
-    "id": 367,
-    "title": "The Magic Invasion of Seoul",
-    "author": "Im Bang",
-    "genre": "Korean Folktale/Magic",
-    "summary": "A tale of magical chaos and heroism as Seoul faces a supernatural invasion, requiring wit and magical prowess to repel the threat.",
-    "file": "The Magic Invasion of Seoul.txt"
-  },
-  {
-    "id": 368,
-    "title": "The Awful Little Goblin",
-    "author": "Im Bang",
-    "genre": "Korean Folktale/Supernatural",
-    "summary": "A troublesome goblin causes chaos until clever humans find a way to outwit him, teaching lessons about cunning and problem-solving.",
-    "file": "The Awful Little Goblin.txt"
-  },
-  {
-    "id": 369,
-    "title": "God’s Way",
-    "author": "Im Bang",
-    "genre": "Korean Folktale/Moral",
-    "summary": "A philosophical narrative about the mysterious workings of heaven and fate, challenging human understanding of the divine.",
-    "file": "God’s Way.txt"
-  },
-  {
-    "id": 370,
-    "title": "The Old Man in the Dream",
-    "author": "Im Bang",
-    "genre": "Korean Folktale/Dream",
-    "summary": "A dream encounter with an aged spirit conveys advice or prophecy, blending the worlds of the living and the spiritual.",
-    "file": "The Old Man in the Dream.txt"
-  },
-  {
-    "id": 371,
-    "title": "The Perfect Priest",
-    "author": "Im Bang",
-    "genre": "Korean Folktale/Religious",
-    "summary": "A priest achieves spiritual enlightenment and utters profound teachings, inspiring all who follow his example.",
-    "file": "The Perfect Priest.txt"
-  },
-  {
-    "id": 372,
-    "title": "The Propitious Magpie",
-    "author": "Im Bang",
-    "genre": "Korean Folktale/Auspicious Animal",
-    "summary": "The appearance of a magpie brings fortune and symbolically guides characters through pivotal moments, celebrating omens in Korean tradition.",
-    "file": "The Propitious Magpie.txt"
-  },
-  {
-    "id": 373,
-    "title": "The ‘Old Buddha’",
-    "author": "Im Bang",
-    "genre": "Korean Folktale/Spiritual",
-    "summary": "A tale centered on the veneration of an old Buddha statue and its miraculous influence in the human realm.",
-    "file": "The Old Buddha.txt"
-  },
-  {
-    "id": 374,
-    "title": "A Wonderful Medicine",
-    "author": "Im Bang",
-    "genre": "Korean Folktale/Healing",
-    "summary": "A miraculous cure appears under mysterious circumstances, blending folk medicine and supernatural assistance.",
-    "file": "A Wonderful Medicine.txt"
-  },
-  {
-    "id": 375,
-    "title": "Faithful Mo",
-    "author": "Im Bang",
-    "genre": "Korean Folktale/Loyalty",
-    "summary": "Mo’s unwavering loyalty to family and friends is tested by supernatural events, serving as a model of perseverance and virtue.",
-    "file": "Faithful Mo.txt"
-  },
-  {
-    "id": 376,
-    "title": "The Renowned Maing",
-    "author": "Im Bang",
-    "genre": "Korean Folktale/Fame",
-    "summary": "Maing’s exploits and renown stem from a blend of human ingenuity and supernatural favor.",
-    "file": "The Renowned Maing.txt"
-  },
-  {
-    "id": 377,
-    "title": "The Senses",
-    "author": "Im Bang",
-    "genre": "Korean Folktale/Philosophical",
-    "summary": "A philosophical reflection on the five senses, using parables to teach wisdom and self-discipline.",
-    "file": "The Senses.txt"
-  },
-  {
-    "id": 378,
-    "title": "Who Decides, God or the King?",
-    "author": "Im Bang",
-    "genre": "Korean Folktale/Philosophical",
-    "summary": "A tale debating the source of real authority: divine power or royal command, using allegorical trials.",
-    "file": "Who Decides, God or the King.txt"
-  },
-  {
-    "id": 379,
-    "title": "Three Things Mastered",
-    "author": "Im Bang",
-    "genre": "Korean Folktale/Wisdom",
-    "summary": "A wise person gains mastery over three important aspects of life, offering instructions for self-betterment and success.",
-    "file": "Three Things Mastered.txt"
-  },
-  {
-    "id": 380,
-    "title": "Strangely Stricken Dead",
-    "author": "Im Bang",
-    "genre": "Korean Folktale/Mystery",
-    "summary": "A mysterious death occurs with supernatural undertones, highlighting the dangers of ignoring omens.",
-    "file": "Strangely Stricken Dead.txt"
-  },
-  {
-    "id": 381,
-    "title": "The Mysterious Hoi Tree",
-    "author": "Im Bang",
-    "genre": "Korean Folktale/Nature",
-    "summary": "The enigmatic hoi tree becomes a focal point for supernatural happenings, revealing the spiritual side of nature.",
-    "file": "The Mysterious Hoi Tree.txt"
-  },
-  {
-    "id": 382,
-    "title": "Ta-Hong",
-    "author": "Im Bang",
-    "genre": "Korean Folktale/Legend",
-    "summary": "The legend of Ta-Hong, a character whose adventures blend heroism and supernatural interventions.",
-    "file": "Ta-Hong.txt"
   }
 ]

@@ -52,7 +52,7 @@ async function loadStories() {
     // document.getElementById("storyCount").textContent = `Showing ${filtered.length} story(s)`;
 
     // Shuffle and pick first 8
-    const selected = filtered.sort(() => 0.5 - Math.random()).slice(0,12);
+    const selected = filtered.sort(() => 0.5 - Math.random()).slice(0,8);
 
     container.innerHTML = "";
 
